@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "number_of_shards": 3,
+    "number_of_replicas": 1,
+    "refresh_interval": "5s"
+  },
+  "mappings": {
+    "properties": {
+      "event_id": {
+        "type": "keyword"
+      },
+      "session_id": {
+        "type": "keyword"
+      },
+      "customer_id": {
+        "type": "keyword"
+      },
+      "event_timestamp": {
+        "type": "date",
+        "format": "yyyy-MM-dd HH:mm:ss"
+      },
+      "event_type": {
+        "type": "keyword"
+      },
+      "product_id": {
+        "type": "keyword"
+      },
+      "order_id": {
+        "type": "keyword"
+      },
+      "device_type": {
+        "type": "keyword"
+      },
+      "browser": {
+        "type": "keyword"
+      },
+      "traffic_source": {
+        "type": "keyword"
+      },
+      "dwell_time_seconds": {
+        "type": "float"
+      },
+      "is_bounce": {
+        "type": "boolean"
+      },
+      "is_guest": {
+        "type": "boolean"
+      }
+    }
+  }
+}

@@ -1,0 +1,1556 @@
+product_id,product_name,category,subcategory,brand,unit_price_ghs,cost_price_ghs,launch_date,stock_quantity,avg_rating,is_active
+PRD01369,Dell Laptop 774,Computing,Laptops,Dell,2042.34,1725.28,2024-02-21,586,4.41,True
+PRD00169,Woodin Footwear 177,Fashion,Footwear,Unilever,559.58,464.09,2023-01-01,256,4.79,True
+PRD00354,Tecno Furniture 288,Home & Kitchen,Furniture,Nasco,221.02,152.1,2024-12-23,334,3.47,True
+PRD00469,Fan Milk Printer 508,Computing,Printers,Apple,496.97,325.07,2022-07-20,15,4.2,True
+PRD01410,itel Haircare 990,Health & Beauty,Haircare,Unilever,553.08,343.15,2022-09-21,148,4.29,True
+PRD01273,Midea Footwear 573,Fashion,Footwear,Generic,200.41,136.24,2024-05-05,207,3.63,True
+PRD00060,Nasco Power Bank 276,Phones & Tablets,Power Banks,Unilever,1919.97,1230.34,2022-02-11,857,3.04,True
+PRD00416,Nivea Small Appliance 709,Electronics,Small Appliances,Apple,127.46,112.07,2024-02-20,274,3.75,True
+PRD00716,Samsung Monitor 229,Computing,Monitors,Generic,674.39,517.25,08/06/2024,272,3.91,True
+PRD00355,Lenovo Men's Clothing 892,Fashion,Men's Clothing,Generic,872.5,480.95,2023-05-15,380,4.4,True
+PRD00031,Woodin Snack 531,Groceries,Snacks,Puma,29.87,16.63,2022-08-28,271,,True
+PRD01280,Tecno Furniture 829,Home & Kitchen,Furniture,Midea,1275.6,850.71,2022-05-11,571,4.02,False
+PRD00859,Woodin Footwear 909,Fashion,Footwear,itel,428.27,322.76,24/11/2022,99,4.76,True
+PRD01420,GTP Textbook 715,BOOKS & STATIONERY,Textbooks,HP,187.74,122.16,2022-07-28,34,4.47,False
+PRD00652,Adidas Sportswear 125,Sports & Fitness,Sportswear,itel,37.48,32.82,11/09/2024,729,3.92,True
+PRD01297,Fan Milk Tablet 847,Phones & Tablets,Tablets,Lenovo,4143.99,2564.22,"December 30, 2022",106,3.01,True
+PRD00375,Woodin Printer 802,Computing,Printers,Nestle,8566.07,5471.35,07/11/2024,384,3.95,True
+PRD00352,Apple Monitor 162,Computing,Monitors,itel,537.67,396.48,"February 10, 2023",858,4.21,True
+PRD00862,Tecno Pantry 384,Groceries,Pantry,Puma,13.55,,17/04/2023,604,4.3,True
+PRD00980,Unilever Printer 481,Computing,Printers,Dell,4321.83,2610.33,01/11/2023,380,5.0,True
+PRD00959,itel Cookware 234,Home & Kitchen,Cookware,Nasco,2725.18,1808.61,2023-05-17,187,3.98,True
+PRD01369,Dell Laptop 774,Computing,Laptops,Dell,2348.69,1725.28,2024-02-21,586,4.41,True
+PRD00983,Nivea Snack 895,Groceries,Snacks,Woodin,108.22,60.14,2023-09-15,453,4.25,True
+PRD00635,Lenovo Smartphone 574,Phones & Tablets,Smartphones,Lenovo,930.27,804.64,2024-05-15,576,,False
+PRD00163,GTP Television 842,Electronics,Televisions,Fan Milk,282.59,181.85,2022-01-06,517,4.3,True
+PRD00381,Generic Cleaning 327,Home & Kitchen,Cleaning,Hisense,822.07,453.31,2022-11-08,710,3.77,True
+PRD00241,Tecno Baby Care 229,Baby Products,Baby Care,itel,GHS 292.24,173.84,2023-04-09,259,3.68,False
+PRD00275,Dell Skincare 709,Health & Beauty,Skincare,Tecno,26.49,18.69,2022-05-18,790,4.28,True
+PRD00262,Samsung Toy 268,Baby Products,,HP,48.96,37.16,2023-12-31,472,4.11,True
+PRD00567,Nasco Household 928,Groceries,Household,Nasco,83.93,70.31,2024-09-17,405,4.6,True
+PRD00788,Unilever Footwear 641,Fashion,Footwear,Nasco,649.82,571.64,2024-03-14,188,5.0,True
+PRD00125,Lenovo Tablet 788,Phones & Tablets,Tablets,Midea,581.38,453.01,2022-05-26,328,4.33,True
+PRD01008,Adidas Footwear 496,Fashion,Footwear,Adidas,473.96,354.49,2024-05-21,472,3.79,True
+PRD00333,Nestle Haircare 356,Health & Beauty ,Haircare,Hisense,69.01,50.02,"October 07, 2024",395,4.76,False
+PRD00590,Midea Phone Accessorie 262,Phones & Tablets,Phone Accessories,Nivea,2308.81,1995.1,2024-06-30,352,4.28,True
+PRD00515,GTP Footwear 774,Fashion,Footwear,Fan Milk,61.13,41.45,2023-12-25,842,3.68,True
+PRD00713,Hisense Diaper 926,Baby Products,Diapers,Woodin,194.87,100.05,2024-05-28,36,4.39,False
+PRD00900,Nivea Cleaning 410,Home & Kitchen,Cleaning,Nestle,120.57,84.06,2023-11-28,875,3.04,True
+PRD01484,Fan Milk Camera 955,Electronics,Cameras,Fan Milk,2451.86,1565.29,2022-05-04,171,,True
+PRD00797,Unilever Phone Accessorie 918,Phones & Tablets,Phone Accessories,Kasapreko,3621.93,2268.12,2024-11-24,237,3.33,True
+PRD00066,Tecno Cleaning 943,Home & Kitchen,Cleaning,Unilever,1666.08,1128.66,22/07/2023,375,4.61,True
+PRD00142,Unilever Cleaning 273,Home & Kitchen,Cleaning,Tecno,2859.45,2136.85,2022-02-03,830,4.09,True
+PRD00812,Infinix Phone Accessorie 804,Phones & Tablets,Phone Accessories,Kasapreko,4286.4,2775.09,2024-09-24,336,3.22,False
+PRD00915,Dell Fiction 868,Books & Stationery,Fiction,GTP,110.65,82.98,2022-03-02,518,4.88,True
+PRD00695,Nasco Outdoor 326,Sports & Fitness,Outdoor,Hisense,111.14,65.68,"July 13, 2022",416,3.67,True
+PRD00863,Kasapreko Snack 591,Groceries,Snacks,Hisense,189.52,148.07,2023-02-21,768,3.94,True
+PRD00248,itel Footwear 317,Fashion,Footwear,,GHS 53.82,30.42,2024-04-10,319,3.7,True
+PRD01202,Puma Cookware 109,Home & Kitchen,Cookware,Midea,GHS 105.51,82.94,2022-10-28,690,3.66,True
+PRD00353,Nasco Bedding 917,Home & Kitchen,Bedding,Tecno,36.46,29.65,2023-01-15,125,3.51,True
+PRD00919,Dell Television 971,Electronics,Televisions,Nestle,414.24,240.91,2022-11-30,552,4.12,False
+PRD00807,Lenovo Haircare 119,Health & Beauty,Haircare,Adidas,123.15,75.94,2024-10-27,375,3.38,True
+PRD01432,Kasapreko Supplement 371,Health & Beauty,Supplements,Generic,73.58,59.8,2024-03-04,647,3.19,True
+PRD00174,Nasco Supplement 463,Sports & Fitness,Supplements,Samsung,277.74,153.59,2023-09-24,500,3.95,True
+PRD01214,Midea Women's Clothing 943,Fashion,Women's Clothing,Midea,368.6,303.7,2022-07-15,280,3.05,True
+PRD01302,Generic Bedding 910,Home & Kitchen,Bedding,Hisense,"GHS 2,060.47",1440.75,2022-11-01,628,3.77,True
+PRD00004,Nivea Haircare 252,Health & Beauty,Haircare,Kasapreko,389.43,,2022-06-27,157,4.53,True
+PRD00781,Nasco Small Appliance 662,Electronics,Small Appliances,Generic,3573.12,2312.87,15/11/2024,869,3.84,True
+PRD00614,Apple Office Supplie 794,Books & Stationery,Office Supplies,GTP,146.06,94.54,2023-11-24,56,4.07,True
+PRD01261,HP Phone Accessorie 436,Phones & Tablets,Phone Accessories,Apple,,2785.74,2024-03-22,-5,3.66,True
+PRD00552,GTP Laptop 540,Computing,Laptops,Generic,961.36,799.89,2022-07-11,27,4.63,True
+PRD00430,Infinix Snack 877,Groceries,Snacks,Hisense,22.49,16.59,2023-02-23,686,3.57,True
+PRD00793,Tecno Men's Clothing 893,Fashion,Men's Clothing,Fan Milk,118.95,72.87,2023-06-07,852,3.29,True
+PRD00024,Nestle Supplement 453,Sports & Fitness,Supplements,Adidas,957.06,775.59,2023-02-26,765,2.76,True
+PRD01133,Midea Tablet 396,Phones & Tablets,Tablets,Midea,,356.72,2023-03-06,720,4.44,True
+PRD01173,Unilever Audio 265,Electronics,Audio,HP,6942.46,5425.64,2022-08-06,893,4.22,False
+PRD00050,Nestle Monitor 376,Computing,Monitors,Dell,999.48,667.94,2024-02-18,683,2.99,True
+PRD01407,Hisense Textbook 393,Books & Stationery,Textbooks,Nestle,90.46,71.02,2023-07-05,173,4.29,True
+PRD00100,GTP Textbook 365,Books & Stationery,Textbooks,Midea,GHS 12.83,9.12,2024-10-17,596,3.58,True
+PRD01115,Infinix Fiction 771,Books & Stationery,Fiction,Nivea,122.04,88.47,2023-08-08,468,,False
+PRD01170,Adidas Phone Accessorie 619,Phones & Tablets,Phone Accessories,GTP,3057.88,2072.74,30/06/2023,363,3.41,True
+PRD00501,Nivea Snack 778,Groceries,Snacks,Nasco,16.17,10.35,2024-10-23,262,4.0,True
+PRD00583,Hisense Smartphone 469,PHONES & TABLETS,Smartphones,Dell,1041.8,705.79,2023-03-01,712,4.36,False
+PRD00968,Fan Milk Storage 769,Computing,Storage,Samsung,9946.83,7246.16,2023-08-23,619,,True
+PRD01213,Apple Cookware 414,Home & Kitchen,Cookware,Adidas,31.06,25.68,2022-04-11,92,4.14,True
+PRD01454,Lenovo Fiction 911,Books & Stationery,Fiction,Tecno,110.67,74.96,2022-01-12,85,,True
+PRD01156,HP Smartphone 890,Phones & Tablets,Smartphones,Nestle,5298.59,3447.66,2023-09-20,210,3.52,True
+PRD00272,Apple Monitor 833,Computing,Monitors,GTP,8521.3,5029.81,"October 06, 2023",464,4.06,True
+PRD00523,Fan Milk Monitor 324,Computing,Monitors,Infinix,1158.97,734.47,2022-05-08,298,3.47,True
+PRD00200,Nestle Bag 493,Fashion,Bags,Adidas,136.92,103.14,2024-01-30,134,4.71,True
+PRD01158,Fan Milk Power Bank 944,Phones & Tablets,Power Banks,Nasco,3003.15,1948.34,2024-12-16,324,3.48,True
+PRD00830,Dell Audio 588,Electronics,Audio,HP,6659.51,4254.54,2024-07-02,871,4.29,True
+PRD00680,Samsung Women's Clothing 161,Fashion,Women's Clothing,Nasco,38.34,27.9,2023-02-23,534,3.9,False
+PRD00765,HP Sportswear 530,Sports & Fitness,Sportswear,Nestle,296.04,256.27,2022-12-24,507,3.62,True
+PRD00383,Adidas Pantry 922,GROCERIES,Pantry,Infinix,128.58,108.73,2024-07-02,62,3.4,True
+PRD00238,Unilever Beverage 159,Groceries,Beverages,itel,86.2,73.12,"May 18, 2023",68,3.43,True
+PRD00240,Samsung Phone Accessorie 782,Phones & Tablets,Phone Accessories,Midea,1110.1,633.63,2022-07-20,442,3.6,False
+PRD00052,Midea Phone Accessorie 107,Phones & Tablets,Phone Accessories,Generic,1453.83,802.71,2024-09-03,474,3.91,True
+PRD00071,HP Small Appliance 778,Electronics,Small Appliances,Fan Milk,163.22,118.03,2024-07-31,256,3.07,True
+PRD01399,HP Furniture 690,Home & Kitchen,Furniture,itel,313.61,187.0,2024-06-08,306,4.27,False
+PRD00077,Infinix Camera 391,Electronics,Cameras,Samsung,3523.85,2005.09,2022-01-20,541,4.1,True
+PRD00994,Samsung Small Appliance 560,Electronics,Small Appliances,Woodin,407.25,,2023-08-19,404,3.88,True
+PRD01103,Kasapreko Beverage 105,Groceries,Beverages,Hisense,120.41,67.77,2022-04-19,444,,True
+PRD00860,Samsung Bedding 652,Home & Kitchen,Bedding,Apple,GHS 130.01,73.16,2023-12-29,740,4.08,True
+PRD00579,itel Baby Food 665,Baby Products,Baby Food,Infinix,616.66,468.62,12/03/2024,157,3.45,True
+PRD00931,HP Camera 510,Electronics,Cameras,Samsung,-49.99,1064.11,2022-11-19,779,3.95,True
+PRD01356,Infinix Smartphone 468,Phones & Tablets,Smartphones,Adidas,2109.34,1556.35,2022-12-15,868,4.24,True
+PRD00136,Dell Tablet 410,Phones & Tablets,Tablets,Nestle,1456.61,1000.53,2023-02-18,648,4.2,True
+PRD01001,Generic Phone Accessorie 147,Phones & Tablets,Phone Accessories,GTP,798.6,666.88,2024-11-22,738,3.74,True
+PRD00768,Dell Power Bank 495,Phones & Tablets,Power Banks,Nestle,464.51,315.48,2024-03-03,560,4.67,False
+PRD00317,Lenovo Footwear 708,Fashion,Footwear,GTP,278.08,197.46,"July 22, 2024",388,4.79,True
+PRD00498,Samsung Haircare 540,Health & Beauty,Haircare,HP,351.37,227.6,2023-01-05,535,3.48,True
+PRD01182,Infinix Power Bank 591,Phones & Tablets,Power Banks,Nasco,GHS 204.19,176.66,2024-05-13,547,3.92,True
+PRD00819,Generic Fragrance 861,Health & Beauty,Fragrance,Woodin,384.11,313.05,2022-01-27,540,3.85,True
+PRD01025,Apple Supplement 704,Health & Beauty,Supplements,Samsung,GHS 50.05,43.86,2024-09-08,713,3.05,True
+PRD00368,Lenovo Supplement 363,Health & Beauty,Supplements,Fan Milk,58.61,46.27,2024-09-06,278,4.21,True
+PRD00124,Puma Men's Clothing 786,Fashion,Men's Clothing,Midea,GHS 303.48,198.44,2022-07-06,376,5.0,True
+PRD00245,Unilever Supplement 328,Health & Beauty,Supplements,,25.74,16.3,2023-03-02,11,4.19,True
+PRD00535,GTP Phone Accessorie 450,Phones & Tablets,Phone Accessories,Midea,1004.29,863.18,19/11/2024,723,4.06,True
+PRD00221,Generic Television 711,Electronics,Televisions,Adidas,GHS 878.11,586.55,2022-08-17,223,4.0,True
+PRD01224,itel Fragrance 807,health & beauty,Fragrance,Infinix,93.81,61.9,2024-06-25,134,4.13,True
+PRD00186,Woodin Supplement 647,Health & Beauty,Supplements,Tecno,596.09,427.69,2023-08-24,536,3.59,True
+PRD00723,Nivea Smartphone 421,Phones & Tablets,Smartphones,Lenovo,1820.71,1237.88,2024-04-26,562,4.55,True
+PRD01106,Lenovo Snack 756,Groceries,Snacks,Kasapreko,237.28,199.95,2024-05-06,765,3.87,True
+PRD01062,Hisense Skincare 258,Health & Beauty,Skincare,,95.27,73.47,2022-12-17,427,2.87,True
+PRD01102,Tecno Bag 789,Fashion,Bags,Adidas,459.06,313.51,2022-09-12,104,4.29,True
+PRD00608,Fan Milk Tablet 715,Phones & Tablets,Tablets,Dell,5090.02,3689.77,2022-02-28,322,2.95,True
+PRD00068,Generic Small Appliance 972,Electronics,Small Appliances,itel,2843.38,2155.95,14/11/2023,197,,True
+PRD01129,Tecno Skincare 464,Health & Beauty,Skincare,Nasco,19.57,11.78,2024-02-23,543,3.81,True
+PRD00030,Nestle Haircare 299,Health & Beauty,Haircare,Tecno,86.17,47.77,2023-03-16,371,4.05,True
+PRD00715,Lenovo Beverage 780,Groceries,Beverages,Nasco,99.26,66.02,2023-12-24,273,4.49,True
+PRD00536,Unilever Small Appliance 567,Electronics,Small Appliances,Nasco,745.0,550.71,"January 08, 2022",585,3.73,True
+PRD00421,Generic Fragrance 396,Health & Beauty,Fragrance,Nivea,167.06,110.6,2024-04-17,300,,True
+PRD00702,Tecno Women's Clothing 308,Fashion,Women's Clothing,Dell,GHS 37.66,31.72,12/08/2024,420,4.01,True
+PRD00204,Kasapreko Monitor 407,Computing,Monitors,Kasapreko,2626.44,1994.75,2023-06-16,-20,4.33,True
+PRD01125,Nivea Women's Clothing 282,Fashion,Women's Clothing,Kasapreko,69.48,44.14,2023-12-18,508,4.91,True
+PRD01471,Tecno Outdoor 890,Sports & Fitness,Outdoor,Unilever,52.56,42.6,2024-09-26,397,3.92,True
+PRD00576,HP Furniture 696,Home & Kitchen,Furniture,Nivea,25.13,14.14,2024-12-16,538,4.76,True
+PRD00417,Nasco Laptop 588,Computing,Laptops,itel,2666.08,2012.47,2023-04-17,124,,False
+PRD00545,Hisense Storage 865,Computing,Storage,Puma,GHS 412.74,276.83,2023-12-13,37,3.93,True
+PRD00679,Infinix Monitor 747,Computing,Monitors,Lenovo,,237.36,2023-11-22,754,3.33,True
+PRD01056,Lenovo Supplement 340,Health & Beauty,Supplements,Apple,35.64,27.03,2024-03-14,558,3.72,True
+PRD01215,Infinix Television 853,Electronics,Televisions,Puma,6529.94,5397.41,2024-05-17,585,3.36,True
+PRD00909,Woodin Television 213,Electronics,Televisions,Midea,"GHS 7,924.27",4493.26,20/08/2023,26,3.42,True
+PRD00260,Tecno Cookware 974,Home & Kitchen,Cookware,Lenovo,,101.94,2022-08-08,636,3.59,True
+PRD01048,itel Beverage 450,Groceries,Beverages,Nivea,12.75,8.71,2023-03-09,165,3.99,True
+PRD00176,Puma Phone Accessorie 277,Phones & Tablets,Phone Accessories,Nivea,181.76,142.03,2024-11-25,300,3.79,True
+PRD01344,Dell Cleaning 662,Home & Kitchen,Cleaning,Unilever,GHS 46.09,28.62,2022-03-09,339,4.45,True
+PRD00905,Kasapreko Textbook 266,Books & Stationery,Textbooks,Unilever,75.22,45.35,2022-04-06,435,3.98,True
+PRD00835,Infinix Pantry 614,Groceries,Pantry,Apple,20.69,13.73,2022-10-29,693,4.16,True
+PRD00602,Woodin Snack 704,Groceries,Snacks,Puma,GHS 9.98,8.56,01/01/2022,720,4.09,True
+PRD00943,Adidas Printer 313,Computing,Printers,Dell,2571.07,1979.7,2023-12-30,652,4.06,True
+PRD00199,Generic Storage 589,Computing,Storage,Generic,2928.53,1987.31,2022-10-18,79,4.59,True
+PRD00683,Puma Tablet 869,Phones & Tablets,Tablets,Adidas,2378.42,1364.23,2022-02-23,891,4.03,True
+PRD01117,Dell Monitor 680,Computing,Monitors,Hisense,2267.06,1562.17,2024-06-17,48,4.03,True
+PRD00665,Nivea Men's Clothing 350,Fashion,Men's Clothing,Puma,105.95,73.29,2022-06-13,587,3.11,True
+PRD01468,Nasco Camera 871,Electronics,Cameras,Lenovo,4565.51,2564.87,05/05/2022,839,,True
+PRD00753,Dell Television 619,Electronics,Televisions,Nestle,1722.04,1480.82,2024-09-30,454,4.66,True
+PRD00382,Generic Outdoor 264,Sports & Fitness,Outdoor,Fan Milk,541.14,315.7,05/09/2022,114,3.6,True
+PRD00310,HP Storage 133,Computing,Storage,,2855.61,2233.76,22/03/2022,711,4.02,True
+PRD00533,Nestle Footwear 733,Fashion,Footwear,Lenovo,63.64,53.74,2023-01-31,508,3.94,True
+PRD00412,Fan Milk Supplement 209,Health & Beauty,Supplements,Fan Milk,128.38,104.46,2024-03-17,467,,True
+PRD00530,Dell Women's Clothing 647,Fashion,,Samsung,150.26,113.63,2023-12-29,263,4.64,True
+PRD01345,Adidas Fiction 482,Books & Stationery,Fiction,Adidas,57.55,42.01,2024-02-21,863,4.74,True
+PRD00440,Kasapreko Fragrance 482,Health & Beauty,Fragrance,Adidas,255.96,182.53,2024-10-14,579,4.08,True
+PRD01296,Woodin Women's Clothing 373,Fashion,Women's Clothing,Lenovo,153.36,123.43,2024-10-12,63,3.93,True
+PRD00045,Dell Diaper 397,Baby Products,Diapers,Lenovo,27.54,22.21,2022-07-01,668,3.8,True
+PRD00482,Dell Audio 932,Electronics,Audio,Unilever,576.38,478.73,18/09/2022,542,4.25,True
+PRD01094,Puma Audio 140,Electronics,Audio,Apple,"GHS 8,905.04",6403.57,2023-04-08,696,3.89,True
+PRD00949,Nasco Outdoor 712,Sports & Fitness,Outdoor,Dell,87.17,66.79,2023-04-16,497,3.6,True
+PRD00701,Nasco Audio 206,Electronics,Audio,HP,5315.45,3465.68,2023-02-19,-5,4.31,True
+PRD01112,HP Bag 487,Fashion,Bags,Samsung,77.51,53.63,2022-08-25,418,3.07,True
+PRD00395,Woodin Phone Accessorie 524,Phones & Tablets,Phone Accessories,Apple,2718.36,1496.66,"August 14, 2024",726,3.46,True
+PRD00116,Lenovo Toy 655,Baby Products,Toys,Generic,GHS 181.69,106.04,2022-07-07,70,4.13,True
+PRD00597,Samsung Supplement 966,Health & Beauty,Supplements,Woodin,19.41,15.83,2024-09-08,802,4.19,True
+PRD00185,Fan Milk Pantry 173,Groceries,Pantry,Unilever,240.25,144.3,2023-06-01,564,3.83,True
+PRD01171,Samsung Footwear 673,Fashion,Footwear,Tecno,170.59,135.22,2023-03-07,761,3.91,True
+PRD00304,Nestle Cleaning 777,Home & Kitchen,Cleaning,Generic,63.86,53.95,2023-06-13,538,4.36,True
+PRD00844,Infinix Men's Clothing 728,Fashion,Men's Clothing,Apple,66.53,52.34,2024-07-16,673,4.31,True
+PRD00340,Kasapreko Sportswear 303,Sports & Fitness,Sportswear,Samsung,233.16,130.2,2023-04-07,888,3.47,True
+PRD00276,Nivea Footwear 502,Fashion,Footwear,Midea,213.98,,02/10/2022,68,3.76,True
+PRD00079,itel Bedding 270,Home & Kitchen,Bedding,Samsung,131.72,72.98,2024-10-08,407,4.7,True
+PRD00345,Nivea Household 539,Groceries,Household,Nasco,77.69,57.33,2022-05-26,780,5.0,True
+PRD01434,Lenovo Laptop 279,Computing,Laptops,Generic,2675.46,1619.37,2022-11-16,290,4.31,True
+PRD01347,Generic Bag 261,Fashion,Bags,Apple,759.37,529.15,2023-11-29,888,4.67,True
+PRD00343,Nivea Beverage 187,Groceries,Beverages,GTP,29.02,19.14,2023-08-16,793,4.15,True
+PRD01104,Unilever Diaper 457,Baby Products,Diapers,Nestle,113.59,86.3,28/06/2024,745,4.8,True
+PRD00562,Adidas Television 438,Electronics,Televisions,GTP,234.88,196.68,2024-07-10,736,4.78,True
+PRD00016,Midea Small Appliance 104,Electronics,Small Appliances,Lenovo,7721.71,6120.87,2022-01-13,389,,True
+PRD00052,Midea Phone Accessorie 107,Phones & Tablets,Phone Accessories,Generic,1671.9,802.71,2024-09-03,474,3.91,True
+PRD00463,Samsung Textbook 455,Books & Stationery,Textbooks,Puma,51.29,34.69,2022-03-28,99,3.4,True
+PRD00429,itel Power Bank 775,Phones & Tablets,Power Banks,Unilever,2712.24,,2022-08-30,464,4.02,True
+PRD01373,itel Men's Clothing 417,Fashion,Men's Clothing,Fan Milk,101.16,79.26,24/09/2024,23,3.92,True
+PRD01279,Dell Baby Food 502,Baby Products,Baby Food,Lenovo,25.59,18.43,2022-10-02,177,4.16,True
+PRD01260,Generic Fiction 139,Books & Stationery,Fiction,Dell,10.69,6.05,2022-01-30,754,3.84,True
+PRD01419,Dell Outdoor 713,Sports & Fitness,Outdoor,Puma,GHS 538.18,422.14,2024-11-09,660,3.81,True
+PRD00923,Puma Fragrance 473,Health & Beauty,Fragrance,Puma,331.16,186.69,2023-10-28,399,3.87,True
+PRD00620,Adidas Phone Accessorie 963,Phones & Tablets,Phone Accessories,Woodin,395.49,334.97,2022-12-15,895,3.22,False
+PRD01488,Apple Footwear 912,Fashion,Footwear,Lenovo,145.23,86.83,2023-12-23,74,3.97,True
+PRD00585,Tecno Sportswear 578,Sports & Fitness,Sportswear,Nivea,1587.23,919.9,2023-09-17,500,4.2,True
+PRD01076,Generic Women's Clothing 447,Fashion,Women's Clothing,Unilever,125.39,106.65,2024-12-09,827,4.49,True
+PRD00591,HP Gym Equipment 791,Sports & Fitness,Gym Equipment,Unilever,GHS 471.24,379.31,2022-07-10,73,3.83,True
+PRD00630,Woodin Snack 317,Groceries,Snacks,Hisense,116.11,68.89,2023-05-26,419,4.02,True
+PRD00367,Dell Snack 832,Groceries,Snacks,Dell,14.6,12.71,2023-09-08,584,3.3,True
+PRD00843,Unilever Cookware 500,Home & Kitchen,Cookware,Nasco,646.41,390.6,28/08/2024,789,5.0,True
+PRD00951,Kasapreko Bedding 274,Home & Kitchen,Bedding,Tecno,466.71,327.59,2022-02-02,804,4.05,True
+PRD01058,Samsung Audio 655,Electronics,Audio,Lenovo,531.03,390.15,2024-03-31,673,4.82,True
+PRD00480,Nestle Bag 458,Fashion,Bags,Nasco,GHS 50.89,39.86,2024-05-21,398,4.19,True
+PRD00529,Adidas Pantry 908,Groceries,Pantry,Lenovo,10.28,8.8,2022-05-21,220,5.0,True
+PRD01322,Fan Milk Women's Clothing 802,Fashion,Women's Clothing,Nestle,GHS 168.92,122.73,16/03/2023,233,4.84,True
+PRD00057,Hisense Bag 901,Fashion,Bags,Midea,GHS 62.18,41.26,2022-12-08,58,,True
+PRD00074,Lenovo Television 341,Electronics,Televisions,Midea,GHS 717.99,508.18,2023-09-21,28,4.98,True
+PRD00561,Lenovo Smartphone 430,Phones & Tablets,Smartphones,Fan Milk,"GHS 1,906.56",1409.16,2024-03-15,82,3.51,True
+PRD00722,Lenovo Footwear 785,Fashion,Footwear,Apple,329.27,227.25,2023-02-17,554,3.95,True
+PRD01205,Apple Phone Accessorie 160,Phones & Tablets ,Phone Accessories,Lenovo,2600.58,2173.23,2024-08-22,301,5.0,True
+PRD00362,GTP Power Bank 904,Phones & Tablets,Power Banks,Lenovo,700.44,426.49,2023-06-13,678,4.03,True
+PRD00044,Nestle Men's Clothing 655,Fashion ,Men's Clothing,Kasapreko,GHS 54.27,35.34,"April 27, 2023",614,3.47,True
+PRD01241,Nasco Baby Food 780,Baby Products,Baby Food,Samsung,GHS 51.82,39.47,2023-07-09,375,4.04,True
+PRD01152,Tecno Gym Equipment 989,Sports & Fitness,Gym Equipment,GTP,80.98,49.22,2023-12-25,768,4.46,True
+PRD00926,Infinix Audio 697,Electronics,Audio,Adidas,GHS 949.71,762.96,2022-01-01,503,,True
+PRD01354,Fan Milk Small Appliance 627,Electronics,Small Appliances,Nestle,201.38,123.56,2022-08-26,304,4.02,True
+PRD00102,Infinix Fragrance 382,Health & Beauty,Fragrance,Puma,GHS 599.48,437.46,2024-03-25,434,4.38,True
+PRD00434,Generic Baby Food 571,Baby Products,Baby Food,Midea,123.48,94.18,2022-11-18,882,4.03,True
+PRD00603,Hisense Supplement 236,Sports & Fitness,Supplements,Midea,1651.9,1290.83,2023-03-20,797,3.66,True
+PRD00108,Woodin Small Appliance 338,Electronics,Small Appliances,Generic,616.0,422.65,07/02/2024,469,3.8,True
+PRD00655,Infinix Diaper 258,Baby Products,Diapers,Generic,,132.02,2022-10-26,337,3.71,True
+PRD01088,Dell Beverage 469,Groceries,Beverages,Kasapreko,60.4,52.64,2024-09-03,446,4.05,True
+PRD00760,Apple Bag 812,Fashion,Bags,Generic,260.69,207.26,2024-03-10,360,,False
+PRD00862,Tecno Pantry 384,Groceries,Pantry,Puma,11.78,,17/04/2023,604,4.3,True
+PRD01254,Generic Supplement 461,Health & Beauty,Supplements,Unilever,37.03,25.58,2022-03-23,494,3.63,True
+PRD00969,Midea Cookware 993,Home & Kitchen,Cookware,Kasapreko,25.3,19.39,2024-07-23,353,3.39,True
+PRD01141,Unilever Bag 721,Fashion,Bags,itel,,184.56,"August 12, 2023",650,3.15,True
+PRD01030,Adidas Women's Clothing 198,Fashion,Women's Clothing,Infinix,871.93,663.94,2022-02-20,326,4.9,True
+PRD00690,Puma Bedding 400,Home & Kitchen,Bedding,Lenovo,2195.12,1293.66,2023-10-06,255,3.96,True
+PRD00129,Infinix Phone Accessorie 299,Phones & Tablets,Phone Accessories,Woodin,1318.75,900.93,2022-12-03,677,4.16,True
+PRD00298,Adidas Pantry 202,Groceries,Pantry,Apple,125.9,94.57,2022-10-04,701,4.3,True
+PRD00621,Midea Household 856,Groceries,Household,Unilever,9.29,5.66,2023-01-05,462,4.49,True
+PRD01337,Nasco Storage 228,Computing,Storage,HP,2050.24,1229.17,2022-09-10,54,3.5,True
+PRD01494,GTP Snack 438,Groceries,Snacks,Woodin,27.84,23.17,2023-05-05,53,3.69,True
+PRD01193,itel Sportswear 931,Sports & Fitness,Sportswear,GTP,"GHS 1,793.57",1552.31,2023-12-03,590,3.43,True
+PRD01164,Fan Milk Storage 439,Computing,Storage,Adidas,10577.28,5832.27,2022-07-29,783,3.74,True
+PRD00483,GTP Cookware 857,Home & Kitchen,Cookware,Dell,42.85,27.88,2023-01-28,899,5.0,True
+PRD00629,Infinix Cleaning 597,Home & Kitchen,Cleaning,Nivea,2888.94,2442.36,2023-05-05,245,,True
+PRD00290,GTP Tablet 980,Phones & Tablets,Tablets,Samsung,"GHS 1,022.75",883.58,2024-12-04,426,4.44,True
+PRD00507,Infinix Bag 150,Fashion,Bags,Nivea,496.51,391.92,20/11/2022,494,3.13,False
+PRD00705,itel Television 108,Electronics,Televisions,Kasapreko,2361.32,1712.78,2023-11-28,684,3.58,True
+PRD00405,Apple Art 116,Books & Stationery,Art,Infinix,199.63,167.28,2022-12-13,511,3.58,True
+PRD01000,Nivea Television 998,Electronics,Televisions,Nivea,6615.51,5466.21,2024-12-03,95,2.71,True
+PRD01489,Infinix Gym Equipment 140,Sports & Fitness,Gym Equipment,Apple,887.78,720.38,2023-10-21,160,4.03,True
+PRD00414,Samsung Outdoor 913,Sports & Fitness,Outdoor,Unilever,100.41,,2023-05-07,827,4.06,True
+PRD00922,Tecno Baby Care 287,Baby Products,Baby Care,itel,23.42,15.69,11/07/2023,472,3.95,True
+PRD00332,Fan Milk Camera 216,Electronics,Cameras,Hisense,-49.99,997.81,2022-08-02,842,3.11,True
+PRD00033,Apple Footwear 835,Fashion,Footwear,Puma,41.87,32.03,2022-09-29,27,3.97,True
+PRD00712,GTP Haircare 327,Health & Beauty,Haircare,Lenovo,15.69,11.52,2024-06-14,336,3.04,True
+PRD00539,Fan Milk Storage 784,Computing,Storage,Generic,GHS 578.02,369.15,2024-01-08,272,2.89,True
+PRD00423,itel Power Bank 998,Phones & Tablets,Power Banks,Generic,325.92,,2022-04-22,211,4.3,True
+PRD00484,Lenovo Women's Clothing 280,Fashion,Women's Clothing,Apple,83.75,54.58,2024-10-30,198,4.01,True
+PRD01118,Nasco Pantry 100,Groceries,Pantry,Dell,70.02,48.28,2024-02-02,750,3.49,False
+PRD00694,Nivea Women's Clothing 350,Fashion ,Women's Clothing,Tecno,342.05,201.54,24/01/2024,875,4.6,True
+PRD00814,Apple Bedding 980,Home & Kitchen,Bedding,Unilever,1222.09,809.78,"May 17, 2023",733,3.6,True
+PRD00271,Adidas Power Bank 168,Phones & Tablets,Power Banks,Kasapreko,GHS 235.37,198.57,2023-07-26,583,4.48,True
+PRD00965,HP Art 388,Books & Stationery,Art,Generic,60.4,50.02,2022-11-06,653,4.02,True
+PRD00944,Kasapreko Bag 136,Fashion,Bags,HP,66.01,37.52,2023-10-05,377,,True
+PRD00232,Hisense Bag 714,Fashion,Bags,Nasco,152.95,124.98,2024-03-05,487,4.01,True
+PRD01101,Kasapreko Smartphone 913,Phones & Tablets,Smartphones,Generic,214.62,130.38,2024-12-17,697,3.83,True
+PRD01331,Woodin Household 706,Groceries,Household,Kasapreko,16.74,9.73,2023-11-01,49,4.21,True
+PRD01175,Unilever Cookware 134,Home & Kitchen,Cookware,Woodin,600.8,369.4,2024-04-10,598,3.92,True
+PRD00164,Puma Power Bank 104,Phones & Tablets,Power Banks,Nestle,2462.82,1518.11,2024-06-29,761,5.0,True
+PRD00325,Apple Baby Food 827,Baby Products,Baby Food,Fan Milk,268.91,229.7,08/09/2024,865,3.32,True
+PRD01098,Lenovo Toy 797,Baby Products,Toys,GTP,73.35,63.84,2022-02-01,563,4.54,True
+PRD00351,Dell Skincare 216,Health & Beauty,Skincare,Kasapreko,48.04,40.22,"January 08, 2022",246,3.38,True
+PRD01233,Puma Storage 498,Computing,Storage,HP,352.98,271.0,24/09/2024,306,3.53,True
+PRD00193,HP Printer 380,Computing,Printers,GTP,1219.78,899.79,"October 07, 2023",288,3.99,True
+PRD00527,Kasapreko Textbook 703,Books & Stationery,Textbooks,Lenovo,257.27,143.69,12/03/2024,310,4.07,True
+PRD00064,itel Beverage 491,Groceries ,Beverages,Nasco,136.61,78.49,04/03/2023,836,3.98,True
+PRD00924,Adidas Furniture 779,Home & Kitchen,Furniture,Nasco,"GHS 3,060.35",1917.17,2022-07-19,850,3.39,True
+PRD00917,itel Power Bank 224,Phones & Tablets,Power Banks,Nasco,1680.6,1309.41,2022-09-04,205,3.34,True
+PRD01146,Tecno Men's Clothing 349,Fashion,Men's Clothing,Lenovo,GHS 860.14,486.15,2023-07-12,471,3.03,True
+PRD00622,Unilever Furniture 723,Home & Kitchen,Furniture,Fan Milk,29.09,19.4,2022-01-07,605,4.68,True
+PRD00299,Hisense Beverage 335,Groceries,Beverages,Samsung,128.21,109.15,2023-07-28,897,4.25,True
+PRD00817,Nasco Gym Equipment 789,Sports & Fitness,Gym Equipment,Unilever,71.63,54.2,2023-03-29,703,4.87,True
+PRD00998,Woodin Power Bank 461,Phones & Tablets,Power Banks,Kasapreko,321.74,219.56,2023-12-23,251,4.22,True
+PRD01117,Dell Monitor 680,Computing,Monitors,Hisense,2607.12,1562.17,2024-06-17,48,4.03,True
+PRD00219,Tecno Sportswear 234,Sports & Fitness,Sportswear,Generic,92.21,74.14,2024-08-13,635,5.0,False
+PRD00519,Samsung Smartphone 741,Phones & Tablets,Smartphones,Nestle,406.88,244.9,2024-11-20,506,3.62,True
+PRD01300,Adidas Footwear 255,Fashion,Footwear,Kasapreko,228.72,163.79,2022-12-01,213,3.74,True
+PRD00454,Fan Milk Monitor 396,Computing,Monitors,HP,4550.75,2507.55,2024-12-06,256,4.29,True
+PRD00372,Fan Milk Television 382,Electronics,Televisions,Hisense,6244.17,4426.29,2023-02-22,744,3.87,True
+PRD01049,Midea Baby Care 810,Baby Products,Baby Care,Dell,42.9,34.72,2022-02-02,767,3.19,False
+PRD01375,Fan Milk Office Supplie 858,Books & Stationery ,Office Supplies,Adidas,20.94,18.18,2024-05-14,788,3.62,True
+PRD00428,Samsung Baby Food 807,Baby Products,Baby Food,Lenovo,107.15,72.44,"December 24, 2024",117,3.79,True
+PRD00439,Tecno Household 711,Groceries,Household,Kasapreko,43.09,36.85,2023-01-04,711,3.77,True
+PRD00984,GTP Footwear 367,Fashion,Footwear,itel,722.66,439.12,07/02/2024,641,4.09,True
+PRD00906,Nasco Haircare 141,Health & Beauty,Haircare,Fan Milk,GHS 36.66,22.08,2022-09-27,551,3.72,True
+PRD00571,Apple Footwear 406,Fashion,Footwear,Puma,50.47,33.99,2023-05-30,326,,True
+PRD00307,Puma Women's Clothing 918,Fashion,Women's Clothing,Hisense,91.91,74.51,2023-05-18,182,4.45,True
+PRD00809,Samsung Cookware 981,Home & Kitchen,Cookware,Adidas,44.24,24.73,2023-03-28,292,3.94,True
+PRD01285,Tecno Outdoor 507,Sports & Fitness,Outdoor,Adidas,539.9,369.19,20/02/2024,815,2.44,True
+PRD01360,Puma Storage 734,Computing,Storage,Midea,1570.33,1190.28,2022-12-25,120,5.0,True
+PRD01387,Fan Milk Skincare 202,Health & Beauty,,Woodin,229.82,,2022-06-06,70,4.04,True
+PRD00673,Lenovo Office Supplie 347,Books & Stationery,Office Supplies,Nivea,51.57,41.71,11/11/2024,131,4.09,True
+PRD00486,Puma Women's Clothing 509,Fashion,Women's Clothing,Nasco,51.96,34.02,2022-08-07,108,4.45,True
+PRD00847,GTP Footwear 744,Fashion,Footwear,Tecno,355.51,294.77,2022-10-13,588,3.75,True
+PRD00632,Generic Diaper 636,Baby Products,Diapers,Midea,49.89,38.81,2024-09-19,240,4.16,True
+PRD01032,Nestle Household 700,Groceries,Household,itel,8.24,5.46,2022-10-20,652,4.72,True
+PRD00278,Puma Cookware 728,Home & Kitchen,Cookware,Fan Milk,131.97,86.56,2024-03-18,295,3.21,True
+PRD01210,Hisense Women's Clothing 541,Fashion,Women's Clothing,Infinix,107.89,81.79,"November 03, 2023",320,4.56,True
+PRD00901,Unilever Footwear 611,Fashion,Footwear,Generic,98.15,78.18,2023-03-04,186,3.82,True
+PRD00757,Woodin Bag 170,Fashion,Bags,HP,60.38,47.44,2024-09-09,95,4.06,True
+PRD00237,Tecno Bag 797,Fashion,Bags,Generic,685.21,532.41,2024-08-22,867,4.13,True
+PRD01269,Nasco Cookware 544,Home & Kitchen,Cookware,,67.49,41.97,2021-12-29,582,3.93,True
+PRD01301,Unilever Camera 807,Electronics,Cameras,Generic,244.53,191.14,2024-04-11,570,4.14,False
+PRD01499,Apple Men's Clothing 632,Fashion,Men's Clothing,Nasco,107.19,76.23,2023-10-02,562,4.13,True
+PRD00514,Samsung Camera 296,Electronics,Cameras,Lenovo,1703.04,1034.76,2022-06-02,148,4.26,True
+PRD01079,HP Skincare 710,Health & Beauty,Skincare,Nestle,GHS 33.31,25.78,2024-08-12,609,5.0,True
+PRD00209,Generic Printer 201,Computing,Printers,Midea,435.06,297.83,2022-03-19,488,4.49,True
+PRD00870,Puma Audio 225,Electronics,Audio,Tecno,8458.8,5270.34,2023-10-23,290,4.16,True
+PRD01486,Puma Power Bank 880,Phones & Tablets,Power Banks,Generic,1807.62,1056.45,2023-07-17,323,3.48,True
+PRD01191,Infinix Women's Clothing 320,Fashion,Women's Clothing,Unilever,54.81,31.57,2023-12-14,466,4.05,True
+PRD00059,Woodin Monitor 592,Computing,Monitors,itel,8088.07,7088.1,20/03/2023,813,3.85,True
+PRD01200,Nasco Pantry 745,Groceries,Pantry,Samsung,57.83,34.38,2024-09-14,86,3.73,True
+PRD01035,Unilever Bag 237,Fashion,Bags,Nestle,48.68,38.5,2022-06-25,358,3.78,True
+PRD01201,Samsung Bedding 774,Home & Kitchen,Bedding,Tecno,1265.88,901.54,07/08/2022,612,4.82,True
+PRD00783,Midea Men's Clothing 795,Fashion,Men's Clothing,,665.32,471.61,2024-07-17,754,4.63,True
+PRD01236,Puma Power Bank 760,Phones & Tablets,Power Banks,Kasapreko,355.1,286.71,"October 12, 2023",80,3.49,True
+PRD00773,Woodin Cookware 594,Home & Kitchen,Cookware,HP,199.33,141.95,2024-05-01,152,4.01,True
+PRD01256,Generic Toy 426,Baby Products,Toys,HP,GHS 276.83,166.09,2024-08-06,-20,3.2,True
+PRD00384,Fan Milk Women's Clothing 910,Fashion,Women's Clothing,Midea,GHS 210.37,127.1,2022-01-06,467,4.36,True
+PRD00890,Woodin Skincare 871,Health & Beauty,Skincare,Nestle,128.75,90.3,2024-12-27,259,3.71,True
+PRD00495,Nestle Snack 251,Groceries,Snacks,Hisense,GHS 69.16,59.24,"December 07, 2022",785,3.08,True
+PRD00990,Samsung Household 366,Groceries,Household,Infinix,35.62,23.35,2024-01-07,713,3.42,True
+PRD01198,Nivea Skincare 852,Health & Beauty,Skincare,Puma,274.17,212.42,24/11/2023,96,3.96,True
+PRD01253,Fan Milk Smartphone 834,Phones & Tablets,Smartphones,Tecno,3741.31,2863.13,2023-09-17,599,4.24,True
+PRD00755,Nivea Skincare 203,Health & Beauty,Skincare,Nivea,259.41,212.01,2022-02-19,142,3.85,True
+PRD00234,GTP Bedding 134,Home & Kitchen,Bedding,HP,33.1,20.64,2024-12-15,273,4.29,True
+PRD01449,Woodin Haircare 441,Health & Beauty,Haircare,Hisense,15.29,12.37,2024-07-02,850,4.1,True
+PRD00197,Dell Cookware 212,Home & Kitchen,Cookware,itel,341.45,300.36,2024-06-01,84,4.48,True
+PRD00845,itel Phone Accessorie 938,Phones & Tablets,Phone Accessories,GTP,1544.86,885.9,2023-04-10,583,3.52,True
+PRD01308,Infinix Fragrance 512,Health & Beauty,Fragrance,GTP,72.8,52.08,2023-06-11,732,3.7,True
+PRD00082,Apple Bag 215,Fashion,Bags,Midea,570.37,417.55,2023-10-05,769,4.16,True
+PRD01456,Unilever Phone Accessorie 776,Phones & Tablets,Phone Accessories,Tecno,542.64,469.12,30/12/2022,408,4.37,True
+PRD01055,Puma Audio 402,Electronics,,Adidas,3540.22,2712.95,2022-11-07,215,3.87,True
+PRD01209,Unilever Audio 654,Electronics,Audio,GTP,1653.67,931.91,2023-06-22,732,5.0,True
+PRD00112,Nestle Small Appliance 906,Electronics,Small Appliances,HP,736.42,602.34,2022-11-19,633,3.54,True
+PRD01325,Midea Bag 465,Fashion,Bags,Nivea,241.23,207.4,2023-06-01,526,3.87,True
+PRD00452,Puma Sportswear 503,Sports & Fitness,Sportswear,Hisense,115.76,83.35,2022-01-06,31,3.92,True
+PRD01315,Puma Smartphone 379,Phones & Tablets,Smartphones,Kasapreko,"GHS 1,159.21",1006.61,2022-02-10,886,4.11,True
+PRD00985,Kasapreko Storage 671,Computing,Storage,Hisense,1898.5,1271.61,2024-02-07,79,3.34,True
+PRD01314,Samsung Phone Accessorie 695,Phones & Tablets,Phone Accessories,Generic,330.55,183.26,2024-12-11,647,4.58,True
+PRD00778,Hisense Monitor 318,Computing,Monitors,Adidas,2281.99,,2024-02-16,321,3.71,True
+PRD01230,Puma Power Bank 673,Phones & Tablets,Power Banks,GTP,263.8,190.04,2024-01-14,501,4.64,True
+PRD00311,Unilever Bag 155,Fashion,Bags,Fan Milk,86.36,74.48,2024-12-31,153,3.74,True
+PRD00637,Midea Skincare 413,Health & Beauty,Skincare,Nestle,GHS 259.51,203.84,2023-03-07,719,4.16,False
+PRD00433,Tecno Skincare 731,Health & Beauty,Skincare,Infinix,175.15,104.1,2024-09-13,329,4.52,False
+PRD00577,Hisense Outdoor 789,Sports & Fitness,Outdoor,Kasapreko,2204.67,1487.82,2024-08-07,409,3.91,False
+PRD00549,Fan Milk Household 528,Groceries,Household,Adidas,79.24,64.4,2023-10-03,677,3.9,True
+PRD01447,Generic Sportswear 145,Sports & Fitness,Sportswear,Hisense,912.17,677.11,2022-05-26,349,4.3,True
+PRD00758,Nestle Supplement 122,Sports & Fitness,Supplements,Generic,GHS 69.54,58.36,2023-11-24,592,,True
+PRD00893,Samsung Audio 335,Electronics,Audio,Generic,2775.85,2096.97,2022-03-03,622,4.42,True
+PRD00304,Nestle Cleaning 777,Home & Kitchen,Cleaning,Generic,63.86,53.95,2023-06-13,538,4.36,True
+PRD01453,Woodin Toy 137,Baby Products,Toys,Infinix,42.8,30.56,2022-10-24,384,3.98,False
+PRD00987,HP Men's Clothing 604,Fashion,Men's Clothing,Nasco,209.77,129.91,2023-04-21,867,3.68,False
+PRD01097,itel Television 342,Electronics,Televisions,Hisense,1378.26,1101.31,2022-10-12,449,3.5,True
+PRD00491,Tecno Haircare 939,Health & Beauty,Haircare,Nivea,134.79,74.85,2023-05-03,720,3.69,True
+PRD00544,HP Art 220,Books & Stationery,Art,Dell,105.3,80.67,2023-05-18,36,4.23,True
+PRD00487,Adidas Bag 435,Fashion,Bags,Fan Milk,100.22,61.24,23/08/2024,601,3.8,True
+PRD00675,Nasco Cleaning 659,Home & Kitchen,Cleaning,Dell,142.41,121.79,2022-07-08,601,5.0,True
+PRD00846,Samsung Supplement 527,Sports & Fitness,Supplements,HP,204.66,174.05,2024-09-16,201,3.48,True
+PRD01445,itel Laptop 405,Computing,Laptops,HP,2576.52,1970.02,"October 15, 2023",750,4.62,True
+PRD00731,Unilever Footwear 695,Fashion,Footwear,Kasapreko,,43.71,2023-03-04,54,4.09,True
+PRD01353,Woodin Television 263,Electronics,Televisions,Woodin,"GHS 1,251.45",725.86,2023-04-11,36,4.07,True
+PRD00494,Apple Men's Clothing 408,Fashion,Men's Clothing,Samsung,77.22,61.95,2024-12-20,333,4.55,False
+PRD00255,Tecno Television 127,Electronics,Televisions,Nestle,273.4,182.96,2024-08-04,378,3.49,True
+PRD00323,Hisense Women's Clothing 822,Fashion,Women's Clothing,Tecno,46.64,37.22,"September 22, 2023",711,4.09,True
+PRD01134,Infinix Beverage 794,Groceries,Beverages,Unilever,16.18,13.28,2023-11-09,876,4.04,False
+PRD01047,Woodin Monitor 299,Computing,Monitors,Unilever,"GHS 2,712.57",1662.57,2022-09-10,717,3.04,True
+PRD00599,Tecno Office Supplie 849,Books & Stationery,Office Supplies,Tecno,208.73,176.99,2022-02-11,682,4.16,True
+PRD01263,Nasco Bag 788,Fashion,Bags,Nasco,318.04,271.78,2022-04-22,712,4.43,True
+PRD01443,Apple Laptop 128,Computing,Laptops,Apple,696.8,580.66,2022-10-15,459,3.77,True
+PRD00910,Tecno Television 426,Electronics,Televisions,Nasco,567.11,443.28,2024-03-14,635,4.41,True
+PRD01090,Midea Women's Clothing 295,Fashion,Women's Clothing,Infinix,151.63,115.03,16/08/2024,311,2.66,True
+PRD01038,itel Women's Clothing 530,Fashion,Women's Clothing,Fan Milk,785.97,626.24,2024-08-04,208,3.06,True
+PRD00087,Unilever Beverage 715,Groceries,Beverages,Generic,92.25,59.46,2023-07-14,307,4.2,True
+PRD01473,Nivea Phone Accessorie 842,Phones & Tablets,Phone Accessories,Woodin,GHS 913.63,658.62,2023-12-16,461,4.36,False
+PRD00366,Woodin Men's Clothing 834,Fashion,Men's Clothing,Adidas,87.25,56.76,2022-05-07,162,4.22,True
+PRD00266,Hisense Storage 876,Computing,Storage,Unilever,,739.04,2024-08-16,283,3.83,True
+PRD00288,Adidas Women's Clothing 863,fashion,Women's Clothing,itel,406.7,276.1,2024-10-16,489,4.11,True
+PRD01106,Lenovo Snack 756,Groceries,Snacks,Kasapreko,272.87,199.95,2024-05-06,765,3.87,True
+PRD00359,Nivea Furniture 966,Home & Kitchen,Furniture,Tecno,86.25,63.01,2024-01-11,649,3.26,True
+PRD00746,GTP Cleaning 650,Home & Kitchen,Cleaning,Generic,1277.62,1082.87,2024-07-31,13,3.37,True
+PRD01324,itel Beverage 273,Groceries,Beverages,Hisense,GHS 54.82,44.93,2024-03-09,846,3.34,True
+PRD00651,Dell Bag 376,Fashion,Bags,Apple,103.0,61.07,2022-08-12,203,3.52,True
+PRD01262,Kasapreko Footwear 213,Fashion,Footwear,,169.21,112.09,22/04/2022,-20,4.62,True
+PRD01286,Puma Sportswear 908,Sports & Fitness,Sportswear,Nestle,204.21,114.87,2024-09-02,98,4.14,True
+PRD00222,Nestle Cleaning 877,Home & Kitchen,Cleaning,Apple,1196.77,810.43,2023-08-13,555,,True
+PRD00114,Hisense Cookware 165,Home & Kitchen,Cookware,,109.62,95.04,23/02/2023,38,4.02,True
+PRD00615,Tecno Small Appliance 541,Electronics,Small Appliances,Apple,,1448.58,2023-03-09,714,4.52,True
+PRD01217,Nivea Women's Clothing 405,Fashion,Women's Clothing,Nestle,36.74,26.28,2023-12-02,592,3.22,True
+PRD00175,HP Monitor 328,Computing,Monitors,Fan Milk,1363.05,1123.94,2022-06-19,706,4.12,True
+PRD00465,Adidas Cleaning 532,Home & Kitchen,Cleaning,Adidas,298.24,212.87,2022-07-05,456,3.63,True
+PRD01291,GTP Men's Clothing 304,Fashion,Men's Clothing,Woodin,104.29,73.93,06/11/2022,172,4.03,True
+PRD00406,Adidas Sportswear 754,Sports & Fitness,Sportswear,Apple,888.24,524.53,2023-09-01,749,3.7,False
+PRD01221,Generic Tablet 678,Phones & Tablets,Tablets,Nivea,397.21,,2023-04-29,816,4.36,True
+PRD00019,HP Diaper 607,Baby Products,Diapers,Dell,40.14,32.73,2023-09-11,431,3.27,True
+PRD01053,Unilever Audio 363,Electronics,Audio,Woodin,3435.24,2982.13,2024-10-04,635,4.04,True
+PRD00286,Dell Bag 649,Fashion,Bags,Nestle,223.14,196.32,2022-02-01,646,3.51,True
+PRD00937,Lenovo Fiction 776,Books & Stationery,Fiction,Samsung,,271.71,2022-07-30,218,3.42,True
+PRD00452,Puma Sportswear 503,Sports & Fitness,Sportswear,Hisense,100.66,83.35,2022-01-06,31,3.92,True
+PRD01418,Fan Milk Bedding 623,Home & Kitchen,Bedding,Tecno,27.78,22.4,2024-10-24,808,4.02,True
+PRD00032,Unilever Textbook 952,Books & Stationery,Textbooks,Samsung,113.48,68.8,2023-08-19,198,3.49,True
+PRD00592,Puma Bag 269,Fashion,Bags,HP,148.41,101.67,2023-11-24,259,4.4,True
+PRD00211,GTP Haircare 295,Health & Beauty,Haircare,Fan Milk,167.37,108.07,"February 28, 2023",787,2.82,True
+PRD01223,Nasco Supplement 216,Sports & Fitness,Supplements,Nestle,GHS 53.86,30.38,16/06/2023,728,4.36,True
+PRD00215,Fan Milk Pantry 690,Groceries,Pantry,Unilever,10.7,6.68,25/05/2023,99,4.75,True
+PRD01243,Fan Milk Women's Clothing 770,Fashion,Women's Clothing,Fan Milk,301.32,194.82,2023-08-29,651,3.76,False
+PRD00874,Puma Bag 737,Fashion,Bags,Samsung,GHS 227.88,191.79,2022-11-26,447,3.44,True
+PRD00479,Nestle Fragrance 826,Health & Beauty,Fragrance,Apple,16.34,12.88,2024-08-18,797,3.95,True
+PRD01006,Fan Milk Bag 906,Fashion,Bags,Hisense,92.7,54.82,2023-09-09,219,5.0,True
+PRD01448,Kasapreko Cleaning 606,Home & Kitchen,Cleaning,Kasapreko,2022.3,1475.11,2023-07-27,397,,True
+PRD00786,Samsung Footwear 839,Fashion,Footwear,Generic,360.4,288.21,2023-06-22,343,3.87,False
+PRD00189,Kasapreko Snack 975,Groceries,Snacks,Generic,9.64,5.44,2022-03-17,665,4.54,True
+PRD01330,HP Storage 949,Computing,Storage,,4139.79,3476.37,30/03/2024,697,4.08,True
+PRD01010,HP Footwear 632,Fashion,Footwear,Apple,55.17,40.58,2022-02-07,573,4.23,False
+PRD00744,Nestle Phone Accessorie 119,Phones & Tablets ,,HP,902.33,676.86,2023-10-28,376,4.09,True
+PRD00148,Nestle Bedding 131,Home & Kitchen,Bedding,Generic,GHS 758.28,663.16,2022-04-07,527,4.17,True
+PRD00426,Woodin Pantry 788,Groceries,Pantry,Nivea,11.77,9.24,2021-12-31,472,4.39,True
+PRD00975,Fan Milk Women's Clothing 400,Fashion,Women's Clothing,Kasapreko,GHS 59.55,41.27,2022-03-23,319,3.34,True
+PRD00084,itel Monitor 555,Computing,Monitors,HP,3615.86,2867.57,19/10/2023,313,5.0,True
+PRD00721,itel Bedding 215,Home & Kitchen,Bedding,Lenovo,1891.22,1520.9,2023-08-01,317,,True
+PRD00049,Woodin Haircare 293,Health & Beauty,Haircare,Nivea,224.46,195.14,2022-01-24,138,3.74,True
+PRD01157,Samsung Smartphone 928,Phones & Tablets,Smartphones,Fan Milk,232.2,158.72,2024-11-27,151,4.41,True
+PRD00156,Dell Skincare 801,Health & Beauty,Skincare,Nestle,254.64,149.03,2022-05-28,111,3.57,True
+PRD01122,Tecno Power Bank 585,Phones & Tablets,Power Banks,Unilever,2194.05,1229.41,2022-05-31,195,4.73,True
+PRD01183,Tecno Power Bank 585,Phones & Tablets,Power Banks,Unilever,765.65,661.5,2024-06-21,619,4.78,True
+PRD01189,Unilever Monitor 995,Computing,Monitors,Nestle,656.1,537.4,2023-06-11,189,4.22,True
+PRD01211,itel Snack 130,Groceries,Snacks,Fan Milk,28.93,20.87,2024-05-11,640,4.7,False
+PRD01318,Hisense Smartphone 595,Phones & Tablets,Smartphones,itel,465.97,305.33,2022-06-21,580,4.65,True
+PRD01466,Kasapreko Skincare 200,Health & Beauty ,Skincare,HP,227.39,163.38,2022-12-12,149,3.78,True
+PRD00340,Kasapreko Sportswear 303,Sports & Fitness,Sportswear,Samsung,268.13,130.2,2023-04-07,888,3.47,True
+PRD01390,Apple Smartphone 737,Phones & Tablets,Smartphones,Puma,473.11,328.81,2023-08-06,489,4.2,False
+PRD00180,Kasapreko Snack 492,Groceries,Snacks,Nestle,81.44,57.56,2022-09-28,827,4.52,True
+PRD00553,Kasapreko Printer 245,Computing,Printers,Nasco,GHS 770.29,494.43,2023-03-29,746,4.48,True
+PRD01294,Woodin Men's Clothing 792,Fashion,Men's Clothing,Lenovo,134.8,95.97,2024-06-25,388,3.79,True
+PRD00472,Lenovo Women's Clothing 285,FASHION,Women's Clothing,Kasapreko,229.39,162.69,2022-05-26,456,4.25,True
+PRD00555,Adidas Tablet 842,Phones & Tablets,Tablets,Generic,1350.44,1015.62,2024-12-26,417,4.46,True
+PRD00882,HP Fragrance 174,Health & Beauty,Fragrance,Dell,58.43,50.81,2023-06-20,367,3.65,True
+PRD00364,Kasapreko Smartphone 688,phones & tablets,Smartphones,GTP,1281.04,937.67,2024-01-19,764,4.33,True
+PRD00427,Infinix Camera 995,Electronics,Cameras,Apple,387.3,295.12,2024-12-06,444,3.41,True
+PRD01222,itel Camera 606,Electronics,Cameras,itel,3000.35,2088.79,2024-12-22,646,4.77,True
+PRD01244,Tecno Tablet 909,Phones & Tablets,Tablets,Woodin,657.31,463.99,2023-09-24,301,,True
+PRD00347,Unilever Art 645,Books & Stationery,Art,Apple,65.66,57.0,"October 17, 2024",237,2.77,True
+PRD01080,GTP Women's Clothing 937,Fashion,Women's Clothing,HP,326.95,284.42,2022-08-13,420,4.85,True
+PRD01487,Lenovo Office Supplie 370,Books & Stationery,Office Supplies,itel,24.23,19.36,15/11/2023,568,3.88,True
+PRD01117,Dell Monitor 680,Computing,Monitors,Hisense,2607.12,1562.17,2024-06-17,48,4.03,True
+PRD00706,Apple Cleaning 985,Home & Kitchen ,Cleaning,Fan Milk,96.61,63.74,2022-10-14,424,3.36,True
+PRD01341,Nestle Power Bank 835,Phones & Tablets,Power Banks,Dell,5087.85,2858.25,2023-03-13,555,3.73,False
+PRD01378,Unilever Supplement 846,Sports & Fitness,Supplements,Kasapreko,283.78,209.89,2024-05-16,828,4.45,True
+PRD00611,Puma Cookware 829,Home & Kitchen,Cookware,Puma,83.3,53.03,2022-01-29,733,3.26,True
+PRD00678,Adidas Furniture 842,Home & Kitchen,Furniture,Infinix,2354.51,1566.24,2022-02-22,433,3.65,True
+PRD00244,Samsung Cookware 981,Home & Kitchen,Cookware,Infinix,34.06,28.74,2023-02-12,316,4.64,True
+PRD00868,HP Beverage 119,Groceries,,GTP,180.72,110.06,2024-05-06,554,4.18,True
+PRD01426,Generic Women's Clothing 966,Fashion,Women's Clothing,Midea,233.43,195.94,"December 14, 2022",317,3.84,True
+PRD00662,itel Outdoor 517,Sports & Fitness,Outdoor,Nestle,60.0,50.9,2024-03-15,550,4.17,True
+PRD01042,Puma Supplement 410,Health & Beauty,Supplements,Unilever,312.33,,2024-12-26,866,3.86,True
+PRD01422,Infinix Furniture 792,Home & Kitchen,Furniture,Apple,790.7,622.75,2024-10-09,859,3.34,True
+PRD01240,Nestle Storage 556,Computing,Storage,Apple,5125.38,3797.84,2023-01-30,631,4.65,True
+PRD00436,Woodin Small Appliance 430,Electronics,Small Appliances,Kasapreko,2734.81,2384.54,2023-01-20,891,3.71,True
+PRD01472,Nivea Storage 795,Computing,Storage,Samsung,9036.45,6058.59,2023-03-10,822,,True
+PRD01290,Adidas Cookware 621,Home & Kitchen,Cookware,Adidas,29.19,18.28,2024-05-22,354,4.67,True
+PRD00309,Kasapreko Television 405,Electronics,Televisions,Nasco,-1.0,251.29,2023-12-31,115,4.02,True
+PRD00839,Woodin Men's Clothing 530,Fashion,Men's Clothing,Samsung,208.37,174.53,2023-07-02,201,4.15,False
+PRD00431,Dell Outdoor 469,Sports & Fitness,Outdoor,Fan Milk,917.58,549.92,2024-11-29,502,3.27,True
+PRD01361,Dell Haircare 242,Health & Beauty,Haircare,Nasco,48.35,30.75,2024-10-04,230,3.74,True
+PRD00399,Lenovo Men's Clothing 368,Fashion,Men's Clothing,Kasapreko,237.17,166.99,2022-07-14,424,4.35,True
+PRD00424,Nestle Smartphone 200,Phones & Tablets,Smartphones,Nestle,208.14,149.12,"November 22, 2023",482,5.0,True
+PRD00371,Hisense Pantry 523,Groceries,Pantry,Hisense,77.24,53.7,23/01/2024,816,4.19,True
+PRD00055,Apple Skincare 710,Health & Beauty,Skincare,Fan Milk,157.06,117.05,2022-07-28,300,3.73,True
+PRD00821,Tecno Tablet 936,Phones & Tablets,Tablets,Nivea,4287.61,2603.44,16/05/2024,20,3.67,False
+PRD00598,Nivea Skincare 105,Health & Beauty,Skincare,Hisense,352.23,222.85,2024-06-23,111,4.3,True
+PRD00612,GTP Supplement 253,Health & Beauty,Supplements,Infinix,191.71,160.33,2022-04-20,694,4.05,True
+PRD00313,Unilever Television 313,Electronics,Televisions,Fan Milk,178.72,125.28,2022-01-08,381,3.63,False
+PRD00927,Samsung Monitor 470,Computing,Monitors,Nivea,"GHS 5,245.26",3400.06,2024-05-06,733,3.7,True
+PRD00995,Samsung Gym Equipment 807,Sports & Fitness,Gym Equipment,Nivea,64.84,39.36,14/11/2023,696,,True
+PRD00586,Lenovo Fragrance 506,Health & Beauty,Fragrance,Kasapreko,205.13,,2022-08-23,258,3.76,True
+PRD00110,Infinix Gym Equipment 172,Sports & Fitness,Gym Equipment,Fan Milk,833.02,593.5,2022-06-29,782,,True
+PRD01206,itel Phone Accessorie 608,Phones & Tablets ,Phone Accessories,Samsung,5974.35,5226.88,09/10/2024,336,5.0,True
+PRD00742,Lenovo Tablet 490,Phones & Tablets,Tablets,Nivea,1059.24,873.83,2023-03-31,545,4.41,True
+PRD00101,Puma Sportswear 208,SPORTS & FITNESS,Sportswear,Unilever,68.29,52.81,2024-01-01,646,3.64,True
+PRD01481,Adidas Bag 404,Fashion,Bags,Lenovo,48.62,35.99,2024-02-07,252,3.93,True
+PRD00719,Apple Fragrance 966,Health & Beauty,Fragrance,Samsung,38.97,23.42,2024-11-06,503,3.41,True
+PRD01427,Nasco Tablet 679,Phones & Tablets,Tablets,Tecno,1389.02,1036.81,2022-01-24,774,3.88,True
+PRD00267,Nestle Audio 102,Electronics,Audio,Puma,214.99,157.9,2023-06-01,32,4.39,True
+PRD00728,Puma Phone Accessorie 373,Phones & Tablets,Phone Accessories,Samsung,397.82,335.83,2023-07-02,643,,True
+PRD00297,Midea Fiction 140,Books & Stationery,Fiction,Woodin,156.31,133.75,2023-02-13,712,3.92,True
+PRD00568,Samsung Power Bank 939,Phones & Tablets,Power Banks,HP,180.2,137.74,2024-11-29,795,3.81,True
+PRD00462,Infinix Monitor 115,Computing,Monitors,Nasco,3160.68,2562.95,2023-08-20,701,3.75,False
+PRD01437,Nasco Small Appliance 387,Electronics,Small Appliances,Puma,744.53,597.03,2022-09-08,603,3.86,True
+PRD01400,GTP Women's Clothing 933,Fashion,Women's Clothing,Generic,795.08,540.24,2023-02-03,371,3.88,True
+PRD01024,Puma Furniture 464,Home & Kitchen,Furniture,Woodin,84.41,70.73,2022-09-06,230,4.16,True
+PRD00378,Dell Men's Clothing 396,Fashion,Men's Clothing,Lenovo,78.81,55.37,2023-08-02,426,,False
+PRD00287,GTP Tablet 566,Phones & Tablets,Tablets,Generic,2073.03,1634.04,2023-03-11,636,3.17,True
+PRD01492,Midea Baby Care 289,Baby Products,Baby Care,Nasco,525.45,372.73,17/03/2023,406,3.45,True
+PRD01212,Hisense Toy 302,Baby Products,Toys,Generic,35.71,26.76,2024-02-29,162,3.15,True
+PRD00127,Samsung Men's Clothing 342,Fashion,Men's Clothing,Samsung,415.89,230.5,2023-12-29,673,4.51,True
+PRD00328,Nestle Bedding 113,Home & Kitchen,Bedding,Midea,1170.58,869.69,2024-08-10,14,3.62,True
+PRD00293,GTP Gym Equipment 353,Sports & Fitness,Gym Equipment,HP,1368.04,954.13,"July 23, 2024",467,4.65,True
+PRD00589,Hisense Printer 974,Computing,Printers,Dell,1419.15,1164.66,"July 20, 2024",64,3.45,True
+PRD00782,Hisense Supplement 820,Sports & Fitness,Supplements,Tecno,484.95,331.1,2024-10-07,4,,True
+PRD00528,Midea Art 367,Books & Stationery,Art,Lenovo,18.87,,21/11/2023,153,,False
+PRD01147,Kasapreko Pantry 560,groceries,Pantry,itel,88.58,62.6,2022-02-13,827,2.99,True
+PRD00356,Nasco Cookware 861,home & kitchen,Cookware,Lenovo,26.81,22.75,2022-11-03,305,3.47,True
+PRD01027,Apple Fiction 607,Books & Stationery,,Samsung,47.09,39.44,2023-03-10,31,,True
+PRD01266,GTP Household 196,Groceries,Household,Nestle,110.74,86.19,2022-06-05,541,4.15,True
+PRD00171,Puma Audio 588,Electronics,Audio,Samsung,GHS 245.58,149.68,2022-02-28,353,4.42,True
+PRD00911,Adidas Pantry 917,Groceries,Pantry,Dell,11.41,9.48,2022-08-23,590,5.0,False
+PRD00644,Infinix Camera 500,Electronics,Cameras,GTP,154.59,128.06,2023-06-16,669,4.69,True
+PRD00669,Unilever Small Appliance 889,Electronics,Small Appliances,Nasco,4506.45,3763.32,2023-05-23,437,,True
+PRD00789,Nestle Snack 335,Groceries,Snacks,Puma,11.39,7.25,2024-05-03,833,4.31,True
+PRD01316,HP Haircare 697,Health & Beauty,Haircare,HP,63.33,40.65,2023-02-09,846,3.95,False
+PRD00210,Unilever Cookware 279,Home & Kitchen,Cookware,Nestle,61.85,44.85,2024-03-29,115,4.68,True
+PRD01388,GTP Small Appliance 867,Electronics,Small Appliances,Apple,886.22,710.6,"June 08, 2023",225,4.2,True
+PRD00661,Midea Audio 345,Electronics,Audio,Generic,497.1,396.94,2023-01-13,171,3.88,True
+PRD00141,Infinix Cleaning 869,Home & Kitchen,Cleaning,Dell,133.04,81.26,2022-06-26,695,3.52,True
+PRD01142,Lenovo Beverage 519,Groceries,Beverages,itel,18.93,11.61,2023-06-03,839,3.99,True
+PRD01041,Infinix Phone Accessorie 281,Phones & Tablets,Phone Accessories,Nivea,385.71,239.9,21/08/2022,21,4.5,True
+PRD01129,Tecno Skincare 464,Health & Beauty,Skincare,Nasco,17.02,11.78,2024-02-23,543,3.81,True
+PRD01234,Hisense Haircare 101,Health & Beauty,Haircare,Nivea,233.77,194.42,2023-12-08,337,4.12,True
+PRD00737,GTP Small Appliance 674,Electronics,Small Appliances,Apple,586.52,454.07,2023-07-23,391,3.74,True
+PRD01385,Apple Art 193,Books & Stationery,Art,Hisense,,11.4,2022-06-29,645,3.69,True
+PRD01252,Nasco Phone Accessorie 270,Phones & Tablets,Phone Accessories,Puma,349.66,204.97,"February 23, 2024",449,4.04,True
+PRD01398,Infinix Supplement 104,Sports & Fitness,Supplements,Samsung,80.2,61.35,"June 10, 2024",623,3.25,True
+PRD00011,Dell Women's Clothing 677,Fashion,Women's Clothing,GTP,221.45,154.52,2022-01-09,97,3.52,True
+PRD01084,Fan Milk Toy 575,Baby Products,Toys,Lenovo,294.47,239.55,2024-01-23,730,3.99,True
+PRD00283,Nivea Audio 172,Electronics,Audio,GTP,GHS 809.54,523.99,2022-04-13,506,4.44,True
+PRD00292,Puma Phone Accessorie 687,Phones & Tablets,Phone Accessories,Lenovo,403.76,311.34,2023-09-26,432,5.0,True
+PRD01409,Lenovo Baby Food 836,Baby Products,Baby Food,Puma,267.05,197.29,2023-06-05,611,4.97,True
+PRD01317,GTP Bedding 198,Home & Kitchen,Bedding,Apple,1139.18,808.31,2024-01-17,751,4.33,True
+PRD00130,Midea Cookware 884,Home & Kitchen,Cookware,Hisense,389.87,304.82,2023-05-25,838,4.91,True
+PRD00324,Nestle Cookware 432,Home & Kitchen,Cookware,Generic,564.14,,2023-10-19,612,3.38,True
+PRD01033,Kasapreko Bedding 812,Home & Kitchen,Bedding,Nivea,"GHS 1,723.05",1073.49,2023-06-10,650,3.63,True
+PRD00616,HP Pantry 372,Groceries,Pantry,GTP,32.81,21.34,2023-07-24,648,4.89,True
+PRD00745,Dell Cookware 229,Home & Kitchen,Cookware,Fan Milk,29.66,23.41,2024-10-14,520,4.3,True
+PRD00781,Nasco Small Appliance 662,Electronics,Small Appliances,Generic,3573.12,2312.87,15/11/2024,869,3.84,True
+PRD00825,Infinix Baby Care 267,Baby Products,Baby Care,HP,,136.12,2024-05-21,240,3.23,True
+PRD00707,Kasapreko Beverage 398,Groceries,Beverages,Fan Milk,17.35,11.04,2022-11-20,239,,True
+PRD00670,Woodin Women's Clothing 967,Fashion,Women's Clothing,Generic,56.73,41.31,06/11/2024,455,4.4,True
+PRD00159,Puma Pantry 380,Groceries,Pantry,Woodin,134.2,96.27,2024-09-29,244,2.9,True
+PRD00618,Hisense Bag 307,Fashion,,Infinix,292.03,204.03,"April 08, 2022",786,3.9,True
+PRD01019,Lenovo Tablet 642,Phones & Tablets,Tablets,Adidas,1818.6,1406.93,2022-05-26,881,4.45,True
+PRD01113,HP Fragrance 703,Health & Beauty,Fragrance,Nivea,160.44,129.18,2024-09-08,228,4.85,True
+PRD00196,Nestle Storage 489,Computing,Storage,Midea,1623.46,,2022-03-24,106,,True
+PRD01288,Apple Men's Clothing 323,Fashion,Men's Clothing,Lenovo,GHS 782.36,,2022-07-21,144,3.92,True
+PRD00600,Puma Supplement 657,Health & Beauty,Supplements,Unilever,GHS 331.67,285.56,2023-05-15,695,4.27,True
+PRD00411,Hisense Supplement 195,Health & Beauty,Supplements,GTP,34.41,24.93,2023-06-19,823,3.79,True
+PRD00097,HP Bag 534,Fashion,Bags,GTP,219.75,163.4,2022-02-05,231,5.0,True
+PRD00627,Woodin Snack 502,Groceries,Snacks,Nivea,11.95,7.2,2022-02-10,55,5.0,False
+PRD00157,Tecno Audio 611,Electronics,Audio,Adidas,695.12,395.5,2023-09-10,370,,True
+PRD00420,Infinix Outdoor 544,Sports & Fitness,Outdoor,Apple,GHS 227.49,171.56,23/02/2024,499,4.25,True
+PRD01218,Nestle Bedding 131,Home & Kitchen,Bedding,Kasapreko,207.56,116.75,2023-07-11,1,3.9,True
+PRD00478,Nasco Skincare 387,Health & Beauty,Skincare,Infinix,222.74,136.8,2022-05-28,78,4.54,True
+PRD01194,GTP Textbook 351,Books & Stationery,Textbooks,HP,240.38,197.63,2022-03-02,213,4.46,True
+PRD00693,Nestle Television 949,Electronics,Televisions,Puma,1133.21,948.97,2022-04-15,323,3.62,True
+PRD01066,Fan Milk Office Supplie 869,Books & Stationery,,Nivea,100.34,70.67,10/01/2024,574,3.23,True
+PRD00448,Nasco Fragrance 490,Health & Beauty,Fragrance,Samsung,15.05,10.89,2023-12-14,245,3.44,True
+PRD00799,Samsung Pantry 242,Groceries,Pantry,HP,72.76,50.39,2023-09-06,132,4.15,True
+PRD00179,Nasco Supplement 197,Sports & Fitness,Supplements,Tecno,737.59,445.26,2023-04-19,793,3.85,True
+PRD00391,Woodin Fragrance 514,Health & Beauty,Fragrance,Apple,318.27,230.05,2023-05-31,646,3.99,True
+PRD00433,Tecno Skincare 731,Health & Beauty,Skincare,Infinix,201.42,104.1,2024-09-13,329,4.52,False
+PRD01394,Generic Tablet 216,Phones & Tablets,Tablets,Nasco,"GHS 5,084.81",3746.22,"February 13, 2024",751,3.54,True
+PRD01289,GTP Bag 235,Fashion,Bags,Nivea,235.53,176.64,2023-05-09,479,3.76,True
+PRD00650,Infinix Power Bank 197,Phones & Tablets,Power Banks,Puma,1392.77,854.18,2022-10-10,571,4.3,True
+PRD01177,Fan Milk Bag 762,Fashion,Bags,Midea,192.24,164.32,2023-06-24,794,4.4,True
+PRD00681,Fan Milk Tablet 272,Phones & Tablets,Tablets,Fan Milk,382.5,253.74,2023-09-25,53,3.93,True
+PRD00974,Tecno Supplement 355,Sports & Fitness,Supplements,Kasapreko,398.12,322.4,2024-02-08,745,4.42,True
+PRD00848,Lenovo Fragrance 673,Health & Beauty,Fragrance,Hisense,91.15,73.0,2024-03-13,376,4.42,True
+PRD01281,Generic Women's Clothing 725,FASHION,Women's Clothing,Lenovo,276.35,220.1,2024-02-23,855,3.65,True
+PRD01476,HP Bedding 767,Home & Kitchen,Bedding,Woodin,438.76,335.22,2022-06-29,154,3.44,False
+PRD00295,itel Baby Care 806,Baby Products,Baby Care,Puma,725.09,443.74,2024-12-15,434,4.45,True
+PRD00584,Nivea Bag 130,Fashion,Bags,Dell,273.88,158.29,2024-06-17,517,4.86,True
+PRD00940,Samsung Tablet 849,Phones & Tablets,Tablets,Nivea,3919.55,3349.02,2023-12-14,406,4.46,True
+PRD00089,Infinix Storage 841,Computing,Storage,Samsung,727.8,574.68,11/12/2023,251,3.34,True
+PRD00042,Kasapreko Baby Care 892,Baby Products,Baby Care,Woodin,471.03,402.42,19/05/2024,276,4.54,True
+PRD01176,Infinix Snack 445,Groceries,Snacks,Hisense,215.37,126.15,2022-07-30,18,3.2,True
+PRD00619,Nasco Laptop 650,Computing,Laptops,Midea,1205.28,928.27,2023-01-25,510,4.29,True
+PRD00708,Midea Pantry 803,Groceries,Pantry,Puma,100.76,56.95,2022-08-07,361,4.75,True
+PRD01439,Generic Supplement 400,Sports & Fitness,Supplements,Nestle,69.58,58.91,2024-10-19,353,3.57,False
+PRD01109,Adidas Office Supplie 145,Books & Stationery,Office Supplies,itel,388.23,280.61,2024-06-02,439,4.32,True
+PRD01310,Woodin Textbook 103,Books & Stationery,Textbooks,Unilever,15.07,10.93,2023-10-23,790,3.6,True
+PRD00291,Woodin Baby Food 830,Baby Products,Baby Food,itel,46.43,31.79,2024-04-23,273,3.92,True
+PRD01470,Woodin Laptop 739,Computing,Laptops,Hisense,3358.56,,2022-05-08,423,4.68,True
+PRD00713,Hisense Diaper 926,Baby Products,Diapers,Woodin,169.45,100.05,2024-05-28,36,4.39,False
+PRD00349,Puma Cookware 879,Home & Kitchen,Cookware,Puma,,59.91,2022-06-04,265,4.27,True
+PRD00572,Woodin Baby Care 698,Baby Products,Baby Care,Nivea,177.27,150.08,2024-09-27,421,4.89,True
+PRD01135,Midea Textbook 280,Books & Stationery,Textbooks,Nasco,17.86,9.97,2022-01-03,181,3.74,True
+PRD01464,Samsung Bag 109,Fashion,Bags,Kasapreko,195.68,134.89,2023-09-19,574,4.0,True
+PRD01150,GTP Outdoor 696,Sports & Fitness,Outdoor,Infinix,41.93,28.15,2024-12-08,589,3.87,True
+PRD00221,Generic Television 711,Electronics,Televisions,Adidas,199.99,586.55,2022-08-17,223,4.0,True
+PRD01420,GTP Textbook 715,BOOKS & STATIONERY,Textbooks,HP,163.25,122.16,2022-07-28,34,4.47,False
+PRD00459,Unilever Pantry 476,Groceries,Pantry,Lenovo,45.75,38.02,2024-06-11,488,4.15,True
+PRD00376,Samsung Monitor 782,Computing,Monitors,Kasapreko,1918.8,1146.54,2024-06-26,716,3.96,True
+PRD00334,Woodin Baby Care 875,Baby Products,Baby Care,Nestle,56.8,37.19,2023-06-16,587,3.94,True
+PRD00888,Nestle Storage 657,Computing,Storage,,"GHS 1,510.37",1162.46,2024-10-16,740,3.93,True
+PRD01383,Infinix Cleaning 754,Home & Kitchen,Cleaning,Hisense,525.24,328.08,2023-11-27,71,3.7,True
+PRD01362,Dell Men's Clothing 599,Fashion,Men's Clothing,Midea,227.71,183.08,2023-11-27,199,3.63,True
+PRD01111,itel Laptop 754,Computing,Laptops,Adidas,1275.33,1079.63,2024-08-11,587,3.73,True
+PRD01441,itel Audio 905,Electronics,Audio,Woodin,413.76,331.45,2023-06-28,310,3.41,True
+PRD01334,Nivea Fiction 184,Books & Stationery,Fiction,Tecno,26.84,23.32,2024-05-18,625,3.54,True
+PRD00329,itel Fragrance 507,Health & Beauty,Fragrance,Nestle,,13.38,2022-08-18,566,4.43,True
+PRD00319,Unilever Camera 297,Electronics,Cameras,Midea,247.09,137.94,2023-07-29,652,4.19,True
+PRD01197,Adidas Audio 634,Electronics,Audio,Kasapreko,317.67,258.36,28/04/2022,451,5.0,True
+PRD00260,Tecno Cookware 974,Home & Kitchen,Cookware,Lenovo,199.99,101.94,2022-08-08,636,3.59,True
+PRD00168,Lenovo Pantry 209,Groceries,Pantry,Lenovo,59.31,42.39,23/08/2022,736,4.96,True
+PRD00013,Unilever Supplement 994,health & beauty,Supplements,Nivea,GHS 478.76,366.86,25/02/2023,266,4.27,True
+PRD00172,Nivea Bedding 603,Home & Kitchen,Bedding,Kasapreko,169.96,104.01,2024-12-09,421,3.96,True
+PRD00261,GTP Laptop 897,Computing,Laptops,Apple,1343.89,806.21,2023-04-05,200,4.58,True
+PRD01431,HP Outdoor 444,Sports & Fitness,Outdoor,Infinix,101.87,67.7,2024-11-24,774,3.95,True
+PRD00963,Nasco Storage 697,Computing,Storage,Fan Milk,5077.6,4050.22,2024-12-22,510,,True
+PRD00991,itel Supplement 551,Health & Beauty,Supplements,Tecno,GHS 545.32,444.28,2024-01-20,856,3.94,True
+PRD00139,Unilever Household 852,Groceries,Household,Puma,25.66,18.8,23/11/2024,650,3.9,True
+PRD00550,Puma Bag 394,Fashion,Bags,Dell,713.09,487.35,2023-01-16,327,3.71,True
+PRD01031,HP Bedding 167,Home & Kitchen,Bedding,Midea,268.56,168.7,2022-09-25,483,4.45,True
+PRD01282,Puma Bag 822,Fashion,Bags,Nestle,107.0,69.58,2023-03-14,694,5.0,False
+PRD01178,Hisense Bag 975,Fashion,Bags,Midea,152.18,107.25,10/02/2022,586,3.74,True
+PRD00559,Generic Cookware 983,Home & Kitchen,Cookware,Dell,0.0,39.6,2021-12-29,440,3.64,False
+PRD00140,Tecno Tablet 244,Phones & Tablets,Tablets,HP,GHS 300.63,245.4,2022-03-28,849,4.04,True
+PRD01358,Generic Footwear 330,Fashion,Footwear,Adidas,196.07,116.69,2023-10-25,466,3.39,True
+PRD00942,Unilever Diaper 685,Baby Products,Diapers,Midea,184.41,144.27,2022-04-09,851,5.0,True
+PRD00225,Fan Milk Camera 691,Electronics,Cameras,HP,5114.25,2970.12,2024-12-25,549,4.63,True
+PRD01095,Infinix Bedding 304,Home & Kitchen,Bedding,Fan Milk,181.29,100.68,2024-08-14,886,3.44,True
+PRD00410,Unilever Art 756,Books & Stationery,Art,Nasco,18.7,11.99,2022-10-26,806,4.47,True
+PRD00326,Adidas Haircare 718,Health & Beauty,Haircare,Adidas,34.55,24.42,2024-06-01,864,4.02,True
+PRD00300,Hisense Fragrance 987,Health & Beauty,Fragrance,Nasco,24.23,17.31,2023-09-05,841,4.07,True
+PRD01406,itel Television 344,Electronics,Televisions,Generic,781.84,654.78,2022-06-18,56,3.68,True
+PRD00794,Nestle Smartphone 458,Phones & Tablets,Smartphones,Nivea,392.06,305.74,2024-04-02,716,3.48,True
+PRD01463,Nestle Storage 895,Computing,Storage,Samsung,691.55,602.75,"November 25, 2022",310,4.48,True
+PRD01442,GTP Smartphone 947,Phones & Tablets,Smartphones,Generic,530.21,429.98,2024-07-14,288,4.34,True
+PRD01250,Kasapreko Outdoor 366,Sports & Fitness,Outdoor,HP,1297.82,883.53,2023-09-06,169,4.1,True
+PRD00941,itel Camera 303,Electronics,Cameras,Kasapreko,3041.35,1948.02,2023-07-02,23,3.96,True
+PRD00574,Lenovo Beverage 866,Groceries,Beverages,Adidas,81.27,63.96,2022-03-15,275,4.7,True
+PRD00504,Samsung Cookware 312,Home & Kitchen,Cookware,Nasco,334.36,226.38,2023-11-24,806,3.1,True
+PRD00606,Generic Pantry 781,Groceries,Pantry,Dell,223.47,193.94,2024-02-15,683,4.07,True
+PRD00820,GTP Audio 649,Electronics,Audio,Tecno,1677.28,1178.38,2024-01-20,403,,True
+PRD00004,Nivea Haircare 252,Health & Beauty,Haircare,Kasapreko,389.43,,2022-06-27,157,4.53,True
+PRD01002,Midea Footwear 920,Fashion,Footwear,Nasco,281.5,244.19,2022-01-27,839,3.4,True
+PRD00468,Hisense Office Supplie 297,Books & Stationery,Office Supplies,Unilever,396.55,229.06,2023-10-22,870,5.0,True
+PRD00322,Lenovo Bedding 353,Home & Kitchen,Bedding,Midea,136.71,108.5,2024-12-19,835,4.36,True
+PRD00006,Apple Fiction 198,Books & Stationery,Fiction,GTP,179.12,113.41,20/05/2024,403,3.74,True
+PRD00223,Midea Fragrance 224,Health & Beauty,Fragrance,Midea,136.07,99.9,2024-07-04,794,5.0,True
+PRD00548,HP Power Bank 737,Phones & Tablets,Power Banks,Unilever,209.52,124.31,2022-06-13,268,4.56,True
+PRD01285,Tecno Outdoor 507,Sports & Fitness,Outdoor,Adidas,620.88,369.19,20/02/2024,815,2.44,True
+PRD00040,Puma Haircare 943,Health & Beauty,Haircare,Kasapreko,158.11,111.89,03/10/2023,402,4.55,True
+PRD00543,Nestle Baby Food 964,Baby Products,Baby Food,itel,796.16,623.23,2022-02-13,253,4.39,True
+PRD00243,Adidas Camera 830,electronics,Cameras,Adidas,3214.07,1849.68,2022-10-09,584,4.42,True
+PRD00137,Nestle Art 799,Books & Stationery,Art,Infinix,GHS 72.63,49.39,"September 08, 2024",245,3.85,True
+PRD01232,Apple Bedding 178,Home & Kitchen,Bedding,Tecno,2366.83,2076.19,2023-10-03,375,3.51,True
+PRD01064,HP Fragrance 474,Health & Beauty,Fragrance,Hisense,199.99,19.84,31/10/2022,821,3.67,True
+PRD01011,Puma Haircare 386,Health & Beauty,Haircare,Woodin,80.81,69.06,2022-01-16,594,3.93,True
+PRD00725,Midea Phone Accessorie 864,Phones & Tablets,Phone Accessories,Puma,GHS 182.27,102.25,06/01/2024,462,4.02,True
+PRD01107,Lenovo Smartphone 372,Phones & Tablets,Smartphones,Puma,3835.04,2226.4,2024-04-01,57,3.98,True
+PRD00810,Kasapreko Fiction 134,Books & Stationery,Fiction,Dell,37.3,32.0,2022-01-03,234,3.25,True
+PRD01417,Midea Cleaning 407,Home & Kitchen,Cleaning,GTP,757.01,530.47,2023-02-07,864,2.39,True
+PRD00582,Kasapreko Furniture 956,Home & Kitchen,Furniture,Fan Milk,167.21,129.25,2022-10-12,645,3.48,True
+PRD01235,Generic Small Appliance 893,Electronics,Small Appliances,Puma,6903.76,3645.72,21/07/2024,132,4.02,True
+PRD01086,Unilever Household 318,Groceries,Household,Generic,GHS 149.81,101.72,2022-08-19,784,3.35,True
+PRD01440,Tecno Office Supplie 850,Books & Stationery,Office Supplies,Woodin,68.78,55.29,2024-10-05,771,3.86,True
+PRD00377,Samsung Supplement 483,Sports & Fitness,Supplements,Midea,163.23,118.09,2024-10-28,28,3.75,True
+PRD00315,itel Men's Clothing 833,Fashion,Men's Clothing,Lenovo,102.62,67.61,2022-05-07,660,4.63,True
+PRD00443,Hisense Snack 745,Groceries,Snacks,Infinix,GHS 152.90,123.56,2024-09-07,875,4.93,True
+PRD00320,Nasco Office Supplie 823,Books & Stationery,Office Supplies,Apple,20.08,11.99,2024-12-17,81,3.55,True
+PRD00907,Apple Cleaning 379,Home & Kitchen,Cleaning,Samsung,999.26,726.31,2022-04-09,165,3.83,True
+PRD00866,Generic Supplement 742,Sports & Fitness,Supplements,Samsung,1625.91,1415.75,2022-07-18,330,4.06,True
+PRD01174,Unilever Snack 402,Groceries,Snacks,Nestle,8.7,7.14,2024-03-04,593,4.11,True
+PRD00425,Generic Haircare 880,Health & Beauty,Haircare,Woodin,81.61,54.69,2022-11-10,217,,True
+PRD00554,Woodin Supplement 149,Sports & Fitness,Supplements,Woodin,69.19,55.45,2023-01-05,77,4.55,True
+PRD00595,Puma Phone Accessorie 305,Phones & Tablets,Phone Accessories,Apple,658.64,460.25,2023-02-16,813,4.38,True
+PRD00966,Dell Cleaning 810,Home & Kitchen,Cleaning,Hisense,1005.18,577.5,2023-06-08,425,3.39,True
+PRD01121,Woodin Skincare 466,Health & Beauty,Skincare,GTP,39.51,25.61,2022-03-11,688,4.16,True
+PRD01028,Infinix Women's Clothing 446,Fashion,Women's Clothing,Samsung,450.66,290.15,2022-11-29,24,3.4,False
+PRD01264,Generic Textbook 593,Books & Stationery,Textbooks,Infinix,23.81,20.8,2024-11-03,220,3.04,True
+PRD00671,Kasapreko Storage 931,Computing,Storage,Samsung,1291.71,1013.13,25/07/2024,761,4.14,True
+PRD00228,Lenovo Cookware 388,Home & Kitchen,Cookware,Dell,31.61,,"February 21, 2023",231,3.75,True
+PRD00766,Lenovo Tablet 477,Phones & Tablets,Tablets,Apple,,508.88,2022-03-02,23,3.86,True
+PRD00875,HP Pantry 148,Groceries,Pantry,Hisense,8.9,5.14,2023-03-04,634,3.7,True
+PRD01037,Kasapreko Men's Clothing 237,Fashion,Men's Clothing,Woodin,62.71,45.91,2024-02-04,779,3.49,True
+PRD01068,Infinix Supplement 839,Health & Beauty,Supplements,Adidas,57.75,42.66,2024-08-21,752,4.98,True
+PRD00067,Fan Milk Bedding 264,Home & Kitchen,Bedding,GTP,GHS 36.22,23.15,2023-06-05,425,,True
+PRD00394,Puma Fragrance 935,Health & Beauty,Fragrance,Kasapreko,42.63,26.02,2022-11-16,460,4.33,True
+PRD00580,Nestle Footwear 611,Fashion,Footwear,Puma,58.12,47.42,2024-10-25,133,4.32,True
+PRD00025,Tecno Snack 188,Groceries,Snacks,Unilever,158.4,123.41,2023-05-21,683,4.04,True
+PRD00212,Infinix Bedding 770,Home & Kitchen,Bedding,Midea,500.07,,2023-07-04,54,3.65,True
+PRD01203,Nasco Baby Care 459,Baby Products,Baby Care,Hisense,363.78,251.33,2024-05-27,31,4.51,True
+PRD00842,Generic Beverage 568,Groceries,Beverages,Nasco,58.01,39.77,2022-07-25,688,4.63,True
+PRD00537,Puma Cleaning 757,Home & Kitchen,Cleaning,Hisense,154.43,133.36,2022-04-26,782,4.11,True
+PRD00424,Nestle Smartphone 200,Phones & Tablets,Smartphones,Nestle,239.36,149.12,"November 22, 2023",482,5.0,True
+PRD01374,Infinix Snack 560,Groceries,Snacks,Kasapreko,9.45,7.98,2023-01-18,125,4.13,True
+PRD00086,Apple Phone Accessorie 709,Phones & Tablets,Phone Accessories,Fan Milk,280.75,224.97,2023-12-20,117,4.37,True
+PRD01401,Samsung Footwear 559,Fashion,Footwear,Apple,77.42,55.91,2022-01-04,195,4.65,True
+PRD00273,Infinix Phone Accessorie 585,Phones & Tablets,Phone Accessories,Apple,1912.13,1598.13,2023-05-20,48,4.32,True
+PRD00989,Adidas Women's Clothing 710,Fashion,Women's Clothing,Hisense,61.22,38.44,2024-12-22,289,4.27,True
+PRD01099,Fan Milk Diaper 730,Baby Products,,Infinix,GHS 654.24,493.51,2023-09-15,98,,True
+PRD01402,Hisense Smartphone 843,Phones & Tablets,Smartphones,Apple,363.18,236.1,2024-10-20,662,3.69,True
+PRD00631,Hisense Supplement 549,Sports & Fitness,Supplements,GTP,GHS 359.46,296.24,2022-10-22,735,4.07,False
+PRD01069,Nestle Power Bank 133,Phones & Tablets,Power Banks,Apple,4131.61,3300.34,2023-07-08,26,4.14,True
+PRD01451,Midea Pantry 706,Groceries,Pantry,Nasco,62.24,41.29,2024-11-14,671,3.3,True
+PRD00506,Nasco Snack 675,Groceries,Snacks,Generic,139.56,115.48,2022-07-29,202,4.43,True
+PRD00274,Nestle Furniture 158,Home & Kitchen,Furniture,GTP,1220.35,1050.83,2024-02-25,774,3.24,True
+PRD01497,Tecno Toy 385,Baby Products,Toys,Generic,,72.98,12/11/2024,822,,True
+PRD00363,Apple Power Bank 407,Phones & Tablets,Power Banks,,457.03,365.76,2023-12-30,330,2.95,True
+PRD00623,Fan Milk Fiction 645,Books & Stationery,Fiction,Nestle,16.05,13.09,2023-04-29,260,3.03,True
+PRD00003,Puma Diaper 189,Baby Products,Diapers,Generic,54.67,46.11,2022-08-03,138,4.99,True
+PRD00007,HP Pantry 408,Groceries,,Dell,14.68,10.65,2022-11-03,216,4.03,True
+PRD00312,itel Men's Clothing 432,Fashion,Men's Clothing,Adidas,47.58,36.41,2023-03-07,553,,False
+PRD01054,Dell Laptop 605,Computing,Laptops,Hisense,466.63,373.85,2022-02-16,287,3.53,True
+PRD00711,Nestle Textbook 426,Books & Stationery,Textbooks,Midea,10.79,5.97,2023-01-12,598,4.61,True
+PRD00666,HP Household 455,Groceries,Household,Dell,GHS 88.58,49.27,2023-04-24,352,3.7,True
+PRD01231,Kasapreko Audio 906,Electronics,Audio,Samsung,573.19,495.65,2023-11-08,742,3.37,True
+PRD00611,Puma Cookware 829,Home & Kitchen,Cookware,Puma,95.79,53.03,2022-01-29,733,3.26,True
+PRD00216,Hisense Pantry 503,Groceries,Pantry,Kasapreko,170.79,107.34,2023-05-31,250,4.45,True
+PRD00813,Generic Office Supplie 649,Books & Stationery,Office Supplies,Nivea,93.68,70.0,10/11/2024,36,3.95,True
+PRD00028,Dell Power Bank 817,Phones & Tablets,,Midea,3026.68,1751.42,2022-09-03,662,3.84,True
+PRD01119,Woodin Television 712,Electronics,Televisions,Fan Milk,1071.11,819.92,2024-04-12,617,4.58,True
+PRD01160,Woodin Snack 844,Groceries,Snacks,Fan Milk,65.41,,2024-06-15,131,3.93,True
+PRD01423,Fan Milk Men's Clothing 798,Fashion,Men's Clothing,Samsung,49.07,42.75,2022-01-25,153,3.22,True
+PRD00639,Nestle Beverage 326,Groceries,Beverages,GTP,,31.49,2023-02-28,302,4.58,True
+PRD00808,Nivea Monitor 334,Computing,Monitors,Nivea,325.13,232.07,05/07/2024,661,3.88,True
+PRD00692,Midea Supplement 478,SPORTS & FITNESS,Supplements,Adidas,273.72,211.23,2024-09-11,457,4.87,True
+PRD00894,Tecno Power Bank 890,Phones & Tablets,Power Banks,Dell,5484.23,3588.13,2023-08-27,180,5.0,True
+PRD00625,Nasco Textbook 421,Books & Stationery,Textbooks,Apple,181.11,102.01,"November 10, 2023",37,3.98,True
+PRD00918,itel Storage 288,Computing,Storage,Apple,1143.4,746.64,2023-06-24,537,,True
+PRD00257,Apple Baby Care 221,Baby Products,Baby Care,Adidas,117.16,102.08,2023-07-29,287,4.02,True
+PRD00026,Adidas Laptop 150,Computing,Laptops,Puma,4405.77,3235.58,2024-06-09,474,3.24,True
+PRD00337,Samsung Power Bank 298,Phones & Tablets,Power Banks,Adidas,2032.81,1558.3,2023-05-02,291,4.3,True
+PRD00573,Generic Cookware 498,home & kitchen,Cookware,itel,59.67,48.71,21/02/2023,513,3.27,True
+PRD00048,Generic Small Appliance 482,Electronics,Small Appliances,Nasco,839.54,688.68,2024-07-27,85,4.05,True
+PRD00107,Dell Footwear 376,Fashion,Footwear,Nestle,66.35,52.65,2024-01-05,349,3.6,True
+PRD00350,Adidas Phone Accessorie 141,Phones & Tablets,Phone Accessories,Unilever,2338.06,2004.3,2024-05-25,890,4.28,True
+PRD00056,itel Pantry 150,Groceries,Pantry,Nasco,GHS 149.45,109.51,08/09/2024,683,3.43,False
+PRD01059,HP Bedding 113,Home & Kitchen,Bedding,Infinix,510.72,402.03,2023-05-28,865,4.44,True
+PRD00214,Nestle Household 776,Groceries,Household,Infinix,16.49,9.18,2023-02-20,746,3.63,True
+PRD00121,Fan Milk Bedding 101,Home & Kitchen,Bedding,Tecno,103.79,66.55,2022-01-08,776,3.64,True
+PRD00939,itel Gym Equipment 229,SPORTS & FITNESS,Gym Equipment,HP,232.22,196.53,"October 11, 2022",58,3.93,True
+PRD01332,Lenovo Cookware 322,Home & Kitchen,Cookware,Fan Milk,199.72,135.77,2023-06-12,806,3.85,True
+PRD00073,Apple Toy 268,Baby Products,Toys,Kasapreko,33.72,27.97,2024-08-09,42,4.18,True
+PRD01349,Dell Women's Clothing 795,Fashion,Women's Clothing,Adidas,209.52,123.11,2022-01-02,360,3.54,True
+PRD00840,Nasco Cookware 959,Home & Kitchen,Cookware,Puma,960.43,574.06,2023-08-19,350,3.57,True
+PRD00775,Kasapreko Smartphone 680,Phones & Tablets,Smartphones,Tecno,4632.22,3215.02,2022-05-16,243,5.0,True
+PRD00046,Lenovo Household 748,Groceries,Household,Adidas,44.6,30.13,2022-03-16,442,4.17,True
+PRD01312,Nestle Outdoor 874,SPORTS & FITNESS,Outdoor,Lenovo,600.65,363.98,2023-08-18,447,4.22,True
+PRD00524,GTP Fragrance 901,Health & Beauty,Fragrance,Tecno,17.83,14.66,2024-04-05,172,4.07,True
+PRD00938,Nasco Printer 682,Computing,Printers,Unilever,2902.76,2480.76,2022-09-04,113,3.79,True
+PRD01044,Fan Milk Supplement 143,Health & Beauty,Supplements,Fan Milk,385.02,227.54,2023-06-07,861,3.95,True
+PRD00933,Nasco Bag 366,Fashion,Bags,Nivea,357.0,198.94,2023-07-08,622,,True
+PRD00856,Fan Milk Footwear 773,Fashion,Footwear,Nestle,801.89,481.19,29/11/2024,525,4.81,True
+PRD00534,Hisense Skincare 874,Health & Beauty,Skincare,Nestle,39.33,28.63,14/11/2024,458,3.77,True
+PRD01179,HP Small Appliance 428,Electronics,Small Appliances,Nivea,2984.93,1915.91,2023-08-18,699,4.68,True
+PRD00604,itel Household 965,Groceries,Household,Kasapreko,212.14,143.79,2024-10-22,822,4.0,True
+PRD00466,Nestle Fragrance 593,Health & Beauty,Fragrance,Kasapreko,122.66,99.26,2024-11-14,579,4.13,False
+PRD00880,Lenovo Furniture 603,Home & Kitchen,Furniture,Generic,340.71,269.99,2024-05-20,820,3.36,True
+PRD01326,Nasco Outdoor 490,Sports & Fitness,Outdoor,Unilever,1880.99,1413.89,2022-10-28,271,4.61,True
+PRD00837,GTP Beverage 368,Groceries,Beverages,Nivea,50.66,30.83,"January 07, 2023",131,3.49,True
+PRD01074,Lenovo Sportswear 395,Sports & Fitness ,Sportswear,Nivea,107.64,62.73,2022-05-14,324,4.43,True
+PRD00061,Apple Supplement 759,Health & Beauty,Supplements,Samsung,56.53,45.56,2024-09-08,316,3.8,False
+PRD01490,Midea Women's Clothing 910,Fashion,Women's Clothing,Hisense,49.9,32.05,2022-05-17,466,5.0,True
+PRD00093,Tecno Women's Clothing 132,Fashion,Women's Clothing,Tecno,883.41,552.9,2024-03-03,-20,4.47,True
+PRD00667,Generic Beverage 973,Groceries,Beverages,HP,91.12,69.39,05/01/2022,387,3.88,True
+PRD00756,Apple Audio 346,Electronics,Audio,Woodin,617.93,363.32,15/09/2022,473,4.46,True
+PRD00195,Infinix Printer 857,Computing,Printers,Dell,1385.92,1162.96,16/01/2023,501,3.58,False
+PRD00281,Woodin Smartphone 534,Phones & Tablets,Smartphones,Hisense,1661.75,1297.14,2022-08-12,870,3.61,True
+PRD00696,Nestle Furniture 268,Home & Kitchen,Furniture,Puma,1033.26,850.17,2023-06-10,248,4.03,True
+PRD00360,Hisense Furniture 328,Home & Kitchen,Furniture,Adidas,2160.44,1333.35,2023-09-10,586,4.16,True
+PRD00520,Hisense Baby Food 796,Baby Products,Baby Food,Apple,435.17,254.29,2023-04-01,804,3.96,True
+PRD01309,Nivea Phone Accessorie 730,Phones & Tablets,Phone Accessories,Apple,3505.99,2074.9,2024-02-12,887,3.61,True
+PRD00865,Adidas Smartphone 217,Phones & Tablets,Smartphones,Adidas,5978.25,3978.27,"March 05, 2023",68,3.28,False
+PRD00183,Midea Cookware 807,Home & Kitchen,Cookware,Infinix,48.77,41.04,2024-09-22,574,4.76,True
+PRD01064,HP Fragrance 474,Health & Beauty,Fragrance,Hisense,GHS 27.82,19.84,31/10/2022,821,3.67,True
+PRD01245,Midea Footwear 563,Fashion,Footwear,HP,503.03,413.26,2022-11-13,360,4.51,False
+PRD00111,Fan Milk Women's Clothing 140,Fashion,Women's Clothing,Samsung,539.61,320.1,2024-09-15,500,4.37,True
+PRD01139,Dell Phone Accessorie 479,Phones & Tablets,Phone Accessories,Unilever,5372.24,3158.94,2022-12-30,73,3.96,False
+PRD00043,Adidas Fragrance 323,Health & Beauty,Fragrance,Hisense,44.54,30.83,2023-12-25,498,4.99,True
+PRD00747,Hisense Women's Clothing 374,Fashion,Women's Clothing,Tecno,244.43,185.89,2022-09-15,7,4.37,True
+PRD00988,Samsung Smartphone 869,Phones & Tablets,Smartphones,Woodin,4260.38,,2023-01-17,705,3.89,True
+PRD00205,Puma Phone Accessorie 763,Phones & Tablets,Phone Accessories,Hisense,1967.7,1425.22,2022-11-11,77,3.01,False
+PRD00887,Dell Footwear 910,Fashion,Footwear,Infinix,565.0,423.89,2023-11-18,239,3.51,True
+PRD00053,Adidas Pantry 700,Groceries,Pantry,GTP,16.14,11.39,2024-04-29,272,4.52,True
+PRD01191,Infinix Women's Clothing 320,Fashion,Women's Clothing,Unilever,47.66,31.57,2023-12-14,466,4.05,True
+PRD00546,Unilever Bag 231,Fashion,Bags,HP,696.89,512.59,2023-03-31,689,3.24,True
+PRD00069,Fan Milk Phone Accessorie 690,Phones & Tablets,Phone Accessories,HP,389.53,232.29,2024-05-27,766,3.68,True
+PRD00967,Apple Textbook 230,Books & Stationery,Textbooks,Dell,GHS 14.77,12.18,01/11/2023,823,4.72,True
+PRD00925,Puma Monitor 340,computing,Monitors,Tecno,2377.71,1351.58,2024-01-01,777,4.36,True
+PRD00811,Nestle Phone Accessorie 721,Phones & Tablets,Phone Accessories,Nivea,1190.08,,2024-10-21,443,4.32,True
+PRD00184,Kasapreko Bag 619,Fashion,Bags,Adidas,325.57,228.57,2023-08-21,346,5.0,False
+PRD00138,Kasapreko Bedding 263,Home & Kitchen,Bedding,Nasco,39.08,26.75,2024-12-16,660,4.66,True
+PRD00133,Tecno Cookware 335,Home & Kitchen,Cookware,Fan Milk,763.37,512.65,2024-10-28,745,4.48,True
+PRD00081,Apple Supplement 107,Health & Beauty,Supplements,Adidas,20.96,15.51,2022-10-21,452,3.62,True
+PRD01259,itel Furniture 700,Home & Kitchen,Furniture,Adidas,2492.19,1696.24,2024-11-20,279,,True
+PRD00106,Hisense Household 520,Groceries,Household,Hisense,28.43,19.98,27/06/2022,54,3.5,True
+PRD01207,Nivea Skincare 889,Health & Beauty,Skincare,Generic,215.78,183.19,02/04/2023,303,4.17,True
+PRD00542,Midea Furniture 166,Home & Kitchen,Furniture,Unilever,GHS 39.50,27.54,2022-09-26,653,3.68,False
+PRD01323,Infinix Smartphone 105,Phones & Tablets,Smartphones,Adidas,-49.99,164.92,2024-03-01,734,3.99,True
+PRD00481,Midea Footwear 736,Fashion,Footwear,,335.26,230.37,15/02/2024,498,3.51,True
+PRD00166,Nasco Bag 920,Fashion,Bags,Dell,536.53,401.93,2023-04-20,221,3.56,True
+PRD00249,Nivea Bag 218,Fashion,Bags,Infinix,692.22,540.64,2022-05-07,500,4.43,True
+PRD00308,itel Fragrance 581,Health & Beauty,Fragrance,Tecno,69.86,41.2,2024-05-04,191,4.24,True
+PRD00447,Midea Office Supplie 866,Books & Stationery,Office Supplies,HP,109.38,94.34,21/10/2024,620,4.21,True
+PRD00803,Dell Supplement 609,Sports & Fitness,Supplements,Infinix,117.88,77.41,2023-07-14,209,5.0,True
+PRD00335,Kasapreko Printer 575,Computing,Printers,Dell,,564.08,2023-06-24,249,4.37,True
+PRD00098,Generic Tablet 932,Phones & Tablets,Tablets,Nivea,3637.38,3030.32,2023-04-28,152,4.23,True
+PRD00818,Apple Cleaning 193,Home & Kitchen,Cleaning,Hisense,1639.18,1134.67,2023-08-11,633,4.29,True
+PRD00738,Lenovo Audio 190,Electronics,Audio,Lenovo,"GHS 5,638.67",4894.93,28/03/2023,594,3.97,True
+PRD00947,HP Snack 929,Groceries,Snacks,Midea,64.15,44.1,2022-01-17,185,3.83,True
+PRD00904,Tecno Bedding 102,Home & Kitchen,Bedding,Midea,484.54,409.27,2024-08-23,456,4.18,True
+PRD01108,Nestle Men's Clothing 702,Fashion,Men's Clothing,,GHS 246.27,213.06,2024-06-18,41,4.55,True
+PRD00103,Infinix Small Appliance 409,Electronics,Small Appliances,Hisense,"GHS 6,642.00",3768.19,2024-01-09,319,3.46,True
+PRD00435,Midea Tablet 311,Phones & Tablets,Tablets,Samsung,231.78,151.7,31/07/2023,608,4.05,True
+PRD00075,Nestle Tablet 506,Phones & Tablets,Tablets,Midea,GHS 265.79,232.69,2023-12-29,410,,True
+PRD01392,Generic Diaper 908,Baby Products,Diapers,HP,42.41,36.45,2022-08-25,120,4.07,True
+PRD01023,Woodin Textbook 702,Books & Stationery,Textbooks,Kasapreko,GHS 119.41,74.49,2024-06-09,122,3.15,True
+PRD01411,Dell Baby Care 385,Baby Products,Baby Care,Apple,241.99,183.21,2024-10-10,169,3.79,False
+PRD00303,Midea Cookware 462,Home & Kitchen,Cookware,Kasapreko,232.09,140.25,"December 23, 2023",504,3.97,True
+PRD01342,Nivea Diaper 520,Baby Products,Diapers,HP,222.32,143.02,2022-09-06,266,3.79,True
+PRD01311,Dell Bag 751,Fashion,Bags,itel,55.55,36.61,2024-12-20,505,4.62,True
+PRD01270,Samsung Cleaning 384,Home & Kitchen,Cleaning,Hisense,47.51,33.68,2023-03-06,869,4.64,True
+PRD00763,HP Power Bank 396,Phones & Tablets,Power Banks,Infinix,2290.85,1707.68,2024-12-05,303,4.5,True
+PRD00734,Adidas Bag 622,Fashion,Bags,Generic,96.2,63.68,2023-02-09,602,3.74,True
+PRD00389,Unilever Phone Accessorie 468,Phones & Tablets,Phone Accessories,Midea,338.95,236.01,2022-10-05,878,3.71,True
+PRD00236,Samsung Pantry 825,Groceries,Pantry,Infinix,62.78,47.92,2023-10-24,167,3.44,False
+PRD01293,Dell Furniture 471,Home & Kitchen,,Woodin,1423.64,934.51,2023-10-26,378,4.13,True
+PRD00268,Apple Monitor 692,Computing,Monitors,Adidas,1435.27,1258.24,2023-06-03,409,4.57,True
+PRD00306,GTP Men's Clothing 703,Fashion,Men's Clothing,Fan Milk,62.07,53.56,2024-03-01,315,3.96,True
+PRD00850,Samsung Office Supplie 416,Books & Stationery,Office Supplies,Samsung,283.02,160.07,2022-12-13,191,4.35,True
+PRD00118,Tecno Household 363,Groceries,Household,Midea,32.06,27.36,2023-10-22,887,,True
+PRD01496,Nasco Fragrance 170,Health & Beauty,Fragrance,Lenovo,427.24,268.3,2022-12-28,-20,3.72,True
+PRD00674,Apple Supplement 521,Health & Beauty,Supplements,Lenovo,47.35,34.6,2023-08-13,817,2.84,True
+PRD00250,Puma Footwear 560,Fashion,Footwear,Nivea,162.36,90.83,2023-10-04,243,4.39,False
+PRD01132,Adidas Cookware 537,Home & Kitchen,Cookware,Kasapreko,816.71,638.17,22/10/2023,254,4.29,True
+PRD01190,Dell Haircare 775,Health & Beauty,Haircare,Midea,60.59,52.6,2023-10-07,628,2.55,True
+PRD00072,Apple Footwear 820,Fashion,Footwear,Generic,540.09,395.72,2024-03-31,585,3.73,True
+PRD00095,Lenovo Camera 864,Electronics,Cameras,Dell,377.11,282.98,2024-11-09,791,4.11,True
+PRD00916,itel Fiction 294,Books & Stationery,Fiction,Kasapreko,50.76,44.59,2022-08-12,266,,False
+PRD00034,Tecno Bag 571,Fashion,Bags,Puma,399.29,317.43,2024-05-01,671,4.15,True
+PRD00800,Kasapreko Fragrance 635,HEALTH & BEAUTY,Fragrance,Puma,106.5,65.37,2023-03-29,344,3.59,True
+PRD01228,Adidas Footwear 497,Fashion,Footwear,Hisense,203.84,149.08,2024-12-12,66,3.47,True
+PRD00449,Nasco Smartphone 280,Phones & Tablets,Smartphones,GTP,547.2,397.8,2023-05-07,722,4.06,True
+PRD00446,GTP Haircare 260,Health & Beauty,Haircare,Midea,50.84,41.47,2023-11-26,245,4.62,True
+PRD00772,Fan Milk Cookware 141,Home & Kitchen,Cookware,Nestle,1990.04,1521.83,2024-09-24,252,4.41,True
+PRD00717,Tecno Cookware 375,Home & Kitchen,Cookware,Kasapreko,96.86,53.52,2022-09-09,45,4.94,True
+PRD00843,Unilever Cookware 500,Home & Kitchen,Cookware,Nasco,646.41,390.6,28/08/2024,789,5.0,True
+PRD01186,Puma Diaper 729,Baby Products,Diapers,,411.47,238.25,2022-11-27,403,4.03,False
+PRD01376,itel Power Bank 826,Phones & Tablets,Power Banks,Adidas,2377.11,1895.74,2023-05-02,744,4.65,False
+PRD01168,Tecno Bedding 862,Home & Kitchen,Bedding,Lenovo,-49.99,285.02,2024-04-06,382,3.9,True
+PRD00078,Woodin Supplement 983,Health & Beauty,Supplements,Generic,154.58,88.63,2022-10-14,38,3.68,True
+PRD00085,HP Phone Accessorie 338,Phones & Tablets,Phone Accessories,Nasco,,2648.45,2024-11-16,810,3.43,False
+PRD00902,Woodin Audio 502,Electronics,Audio,Kasapreko,267.57,150.06,2023-12-02,81,4.72,True
+PRD00083,Generic Baby Care 279,Baby Products,Baby Care,Samsung,39.79,31.06,2023-10-16,352,4.46,True
+PRD00458,Woodin Women's Clothing 491,Fashion,Women's Clothing,Puma,77.78,52.74,2023-09-06,510,4.7,True
+PRD01165,Adidas Printer 599,Computing,Printers,Infinix,2153.86,1609.61,2024-07-07,531,4.77,True
+PRD00677,Generic Outdoor 257,Sports & Fitness,Outdoor,GTP,GHS 457.97,345.79,2024-06-13,184,3.74,True
+PRD01495,Unilever Women's Clothing 900,Fashion,Women's Clothing,Tecno,GHS 188.20,143.65,2024-03-04,891,3.51,True
+PRD01114,Adidas Gym Equipment 953,Sports & Fitness,Gym Equipment,Woodin,1516.1,1165.6,2024-08-14,85,3.3,True
+PRD00437,GTP Storage 983,Computing,Storage,Fan Milk,542.11,358.88,2024-05-13,33,3.71,True
+PRD00771,Woodin Small Appliance 492,Electronics,,Fan Milk,8521.27,6457.35,2024-04-16,542,3.62,True
+PRD00645,Puma Fragrance 215,Health & Beauty,Fragrance,,24.49,14.45,2024-09-08,783,4.25,True
+PRD00889,Lenovo Laptop 589,Computing,Laptops,Apple,GHS 421.02,309.3,2022-08-24,412,4.46,True
+PRD00979,HP Bedding 473,Home & Kitchen,Bedding,Nivea,44.58,33.02,07/03/2024,185,3.87,True
+PRD00491,Tecno Haircare 939,Health & Beauty,Haircare,Nivea,134.79,74.85,2023-05-03,720,3.69,True
+PRD01161,Puma Power Bank 126,Phones & Tablets,Power Banks,Apple,1073.2,792.61,2024-04-16,180,3.34,True
+PRD00405,Apple Art 116,Books & Stationery,Art,Infinix,199.63,167.28,2022-12-13,511,3.58,True
+PRD01352,Unilever Toy 579,Baby Products,Toys,,279.65,194.33,2023-10-04,762,3.33,True
+PRD01007,Dell Outdoor 924,Sports & Fitness,Outdoor,Lenovo,152.7,89.12,2022-07-06,624,4.18,True
+PRD01238,Unilever Footwear 583,Fashion,Footwear,Nasco,GHS 108.42,86.71,2024-08-30,853,5.0,True
+PRD00105,HP Beverage 818,Groceries,Beverages,Adidas,76.37,64.84,2022-04-30,673,4.06,True
+PRD00610,Kasapreko Footwear 883,Fashion,Footwear,Tecno,208.08,133.4,07/11/2023,895,,True
+PRD00899,HP Printer 810,Computing,Printers,Infinix,9799.3,8524.4,2022-05-30,529,3.59,True
+PRD00689,Lenovo Pantry 338,Groceries,Pantry,Dell,104.39,78.81,2023-04-25,303,3.84,True
+PRD01081,Nasco Small Appliance 592,Electronics,Small Appliances,Midea,133.42,113.31,2023-03-16,737,3.79,True
+PRD00827,Nestle Cleaning 406,Home & Kitchen,Cleaning,Nivea,1925.23,1391.07,2022-08-04,407,3.63,True
+PRD01278,Nasco Power Bank 812,Phones & Tablets,Power Banks,Nasco,964.2,767.3,2023-11-23,515,4.19,True
+PRD01005,Unilever Haircare 613,Health & Beauty,Haircare,Kasapreko,164.77,101.54,2024-05-03,712,3.87,True
+PRD00063,Lenovo Cleaning 260,HOME & KITCHEN,Cleaning,Samsung,493.09,393.96,2022-05-26,201,3.2,True
+PRD00282,Nivea Storage 719,computing,Storage,Lenovo,1358.84,947.95,2022-07-29,744,3.78,True
+PRD00853,Hisense Baby Food 859,Baby Products,Baby Food,Samsung,369.25,292.73,2023-08-05,144,4.23,True
+PRD00779,Dell Pantry 304,Groceries,Pantry,Nivea,11.13,7.72,2022-06-09,155,5.0,True
+PRD01386,Tecno Smartphone 976,Phones & Tablets,Smartphones,GTP,6359.66,5482.29,2023-05-14,666,4.62,True
+PRD00239,Kasapreko Phone Accessorie 529,Phones & Tablets,Phone Accessories,Kasapreko,2303.48,1278.63,2023-12-23,36,4.48,True
+PRD00224,Dell Art 159,Books & Stationery,Art,Lenovo,19.57,12.5,2024-01-19,14,4.74,True
+PRD00146,Nasco Television 415,Electronics,Televisions,itel,1281.94,1037.1,2023-10-21,506,4.41,True
+PRD01450,Dell Small Appliance 876,Electronics,Small Appliances,Generic,GHS 844.06,,2024-08-18,759,2.97,True
+PRD00374,Woodin Footwear 479,Fashion,Footwear,Generic,623.66,469.53,2023-03-01,137,4.37,True
+PRD01275,GTP Printer 925,Computing,Printers,Midea,408.68,353.3,2023-05-28,428,3.97,True
+PRD00119,Unilever Men's Clothing 239,Fashion,Men's Clothing,HP,176.33,121.4,2024-01-24,744,4.2,True
+PRD01169,Tecno Baby Food 105,Baby Products,Baby Food,Midea,GHS 30.60,17.05,2023-07-01,276,4.03,True
+PRD01166,Dell Diaper 940,Baby Products,Diapers,Generic,165.77,144.36,2022-04-13,260,4.19,False
+PRD00251,Woodin Haircare 346,Health & Beauty,,Nivea,21.81,16.97,2024-06-01,38,3.3,True
+PRD01498,Midea Supplement 813,Health & Beauty,Supplements,Samsung,78.76,60.92,2022-12-30,590,3.05,True
+PRD01382,Kasapreko Power Bank 480,Phones & Tablets,Power Banks,itel,341.3,287.02,2024-12-28,457,4.02,True
+PRD00964,GTP Storage 622,Computing,Storage,Generic,9605.09,6341.73,2023-03-03,840,4.81,True
+PRD00010,Adidas Bag 783,Fashion,Bags,Tecno,457.25,332.83,2022-11-12,14,2.88,True
+PRD00450,Dell Fragrance 199,Health & Beauty,Fragrance,Infinix,GHS 371.57,218.82,2022-01-05,516,3.68,True
+PRD00953,Adidas Television 546,Electronics,Televisions,Nestle,GHS 602.92,448.35,2023-10-01,721,3.77,True
+PRD00709,Nivea Footwear 913,Fashion,Footwear,Woodin,50.85,43.99,"March 21, 2024",381,5.0,True
+PRD00256,HP Pantry 590,Groceries,Pantry,Apple,95.51,65.8,2024-04-15,438,4.83,True
+PRD00883,Unilever Sportswear 291,Sports & Fitness,Sportswear,Infinix,122.32,74.13,2024-04-13,519,4.22,True
+PRD00594,Nasco Cookware 638,Home & Kitchen,Cookware,Puma,779.35,,2023-12-11,-20,3.41,True
+PRD00390,Woodin Baby Food 537,Baby Products,Baby Food,Dell,25.62,21.09,29/07/2022,781,,True
+PRD01226,Adidas Sportswear 185,Sports & Fitness,Sportswear,Midea,1062.9,706.75,2022-09-09,294,4.5,True
+PRD01247,Adidas Fragrance 769,Health & Beauty,Fragrance,Adidas,276.73,153.83,2022-04-20,284,3.41,True
+PRD00558,Midea Cleaning 633,Home & Kitchen,Cleaning,itel,"GHS 1,149.61",886.01,2022-11-23,654,,False
+PRD01336,HP Diaper 313,Baby Products,Diapers,GTP,354.64,299.7,2022-05-11,690,4.63,True
+PRD00908,Samsung Power Bank 860,Phones & Tablets,Power Banks,Tecno,210.27,166.91,13/08/2023,487,3.21,True
+PRD00461,Adidas Furniture 895,Home & Kitchen,Furniture,Adidas,136.34,109.33,2023-11-10,671,4.37,False
+PRD00724,Generic Fiction 951,Books & Stationery,Fiction,Unilever,344.95,210.13,02/03/2023,674,3.97,True
+PRD01433,Nivea Power Bank 461,Phones & Tablets,Power Banks,itel,876.85,716.81,2022-12-02,388,3.29,True
+PRD00145,Lenovo Bag 328,Fashion,Bags,Infinix,136.78,114.97,2022-11-21,209,,True
+PRD00502,Unilever Sportswear 434,Sports & Fitness,Sportswear,GTP,207.67,119.74,2023-05-24,791,4.06,True
+PRD01138,Nestle Men's Clothing 977,Fashion,Men's Clothing,Nestle,397.84,316.99,2024-10-03,459,3.59,True
+PRD00740,Lenovo Footwear 893,Fashion,Footwear,GTP,42.36,24.8,2023-11-23,410,4.26,True
+PRD01436,Hisense Art 248,Books & Stationery,Art,Generic,41.04,24.39,2023-03-05,698,5.0,True
+PRD00869,Kasapreko Phone Accessorie 132,Phones & Tablets,Phone Accessories,Generic,767.82,523.65,2024-09-11,886,3.92,True
+PRD00732,Woodin Smartphone 932,Phones & Tablets,Smartphones,Kasapreko,462.17,388.1,2024-01-08,714,,False
+PRD00540,Nasco Baby Care 646,Baby Products,Baby Care,Nivea,GHS 30.26,18.79,2022-06-04,276,3.01,True
+PRD00178,Woodin Textbook 259,Books & Stationery,Textbooks,Nasco,37.81,23.51,2022-09-03,167,3.08,False
+PRD00608,Fan Milk Tablet 715,Phones & Tablets,Tablets,Dell,5853.52,3689.77,2022-02-28,322,2.95,True
+PRD00698,Woodin Furniture 584,Home & Kitchen,Furniture,GTP,53.91,37.53,13/05/2022,144,,False
+PRD01014,Tecno Art 783,Books & Stationery,Art,Nivea,15.29,10.26,2023-11-06,617,3.62,True
+PRD01085,HP Textbook 157,Books & Stationery,Textbooks,Lenovo,62.7,45.36,2023-10-15,761,4.15,True
+PRD00945,Lenovo Bag 114,Fashion,Bags,Woodin,288.61,167.99,07/06/2024,741,4.0,True
+PRD00971,Hisense Audio 987,Electronics,Audio,Nasco,137.24,106.81,2023-06-23,-5,4.35,True
+PRD01010,HP Footwear 632,Fashion,Footwear,Apple,55.17,40.58,2022-02-07,573,4.23,False
+PRD00008,Midea Beverage 730,Groceries,Beverages,Hisense,GHS 12.55,9.23,2022-05-31,332,3.12,True
+PRD00932,Tecno Bag 121,Fashion,Bags,Dell,530.32,436.87,2023-03-19,756,4.37,True
+PRD00668,GTP Fiction 179,Books & Stationery,Fiction,Fan Milk,114.36,93.15,2024-12-09,647,4.02,True
+PRD01204,Nestle Beverage 618,Groceries,Beverages,Generic,52.91,46.48,2023-12-31,732,2.92,True
+PRD00358,itel Pantry 995,Groceries,Pantry,itel,65.81,52.18,2024-06-07,836,3.88,True
+PRD00784,Puma Supplement 180,Health & Beauty,Supplements,Puma,231.69,147.07,2023-06-14,538,3.92,True
+PRD00736,Infinix Haircare 746,Health & Beauty,Haircare,Fan Milk,344.49,274.15,2022-08-16,725,5.0,True
+PRD00330,Nivea Small Appliance 299,Electronics,Small Appliances,Tecno,217.32,150.79,2022-11-02,387,4.21,True
+PRD01091,Generic Television 769,Electronics,Televisions,Lenovo,913.05,527.96,2024-07-08,96,3.85,True
+PRD01192,Apple Footwear 736,Fashion,Footwear,Tecno,42.52,24.43,2022-03-07,381,4.06,True
+PRD01272,Apple Women's Clothing 478,Fashion,Women's Clothing,Dell,50.26,31.21,2022-04-06,549,4.01,True
+PRD00259,Adidas Power Bank 492,Phones & Tablets,Power Banks,Hisense,"GHS 1,275.94",863.19,"July 17, 2023",57,3.42,True
+PRD00950,Dell Bag 595,Fashion,Bags,Generic,310.27,202.58,"April 18, 2022",182,3.98,True
+PRD01220,Puma Power Bank 508,Phones & Tablets,Power Banks,Tecno,1021.61,624.99,2024-02-26,515,3.8,True
+PRD00373,Woodin Women's Clothing 418,Fashion,Women's Clothing,Puma,83.53,57.26,2022-02-08,286,3.52,True
+PRD01363,Lenovo Supplement 779,Health & Beauty,Supplements,Generic,70.06,52.72,2023-10-16,105,3.47,True
+PRD00999,Adidas Textbook 354,Books & Stationery,Textbooks,Nivea,238.81,187.45,2022-08-29,450,3.34,True
+PRD00143,Nivea Supplement 709,Sports & Fitness,Supplements,Apple,76.53,,2024-05-29,30,3.8,True
+PRD00526,Samsung Women's Clothing 382,Fashion,Women's Clothing,Unilever,195.94,114.56,2022-10-05,547,3.68,True
+PRD01180,Nestle Television 465,Electronics,Televisions,itel,2394.55,1463.56,2022-09-23,465,3.82,True
+PRD00233,Adidas Office Supplie 585,Books & Stationery,Office Supplies,Infinix,48.28,28.13,2022-12-02,38,4.7,True
+PRD01444,Adidas Smartphone 551,Phones & Tablets,Smartphones,Tecno,5854.97,3746.06,2024-09-15,364,2.84,True
+PRD01475,Nivea Furniture 510,Home & Kitchen,Furniture,Adidas,527.58,371.63,2022-01-18,895,4.46,True
+PRD00441,Apple Baby Care 462,Baby Products,Baby Care,Nasco,295.29,240.1,2024-08-09,880,3.55,True
+PRD00532,Nasco Haircare 116,Health & Beauty,Haircare,Adidas,35.81,22.06,2024-05-21,365,,True
+PRD01248,Puma Television 799,Electronics,Televisions,Adidas,706.92,534.4,2023-04-12,753,3.75,False
+PRD00227,Lenovo Tablet 451,Phones & Tablets,Tablets,Puma,1279.42,737.84,29/06/2024,824,2.93,True
+PRD01429,Fan Milk Household 566,Groceries,Household,Apple,GHS 11.51,9.21,"December 05, 2023",147,4.42,True
+PRD00229,Nasco Skincare 361,Health & Beauty,Skincare,Nestle,516.5,324.84,2024-10-28,608,3.37,True
+PRD01328,itel Cookware 279,Home & Kitchen,Cookware,Nestle,209.34,164.73,2023-02-23,621,3.8,True
+PRD01346,Lenovo Haircare 987,Health & Beauty,Haircare,Adidas,32.58,24.55,2022-12-04,327,4.11,True
+PRD00213,Unilever Laptop 226,Computing,Laptops,Hisense,5547.98,,2022-04-02,494,4.2,True
+PRD00886,Nivea Men's Clothing 510,Fashion,Men's Clothing,,519.7,325.43,2023-09-21,176,4.9,False
+PRD00080,Apple Beverage 116,Groceries,Beverages,Infinix,GHS 231.80,167.66,2024-05-18,46,4.92,True
+PRD00149,Samsung Women's Clothing 100,Fashion,Women's Clothing,Lenovo,183.18,130.54,2023-06-10,305,4.05,True
+PRD00815,Fan Milk Storage 326,Computing,Storage,Nasco,827.85,675.06,2023-09-04,178,3.82,True
+PRD00977,Nasco Footwear 201,Fashion,Footwear,Kasapreko,192.78,119.0,2022-06-30,103,4.07,True
+PRD00986,GTP Supplement 307,Sports & Fitness,Supplements,Midea,131.37,111.55,2024-12-16,758,,True
+PRD00672,Dell Furniture 348,Home & Kitchen,Furniture,itel,481.73,384.55,2023-01-01,480,4.45,True
+PRD01199,Midea Television 453,Electronics,Televisions,Nivea,492.06,383.42,2024-02-15,371,2.93,True
+PRD00556,Hisense Audio 186,Electronics,Audio,Samsung,489.64,319.74,2023-06-13,613,3.03,True
+PRD00429,itel Power Bank 775,Phones & Tablets,Power Banks,Unilever,3119.08,,2022-08-30,464,4.02,True
+PRD00134,Hisense Women's Clothing 153,Fashion,Women's Clothing,,336.78,190.01,2024-06-06,597,4.67,True
+PRD01303,Generic Snack 913,Groceries,Snacks,Apple,71.63,55.44,2023-06-19,734,3.9,True
+PRD00934,Adidas Household 109,Groceries,Household,Unilever,89.96,51.38,2024-11-25,519,3.85,True
+PRD01321,Hisense Furniture 754,Home & Kitchen,Furniture,itel,202.04,138.75,10/10/2024,301,4.11,True
+PRD00824,Fan Milk Skincare 792,Health & Beauty,Skincare,Infinix,20.59,17.04,2024-07-24,839,4.24,True
+PRD00409,Unilever Power Bank 132,Phones & Tablets,Power Banks,Midea,304.55,224.59,"May 10, 2022",106,3.95,True
+PRD00369,Nivea Women's Clothing 703,Fashion,Women's Clothing,itel,259.52,222.1,2023-07-26,90,3.91,True
+PRD00508,itel Toy 490,Baby Products,Toys,itel,36.25,28.29,2024-05-15,829,3.96,True
+PRD01227,HP Women's Clothing 831,Fashion,Women's Clothing,Hisense,117.61,91.94,04/09/2023,774,4.18,True
+PRD00505,Woodin Cleaning 257,Home & Kitchen,Cleaning,Hisense,82.15,68.21,2023-05-01,358,3.33,True
+PRD01381,Unilever Men's Clothing 541,Fashion,Men's Clothing,itel,36.95,30.39,2024-04-08,88,2.98,True
+PRD00348,Apple Audio 933,Electronics,Audio,itel,179.46,153.6,2022-07-15,171,3.31,True
+PRD00387,Lenovo Beverage 177,Groceries,Beverages,itel,11.82,8.19,2024-10-03,611,4.45,True
+PRD00001,Kasapreko Household 638,Groceries,Household,Dell,218.28,165.37,2023-02-09,730,4.07,True
+PRD01036,Generic Supplement 955,Health & Beauty,Supplements,Infinix,120.6,,2024-03-12,871,4.12,True
+PRD00361,Adidas Outdoor 794,Sports & Fitness,Outdoor,Nestle,287.36,219.21,2024-05-14,491,3.59,True
+PRD00895,Kasapreko Snack 474,Groceries,Snacks,Apple,110.7,86.65,2022-03-31,200,4.04,True
+PRD00829,itel Outdoor 121,Sports & Fitness,,Lenovo,1402.87,785.08,29/12/2022,294,3.55,False
+PRD01467,Dell Bag 595,Fashion,Bags,Kasapreko,0.0,217.93,2024-01-18,606,5.0,True
+PRD00476,Tecno Small Appliance 839,Electronics,,itel,125.7,105.52,2024-12-16,791,3.85,True
+PRD01329,Lenovo Small Appliance 224,Electronics,Small Appliances,Hisense,3198.56,2770.3,2024-06-05,615,3.74,False
+PRD00058,Samsung Cleaning 566,Home & Kitchen,Cleaning,Unilever,"GHS 1,657.89",1373.92,2024-04-25,400,3.45,False
+PRD00638,Nivea Snack 711,Groceries,Snacks,Nasco,246.08,137.86,2022-12-17,680,3.27,True
+PRD01384,Puma Fiction 839,Books & Stationery,Fiction,Woodin,40.13,28.38,2023-06-05,334,3.95,False
+PRD01089,itel Cleaning 731,Home & Kitchen,Cleaning,Nasco,GHS 214.99,122.22,2024-11-05,608,3.87,True
+PRD00653,HP Fragrance 161,Health & Beauty,Fragrance,Nasco,19.32,11.54,2024-06-25,29,4.39,True
+PRD00173,itel Audio 166,Electronics,Audio,Midea,"GHS 1,925.21",1076.66,2024-02-06,224,4.14,True
+PRD00451,Adidas Power Bank 493,Phones & Tablets,Power Banks,Unilever,GHS 919.69,784.11,2024-09-09,367,4.49,True
+PRD00126,Unilever Cookware 969,Home & Kitchen,Cookware,,48.42,31.52,2024-09-16,213,4.19,False
+PRD00039,Generic Television 574,Electronics,Televisions,GTP,165.21,138.16,2022-10-16,522,,True
+PRD00531,Nivea Haircare 485,Health & Beauty,Haircare,Apple,21.59,18.27,2022-08-06,398,3.98,False
+PRD00858,Samsung Outdoor 132,Sports & Fitness,Outdoor,Lenovo,38.97,29.77,2022-03-09,150,3.48,True
+PRD00714,Unilever Outdoor 108,Sports & Fitness,Outdoor,itel,382.18,237.14,2022-08-27,161,4.05,True
+PRD00091,Generic Printer 818,Computing,Printers,Nivea,9218.83,6578.63,2022-03-12,283,4.31,True
+PRD00414,Samsung Outdoor 913,Sports & Fitness,Outdoor,Unilever,115.47,,2023-05-07,827,4.06,True
+PRD00182,Woodin Sportswear 297,Sports & Fitness,Sportswear,Fan Milk,1519.5,1312.65,2023-03-11,319,3.97,True
+PRD00876,Tecno Sportswear 973,Sports & Fitness,Sportswear,Kasapreko,164.68,127.68,2022-12-02,737,3.17,True
+PRD01050,Lenovo Camera 522,Electronics,Cameras,Dell,177.24,132.21,2023-07-04,583,,True
+PRD00787,Nivea Diaper 825,Baby Products,,HP,761.73,424.04,2022-03-20,434,5.0,True
+PRD00415,itel Power Bank 741,Phones & Tablets,Power Banks,Fan Milk,681.7,588.13,2024-04-27,135,4.07,True
+PRD00252,Tecno Baby Food 157,Baby Products ,Baby Food,Nasco,116.24,89.3,2023-07-02,169,4.1,True
+PRD00070,Adidas Women's Clothing 678,Fashion,Women's Clothing,Generic,80.86,52.67,2023-05-16,135,3.06,True
+PRD00804,Dell Bedding 460,Home & Kitchen,Bedding,Tecno,846.98,531.39,2022-08-14,766,5.0,True
+PRD00132,Adidas Supplement 775,Sports & Fitness,Supplements,Woodin,51.88,42.26,2022-06-25,87,3.85,True
+PRD00301,Midea Beverage 420,Groceries,Beverages,Nestle,15.87,12.78,2023-10-20,294,3.2,True
+PRD01237,Nestle Camera 868,Electronics,Cameras,Nasco,,3531.35,2024-02-27,44,3.96,True
+PRD00327,Kasapreko Snack 108,Groceries,Snacks,Samsung,17.15,13.25,2022-07-07,138,4.38,True
+PRD00434,Generic Baby Food 571,Baby Products,Baby Food,Midea,142.0,94.18,2022-11-18,882,4.03,True
+PRD01351,Infinix Snack 398,Groceries,Snacks,Infinix,GHS 92.60,74.72,"September 08, 2023",898,3.96,True
+PRD00500,Samsung Cleaning 717,Home & Kitchen,Cleaning,Nestle,219.46,137.07,2022-06-22,631,3.96,True
+PRD00342,Hisense Office Supplie 590,Books & Stationery,Office Supplies,,43.75,36.57,2023-09-17,129,3.88,True
+PRD00833,Tecno Men's Clothing 116,Fashion,Men's Clothing,HP,GHS 97.04,68.2,2022-10-16,429,3.97,True
+PRD00365,Dell Skincare 765,Health & Beauty,Skincare,Kasapreko,286.99,160.99,2022-09-26,145,3.48,True
+PRD00496,Lenovo Cookware 371,Home & Kitchen,Cookware,Adidas,69.97,42.83,06/09/2024,819,3.17,True
+PRD01446,Nivea Cleaning 281,Home & Kitchen,Cleaning,Unilever,403.83,326.97,2022-05-05,301,3.81,True
+PRD00339,Dell Phone Accessorie 229,Phones & Tablets,Phone Accessories,Samsung,181.25,102.5,2022-07-19,376,4.9,True
+PRD00422,Samsung Tablet 687,Phones & Tablets,Tablets,Dell,3463.79,2567.01,2023-12-04,294,5.0,True
+PRD00165,GTP Cookware 919,Home & Kitchen,Cookware,Adidas,990.61,723.69,2024-05-17,354,3.0,True
+PRD00029,itel Storage 107,Computing,Storage,Fan Milk,5638.08,3174.2,2022-07-21,826,5.0,True
+PRD00517,Nivea Women's Clothing 679,Fashion,Women's Clothing,Lenovo,210.5,182.33,2024-08-18,192,4.28,True
+PRD00194,Nestle Baby Food 105,Baby Products,,Lenovo,GHS 98.31,62.25,2022-01-20,372,3.91,True
+PRD01034,GTP Gym Equipment 282,Sports & Fitness,Gym Equipment,Midea,55.06,44.13,2023-07-11,149,3.88,True
+PRD01413,Adidas Baby Food 585,Baby Products,Baby Food,Nestle,286.62,242.24,2022-03-18,108,3.55,True
+PRD00946,Nivea Audio 383,Electronics,,,145.23,90.91,2024-07-05,254,4.07,True
+PRD01482,Unilever Smartphone 100,Phones & Tablets,Smartphones,Unilever,3321.8,2479.15,2024-01-10,804,4.69,True
+PRD00170,Kasapreko Office Supplie 249,Books & Stationery,Office Supplies,Adidas,25.63,,2023-11-01,343,4.05,True
+PRD00913,itel Sportswear 116,Sports & Fitness,Sportswear,Apple,463.17,280.9,2024-07-10,325,3.33,True
+PRD00492,Nestle Supplement 355,Health & Beauty,Supplements,Fan Milk,192.01,154.53,"February 21, 2023",214,,True
+PRD00954,Infinix Laptop 234,Computing,Laptops,Apple,9086.03,5285.4,2022-10-26,562,3.92,True
+PRD00588,Nestle Footwear 889,Fashion,Footwear,Unilever,257.46,225.68,2023-12-22,661,4.24,False
+PRD00751,Lenovo Audio 135,Electronics,Audio,HP,4132.95,3102.48,2024-09-26,524,4.45,True
+PRD00658,Midea Audio 166,Electronics,Audio,Woodin,"GHS 7,317.01",5445.15,2023-08-01,348,4.02,True
+PRD00235,Tecno Gym Equipment 130,Sports & Fitness ,,Fan Milk,1163.2,,2024-10-19,640,4.75,True
+PRD00733,GTP Phone Accessorie 761,Phones & Tablets,Phone Accessories,Nestle,376.96,289.55,2024-09-21,89,3.75,False
+PRD01145,Generic Women's Clothing 849,Fashion,Women's Clothing,HP,173.95,100.42,2023-08-14,771,3.02,True
+PRD01274,Dell Cleaning 102,Home & Kitchen,Cleaning,Generic,112.3,84.7,2024-02-03,556,4.62,False
+PRD00935,Puma Snack 266,Groceries,Snacks,Nivea,74.0,59.43,2023-02-10,680,4.63,True
+PRD00109,Tecno Tablet 584,Phones & Tablets,Tablets,Generic,GHS 838.79,544.84,05/08/2022,412,5.0,True
+PRD00569,itel Bag 550,Fashion,Bags,Hisense,133.42,84.57,2022-03-31,596,5.0,True
+PRD00891,Midea Bag 929,Fashion,Bags,Dell,656.45,393.82,2024-11-12,818,4.75,False
+PRD00948,Apple Toy 567,Baby Products,Toys,Puma,136.46,94.23,2024-04-28,561,3.2,True
+PRD01051,Samsung Haircare 829,Health & Beauty,Haircare,Hisense,260.67,227.44,2022-01-22,791,4.46,True
+PRD00885,Nestle Monitor 754,Computing,Monitors,Dell,1491.87,929.16,2024-03-19,212,3.8,False
+PRD01313,Hisense Bedding 102,Home & Kitchen,Bedding,Samsung,307.16,192.6,2023-11-03,507,4.68,True
+PRD00851,Unilever Monitor 426,Computing,Monitors,HP,577.06,352.81,2022-07-19,414,3.94,True
+PRD00735,HP Power Bank 587,Phones & Tablets,Power Banks,Woodin,1547.08,871.93,2024-04-01,381,3.45,True
+PRD00718,Infinix Tablet 932,Phones & Tablets,Tablets,Fan Milk,"GHS 1,478.12",1054.1,2024-03-07,803,3.07,True
+PRD00455,Fan Milk Power Bank 481,Phones & Tablets,Power Banks,Fan Milk,977.0,780.91,"August 12, 2022",769,3.86,True
+PRD00265,Hisense Gym Equipment 607,Sports & Fitness,Gym Equipment,Nivea,268.45,204.67,2022-03-10,432,4.47,True
+PRD00076,HP Television 230,ELECTRONICS,Televisions,Samsung,1185.2,810.84,2023-02-06,463,3.63,True
+PRD00445,Apple Camera 777,Electronics,Cameras,Nestle,304.08,173.4,2022-03-25,809,3.09,True
+PRD00396,Samsung Bag 906,Fashion,Bags,,130.27,77.81,2023-03-27,630,4.09,True
+PRD00177,itel Bag 183,Fashion,Bags,Unilever,195.4,126.38,2022-01-09,83,4.3,True
+PRD01043,Puma Fragrance 758,Health & Beauty,Fragrance,Puma,279.05,174.12,2024-10-30,345,3.87,True
+PRD01359,GTP Haircare 133,Health & Beauty,Haircare,Fan Milk,526.67,,2024-10-13,256,5.0,True
+PRD01092,Hisense Skincare 990,Health & Beauty,Skincare,Unilever,365.76,239.96,2023-10-30,442,4.33,True
+PRD01075,Infinix Diaper 113,Baby Products,Diapers,Hisense,76.83,,2024-12-28,58,4.12,True
+PRD00596,Fan Milk Audio 571,Electronics,Audio,HP,592.99,352.06,28/05/2022,155,3.5,True
+PRD00062,Lenovo Women's Clothing 667,Fashion,Women's Clothing,Woodin,283.29,192.23,07/06/2023,729,4.35,True
+PRD00873,Tecno Fiction 959,Books & Stationery,Fiction,Tecno,329.81,192.07,2023-11-10,754,3.99,True
+PRD01162,Woodin Supplement 118,Health & Beauty,Supplements,GTP,27.37,18.0,2023-09-07,737,4.43,False
+PRD01458,HP Bag 398,Fashion,Bags,Dell,354.82,,2022-07-08,893,3.9,True
+PRD00279,Nivea Supplement 242,Sports & Fitness,Supplements,Generic,30.13,26.17,2023-02-04,704,3.52,True
+PRD00037,Puma Laptop 973,Computing,Laptops,Unilever,5992.35,4582.01,2024-08-13,126,3.49,True
+PRD00663,Hisense Printer 789,Computing,Printers,Woodin,8881.6,5666.84,18/02/2024,648,3.27,True
+PRD01403,Generic Fiction 820,Books & Stationery,Fiction,Samsung,12.19,9.04,2023-09-28,131,3.18,True
+PRD01126,Kasapreko Cleaning 485,Home & Kitchen,Cleaning,Nivea,667.72,441.68,2023-01-15,417,3.75,True
+PRD00978,Puma Footwear 441,Fashion,Footwear,Nivea,168.83,127.8,2022-04-22,883,,True
+PRD00739,GTP Men's Clothing 124,Fashion,Men's Clothing,Adidas,72.13,,2022-08-02,797,4.64,True
+PRD00192,Lenovo Camera 433,ELECTRONICS,Cameras,Unilever,346.13,280.67,2022-05-03,209,4.26,True
+PRD00920,GTP Bedding 482,Home & Kitchen,Bedding,Midea,GHS 712.40,,2023-09-28,94,3.26,True
+PRD00457,HP Art 831,Books & Stationery,Art,Tecno,16.39,12.82,2023-07-01,385,3.89,True
+PRD00676,Nestle Bag 250,Fashion,Bags,Woodin,62.24,54.01,2024-07-28,150,4.61,True
+PRD00761,Nestle Beverage 753,Groceries,Beverages,Kasapreko,236.1,137.97,2023-06-21,891,3.14,True
+PRD01404,Apple Bag 806,Fashion,Bags,Infinix,700.29,569.94,2022-05-18,742,4.55,True
+PRD00729,Infinix Men's Clothing 370,Fashion,Men's Clothing,Dell,858.04,719.57,2024-06-16,766,4.49,True
+PRD00413,Lenovo Phone Accessorie 399,Phones & Tablets,Phone Accessories,itel,343.7,216.65,2022-06-14,700,3.69,True
+PRD00826,Nestle Phone Accessorie 129,Phones & Tablets,Phone Accessories,Tecno,6135.18,4007.94,2023-02-21,817,4.14,True
+PRD00617,itel Pantry 409,Groceries,Pantry,Nivea,85.04,67.87,2023-06-12,712,,True
+PRD00115,Adidas Storage 315,Computing,Storage,Apple,"GHS 4,887.47",3540.28,"May 18, 2022",392,3.4,True
+PRD00418,Hisense Household 189,Groceries,Household,HP,178.39,108.04,2022-10-04,518,3.39,True
+PRD01480,Unilever Women's Clothing 718,Fashion,Women's Clothing,itel,467.33,406.15,2023-12-02,308,4.09,True
+PRD00970,Fan Milk Small Appliance 476,Electronics,Small Appliances,Kasapreko,200.97,130.98,2023-02-02,333,3.6,True
+PRD00605,Nestle Textbook 425,Books & Stationery,Textbooks,Kasapreko,182.82,106.77,2023-06-24,60,3.67,True
+PRD01486,Puma Power Bank 880,Phones & Tablets,Power Banks,Generic,1807.62,1056.45,2023-07-17,323,3.48,True
+PRD00090,Dell Furniture 393,Home & Kitchen,Furniture,Tecno,133.5,103.03,2023-03-09,22,3.42,True
+PRD00849,Nivea Monitor 864,computing,Monitors,Infinix,"GHS 4,451.33",2731.74,2023-12-08,587,3.64,True
+PRD01188,Kasapreko Art 620,Books & Stationery,Art,itel,229.63,201.42,2023-10-02,423,4.48,True
+PRD01485,Fan Milk Haircare 467,Health & Beauty,,Woodin,210.65,127.44,2024-02-22,536,4.19,True
+PRD00754,Fan Milk Footwear 808,Fashion,Footwear,Hisense,546.32,413.19,2024-10-11,642,3.66,True
+PRD00499,Lenovo Bag 404,Fashion,Bags,Nasco,110.19,74.6,2023-06-09,596,4.2,True
+PRD00012,GTP Gym Equipment 206,Sports & Fitness,Gym Equipment,Puma,2443.42,1446.36,2024-07-09,282,4.18,True
+PRD00397,Unilever Diaper 939,Baby Products,Diapers,itel,32.28,18.86,2022-04-13,818,3.65,True
+PRD00285,Unilever Bedding 307,Home & Kitchen,Bedding,Fan Milk,47.32,,2022-10-02,682,4.11,True
+PRD01067,Fan Milk Bag 163,Fashion,Bags,Samsung,87.16,48.61,2024-08-28,347,4.01,True
+PRD00691,Fan Milk Audio 919,Electronics,Audio,Woodin,1016.37,663.38,17/02/2023,827,3.97,True
+PRD01277,Generic Storage 590,Computing,Storage,Kasapreko,3446.54,3014.54,2022-10-04,225,3.53,True
+PRD01455,Puma Bag 251,Fashion,Bags,Unilever,95.65,61.48,29/05/2023,885,3.58,True
+PRD00690,Puma Bedding 400,Home & Kitchen,Bedding,Lenovo,2195.12,1293.66,2023-10-06,255,3.96,True
+PRD00852,Apple Laptop 429,Computing,Laptops,Adidas,GHS 826.08,611.21,2023-05-31,452,4.09,True
+PRD00160,Puma Pantry 415,Groceries,Pantry,Puma,135.97,79.17,2022-04-07,863,4.98,True
+PRD00896,Kasapreko Sportswear 984,Sports & Fitness,Sportswear,Midea,,890.03,2023-11-29,641,4.05,True
+PRD01235,Generic Small Appliance 893,Electronics,Small Appliances,Puma,6003.27,3645.72,21/07/2024,132,4.02,True
+PRD00258,Fan Milk Smartphone 285,Phones & Tablets,Smartphones,,213.33,183.37,2023-08-02,539,3.46,True
+PRD00336,Unilever Haircare 229,Health & Beauty,Haircare,Lenovo,33.76,20.75,2022-12-24,635,3.81,True
+PRD01459,Puma Textbook 638,Books & Stationery,Textbooks,Hisense,29.04,24.09,2023-02-16,683,5.0,True
+PRD01040,Unilever Monitor 396,Computing,Monitors,Infinix,1745.76,1190.46,2024-02-07,367,3.97,True
+PRD00516,Unilever Laptop 465,Computing,Laptops,Apple,5074.85,4375.81,2022-11-28,560,3.91,True
+PRD01016,Adidas Printer 311,Computing,Printers,Apple,1367.07,812.94,2024-01-01,465,4.08,True
+PRD00769,Nasco Power Bank 848,Phones & Tablets,Power Banks,Adidas,313.19,262.8,2023-03-30,12,5.0,True
+PRD01365,Kasapreko Bag 199,Fashion,Bags,Hisense,65.6,42.39,2022-05-07,898,3.73,True
+PRD00762,Unilever Monitor 169,Computing,Monitors,Dell,402.64,324.87,2023-04-03,181,5.0,True
+PRD01143,Hisense Baby Food 858,Baby Products,Baby Food,Nestle,33.21,19.18,2022-06-05,28,3.97,True
+PRD00522,Lenovo Women's Clothing 536,Fashion,Women's Clothing,Adidas,93.24,51.55,2023-06-30,113,3.6,True
+PRD00023,Adidas Textbook 462,Books & Stationery,Textbooks,GTP,44.07,35.51,06/02/2023,359,3.63,True
+PRD00357,HP Pantry 370,Groceries,Pantry,Nivea,150.14,120.18,2023-04-19,165,2.82,True
+PRD01320,Nestle Diaper 560,Baby Products,Diapers,Lenovo,59.19,47.22,2023-04-03,720,4.79,False
+PRD00341,Midea Monitor 534,Computing,Monitors,Apple,507.4,335.45,2022-11-10,470,4.59,True
+PRD00432,Nasco Household 674,Groceries,Household,Hisense,53.26,33.32,2023-03-01,588,3.23,True
+PRD00474,Nestle Monitor 365,Computing,Monitors,Dell,4027.39,2997.5,2022-06-24,161,4.35,True
+PRD00218,Hisense Laptop 863,Computing,Laptops,Puma,505.21,400.08,2024-12-27,542,4.03,True
+PRD00912,Generic Supplement 731,Sports & Fitness,Supplements,Nestle,115.64,88.06,2022-08-09,850,3.66,True
+PRD01287,Tecno Bag 321,Fashion,Bags,itel,GHS 107.17,68.95,2022-02-06,313,4.6,True
+PRD01012,Dell Cookware 280,Home & Kitchen,Cookware,Hisense,353.99,305.6,2023-12-03,889,4.47,True
+PRD01433,Nivea Power Bank 461,Phones & Tablets,Power Banks,itel,1008.38,716.81,2022-12-02,388,3.29,True
+PRD00094,Woodin Footwear 412,Fashion,Footwear,Infinix,GHS 247.50,147.82,2022-09-27,248,4.26,False
+PRD01009,Nestle Pantry 198,Groceries,Pantry,HP,GHS 13.72,9.43,2024-01-29,480,4.07,True
+PRD01071,Hisense Gym Equipment 299,Sports & Fitness,Gym Equipment,Nestle,2230.56,1341.24,2024-09-24,352,4.24,True
+PRD01093,Infinix Audio 350,Electronics,Audio,itel,242.07,188.81,"November 16, 2023",609,,True
+PRD00697,Nasco Pantry 985,Groceries,Pantry,Hisense,12.8,8.62,2024-05-29,120,5.0,True
+PRD01393,Hisense Power Bank 520,Phones & Tablets,Power Banks,Apple,250.12,170.23,17/12/2022,69,5.0,True
+PRD00997,Unilever Supplement 228,Health & Beauty,Supplements,Adidas,104.71,86.63,2024-11-08,500,4.01,False
+PRD00154,Nestle Cookware 935,Home & Kitchen,Cookware,Infinix,781.99,466.49,2024-08-03,833,3.93,True
+PRD01100,Generic Storage 750,Computing,Storage,itel,11686.24,7259.67,2024-08-04,879,3.12,True
+PRD01348,Generic Bag 726,Fashion,Bags,Infinix,328.06,230.63,2023-06-14,461,3.76,True
+PRD00444,Kasapreko Laptop 595,Computing,,Hisense,1680.01,1299.27,2023-04-02,122,4.75,True
+PRD00790,Tecno Haircare 982,Health & Beauty,Haircare,Generic,35.3,19.86,16/07/2024,343,4.69,True
+PRD00581,Puma Furniture 196,HOME & KITCHEN,Furniture,Generic,125.19,104.87,2023-03-17,609,3.17,True
+PRD00704,GTP Supplement 728,Sports & Fitness,Supplements,Adidas,381.61,273.49,2023-02-12,754,4.39,True
+PRD01379,Samsung Supplement 569,Health & Beauty,Supplements,Tecno,147.21,87.54,2024-01-15,357,3.82,True
+PRD00488,Dell Small Appliance 614,Electronics,Small Appliances,Puma,240.42,189.69,2023-01-05,426,3.8,True
+PRD00560,Adidas Cleaning 366,Home & Kitchen,Cleaning,GTP,608.58,344.63,2023-01-22,835,4.71,True
+PRD01120,Nestle Gym Equipment 764,Sports & Fitness,Gym Equipment,Midea,437.23,374.68,2024-07-16,402,4.09,True
+PRD00802,Hisense Bag 490,Fashion,Bags,Hisense,155.28,93.03,2022-01-25,405,3.94,True
+PRD00513,Nivea Smartphone 644,Phones & Tablets,Smartphones,GTP,2133.44,1424.41,2022-01-26,775,3.66,True
+PRD00634,Samsung Bag 583,Fashion,Bags,Kasapreko,82.53,71.07,28/05/2023,331,4.31,True
+PRD01151,Tecno Printer 242,Computing,Printers,Kasapreko,2324.86,1934.73,2023-08-20,107,3.69,True
+PRD01389,Woodin Gym Equipment 713,Sports & Fitness,Gym Equipment,Lenovo,86.75,,2022-08-06,45,4.34,True
+PRD00791,Hisense Audio 578,Electronics,Audio,,8243.44,6652.43,2022-01-12,386,4.05,True
+PRD00117,HP Household 190,Groceries,Household,Woodin,21.52,17.7,2022-07-10,446,3.8,False
+PRD00741,Infinix Tablet 922,Phones & Tablets,Tablets,Nasco,2396.41,1668.62,07/02/2024,560,3.25,True
+PRD01082,Nestle Supplement 954,Sports & Fitness,Supplements,Nasco,329.05,,2024-10-02,200,4.32,True
+PRD00831,Dell Fragrance 488,Health & Beauty,Fragrance,HP,32.73,19.24,2024-02-22,592,4.17,True
+PRD00120,Kasapreko Skincare 599,Health & Beauty,Skincare,Nivea,369.03,279.74,"January 14, 2023",62,4.3,False
+PRD00657,Generic Baby Care 138,Baby Products,Baby Care,HP,742.48,,08/03/2022,540,3.61,True
+PRD01477,Unilever Men's Clothing 655,Fashion,Men's Clothing,Apple,327.36,287.71,2023-06-22,339,3.43,False
+PRD00636,Kasapreko Tablet 171,Phones & Tablets,Tablets,itel,544.97,476.98,16/01/2022,447,4.33,True
+PRD00370,itel Sportswear 292,Sports & Fitness,Sportswear,Unilever,79.12,61.19,2024-07-22,559,4.84,True
+PRD00269,Puma Smartphone 565,Phones & Tablets,Smartphones,Nasco,"GHS 4,920.67",3425.99,2023-04-24,616,3.81,True
+PRD00656,Nestle Men's Clothing 770,Fashion,Men's Clothing,Nasco,55.07,38.41,2023-05-10,760,4.73,True
+PRD00936,Infinix Television 335,Electronics,Televisions,Generic,,598.41,2024-12-01,381,4.34,True
+PRD00823,Midea Small Appliance 173,Electronics,Small Appliances,Dell,2571.68,1620.78,2023-12-06,591,4.73,True
+PRD00867,Woodin Baby Care 123,Baby Products,Baby Care,itel,154.63,116.82,2023-03-13,897,,True
+PRD00047,Fan Milk Bag 701,Fashion,Bags,Apple,44.2,31.37,2023-06-15,829,4.43,True
+PRD01339,Infinix Supplement 717,Sports & Fitness,Supplements,Dell,61.38,47.69,2023-11-24,429,2.77,False
+PRD00992,Nivea Snack 597,Groceries,Snacks,Nestle,189.32,125.65,2023-12-08,759,4.19,True
+PRD00877,Samsung Bag 281,Fashion,Bags,Woodin,GHS 70.18,44.12,2022-01-04,698,4.26,True
+PRD00774,Hisense Diaper 472,Baby Products,Diapers,Fan Milk,728.87,583.32,2022-02-13,516,3.84,True
+PRD01151,Tecno Printer 242,Computing,Printers,Kasapreko,2324.86,1934.73,2023-08-20,107,3.69,True
+PRD00005,itel Power Bank 443,Phones & Tablets,Power Banks,Infinix,479.93,373.51,"November 16, 2022",495,3.46,False
+PRD01004,Generic Storage 873,Computing,Storage,Fan Milk,1058.94,755.64,"April 10, 2022",495,3.05,True
+PRD01350,Lenovo Phone Accessorie 916,Phones & Tablets,Phone Accessories,Unilever,396.07,279.08,2024-10-18,304,3.81,True
+PRD00264,Woodin Storage 396,Computing,Storage,Dell,2640.8,,2022-04-28,29,3.0,False
+PRD01229,Infinix Gym Equipment 361,Sports & Fitness,Gym Equipment,Samsung,61.83,48.25,2024-08-25,855,5.0,True
+PRD01421,Samsung Haircare 724,Health & Beauty,Haircare,Woodin,26.36,15.74,2022-09-02,761,3.21,True
+PRD00444,Kasapreko Laptop 595,Computing,,Hisense,1680.01,1299.27,2023-04-02,122,4.75,True
+PRD01003,Infinix Storage 229,Computing,Storage,Midea,9939.1,8378.44,2024-10-16,164,,True
+PRD01078,Apple Furniture 432,Home & Kitchen,Furniture,Unilever,1226.21,1000.13,2024-03-10,322,4.57,True
+PRD00838,Dell Fiction 653,Books & Stationery,Fiction,HP,,27.78,2023-02-09,850,,True
+PRD01491,Nasco Phone Accessorie 172,Phones & Tablets,Phone Accessories,Infinix,5257.2,4068.85,2021-12-31,216,3.61,True
+PRD00305,Tecno Baby Food 336,Baby Products,Baby Food,Woodin,415.08,,2023-06-26,480,3.93,False
+PRD01271,Samsung Art 694,Books & Stationery,Art,itel,145.18,119.54,2024-11-07,381,3.99,True
+PRD00314,Samsung Women's Clothing 178,Fashion,Women's Clothing,Midea,141.41,83.22,2023-09-26,516,4.71,False
+PRD00150,itel Tablet 594,Phones & Tablets,Tablets,Nivea,566.5,443.57,2024-04-10,449,,True
+PRD01149,Kasapreko Bedding 508,Home & Kitchen,Bedding,Nestle,GHS 49.98,43.04,2022-07-13,587,3.71,True
+PRD00575,GTP Baby Food 471,Baby Products,Baby Food,GTP,135.58,103.8,2023-11-14,676,4.18,True
+PRD00051,Apple Storage 423,Computing,Storage,Generic,4880.09,2926.05,2022-07-29,201,4.2,True
+PRD01246,Nasco Television 605,Electronics,Televisions,Woodin,515.59,400.36,2022-01-21,42,3.94,False
+PRD00727,Dell Television 997,Electronics,Televisions,Midea,129.38,,2023-11-12,143,4.55,True
+PRD00834,Samsung Skincare 726,Health & Beauty,Skincare,Unilever,GHS 26.83,15.17,"August 26, 2024",440,3.99,True
+PRD01116,Unilever Power Bank 979,Phones & Tablets,Power Banks,HP,"GHS 1,686.67",1458.01,2024-12-06,551,4.27,True
+PRD01167,GTP Baby Food 107,Baby Products,Baby Food,itel,482.99,409.84,2024-10-30,403,,True
+PRD00471,Nasco Men's Clothing 524,Fashion,Men's Clothing,GTP,GHS 40.65,29.57,2022-02-02,656,3.94,True
+PRD00972,Hisense Phone Accessorie 126,Phones & Tablets,Phone Accessories,Nivea,GHS 837.29,726.72,2022-03-14,57,3.61,True
+PRD00654,Infinix Small Appliance 198,Electronics,Small Appliances,Midea,3801.34,2728.48,"June 11, 2022",313,,False
+PRD00400,HP Women's Clothing 451,Fashion,Women's Clothing,Nivea,36.42,30.54,2024-06-18,309,3.86,True
+PRD00512,Adidas Toy 115,Baby Products,,Fan Milk,58.4,43.45,28/06/2022,-20,4.59,True
+PRD00321,Puma Supplement 871,Sports & Fitness,Supplements,Tecno,117.96,96.01,2022-10-06,460,3.18,True
+PRD00020,Kasapreko Fragrance 686,Health & Beauty,Fragrance,Dell,563.5,419.3,"April 09, 2024",831,4.92,True
+PRD00685,Tecno Supplement 161,Health & Beauty,Supplements,HP,193.41,116.04,24/11/2024,638,3.86,True
+PRD00036,Nestle Laptop 192,Computing,Laptops,Lenovo,,3288.27,2024-08-19,404,4.19,True
+PRD00903,HP Tablet 403,Phones & Tablets,Tablets,Fan Milk,458.57,294.77,2024-01-25,294,4.04,True
+PRD00828,Infinix Small Appliance 602,Electronics,Small Appliances,Midea,GHS 659.21,495.96,2024-08-19,362,5.0,True
+PRD01396,Apple Laptop 826,Computing,Laptops,,11461.48,6458.26,2024-06-29,697,3.75,True
+PRD00408,Fan Milk Toy 936,Baby Products,Toys,Nestle,48.98,34.34,2022-04-27,880,,True
+PRD00921,Midea Tablet 539,Phones & Tablets,Tablets,itel,2146.69,1386.01,2024-07-28,732,4.0,True
+PRD00538,Generic Monitor 866,Computing,Monitors,Puma,7573.75,4602.37,2023-10-07,343,4.08,True
+PRD00759,Samsung Tablet 761,Phones & Tablets,Tablets,Samsung,1412.33,982.63,2023-01-22,775,3.05,True
+PRD01063,Nestle Small Appliance 470,Electronics,Small Appliances,Midea,121.27,81.97,2022-01-20,-20,5.0,True
+PRD01200,Nasco Pantry 745,Groceries,Pantry,Samsung,50.29,34.38,2024-09-14,86,3.73,True
+PRD00246,Midea Baby Care 359,Baby Products,Baby Care,Kasapreko,399.66,251.48,09/06/2024,125,4.2,True
+PRD01128,Generic Fragrance 823,Health & Beauty,Fragrance,Dell,358.25,248.93,03/09/2023,663,3.88,True
+PRD00785,Lenovo Office Supplie 327,Books & Stationery,Office Supplies,Samsung,199.61,172.11,2023-04-12,475,3.76,True
+PRD00490,Nestle Furniture 888,Home & Kitchen,Furniture,Fan Milk,53.44,40.61,2022-01-16,568,4.37,True
+PRD00155,Tecno Tablet 641,Phones & Tablets,Tablets,Lenovo,361.77,317.89,2022-05-24,300,3.75,True
+PRD00962,Dell Women's Clothing 216,Fashion,Women's Clothing,Infinix,41.48,31.1,2022-07-31,657,4.74,True
+PRD00854,Generic Sportswear 114,Sports & Fitness,Sportswear,Puma,873.43,737.45,2022-12-25,669,4.95,True
+PRD00626,GTP Footwear 862,Fashion,Footwear,Unilever,46.1,25.86,2024-01-14,465,3.58,False
+PRD00686,Adidas Men's Clothing 109,Fashion,Men's Clothing,Apple,57.46,37.45,2024-10-21,478,4.94,True
+PRD00570,Puma Furniture 379,Home & Kitchen,Furniture,Hisense,86.21,48.43,"April 26, 2024",21,4.01,True
+PRD01478,Tecno Textbook 826,Books & Stationery,Textbooks,GTP,98.54,67.48,2023-09-12,533,4.41,True
+PRD00018,Samsung Power Bank 755,Phones & Tablets,Power Banks,GTP,379.54,269.0,2022-09-10,80,3.98,True
+PRD00128,Fan Milk Monitor 375,Computing,Monitors,Unilever,1128.73,989.21,"May 30, 2024",892,3.95,True
+PRD01471,Tecno Outdoor 890,Sports & Fitness,Outdoor,Unilever,60.44,42.6,2024-09-26,397,3.92,True
+PRD00928,Generic Baby Food 190,Baby Products,Baby Food,HP,GHS 284.48,186.8,"May 02, 2024",2,4.6,True
+PRD00981,Infinix Fiction 405,Books & Stationery,Fiction,Dell,31.69,26.09,2024-08-07,876,5.0,True
+PRD01250,Kasapreko Outdoor 366,Sports & Fitness,Outdoor,HP,1492.49,883.53,2023-09-06,169,4.1,True
+PRD00191,Nestle Sportswear 570,Sports & Fitness,Sportswear,HP,531.28,420.11,01/03/2023,41,3.79,True
+PRD01140,Infinix Fragrance 499,Health & Beauty,Fragrance,Kasapreko,GHS 551.10,446.38,2022-10-24,572,4.03,True
+PRD00993,Dell Beverage 780,Groceries,Beverages,HP,45.21,31.99,31/01/2024,403,3.86,True
+PRD01492,Midea Baby Care 289,Baby Products,Baby Care,Nasco,604.27,372.73,17/03/2023,406,3.45,True
+PRD01299,HP Beverage 525,Groceries,Beverages,Generic,,14.85,23/12/2024,699,5.0,True
+PRD00607,Unilever Baby Food 487,Baby Products,Baby Food,Midea,33.88,24.3,2024-12-13,47,4.73,True
+PRD00181,Tecno Gym Equipment 179,Sports & Fitness,Gym Equipment,Kasapreko,1958.49,1435.7,2024-11-01,757,2.48,True
+PRD00302,Unilever Storage 417,Computing,Storage,itel,3888.7,2953.02,2022-06-21,288,3.32,True
+PRD00497,itel Bag 641,Fashion,Bags,Nestle,GHS 94.90,73.09,2023-05-03,170,3.87,True
+PRD01340,Kasapreko Footwear 949,Fashion,Footwear,Adidas,37.8,23.17,2024-03-18,639,,True
+PRD01304,Fan Milk Camera 571,Electronics,Cameras,itel,817.54,499.13,2023-03-03,302,4.22,True
+PRD01284,Woodin Fragrance 297,Health & Beauty,Fragrance,itel,113.82,70.76,2024-09-19,366,3.81,True
+PRD00518,Hisense Beverage 397,Groceries,Beverages,Apple,14.62,11.81,2023-12-03,787,4.05,False
+PRD01070,Infinix Bag 690,Fashion,Bags,Samsung,207.29,134.8,2022-12-02,403,4.5,True
+PRD00477,Lenovo Footwear 631,Fashion,Footwear,Infinix,126.14,98.45,2024-08-24,590,3.96,True
+PRD00158,Fan Milk Fragrance 515,Health & Beauty,Fragrance,Unilever,GHS 16.85,14.03,2022-08-01,209,4.32,True
+PRD01196,Samsung Laptop 939,Computing,Laptops,GTP,8226.78,5762.99,2023-05-18,589,3.62,True
+PRD00017,Woodin Bedding 856,Home & Kitchen,Bedding,Nasco,162.13,97.99,2022-12-19,3,4.62,True
+PRD01073,GTP Men's Clothing 423,Fashion,Men's Clothing,HP,37.74,32.23,2023-06-10,825,3.9,True
+PRD01086,Unilever Household 318,Groceries,Household,Generic,199.99,101.72,2022-08-19,784,3.35,True
+PRD00547,itel Women's Clothing 398,Fashion,Women's Clothing,Kasapreko,111.85,69.8,2022-11-01,599,3.81,True
+PRD00659,Samsung Furniture 219,Home & Kitchen,Furniture,Kasapreko,GHS 32.96,25.04,2024-06-21,307,3.64,True
+PRD01273,Midea Footwear 573,Fashion,Footwear,Generic,174.27,136.24,2024-05-05,207,3.63,True
+PRD01020,Nasco Women's Clothing 133,fashion,Women's Clothing,Nivea,64.19,46.09,2022-06-20,383,3.9,True
+PRD01305,Fan Milk Diaper 647,Baby Products,Diapers,Infinix,GHS 107.54,77.67,2023-12-23,631,,True
+PRD00960,Puma Cleaning 389,Home & Kitchen,Cleaning,Apple,43.1,24.77,2023-04-12,601,2.91,False
+PRD01461,Unilever Beverage 519,Groceries,Beverages,Tecno,35.08,25.39,2022-04-14,133,3.77,False
+PRD00284,Kasapreko Television 655,Electronics,Televisions,Apple,3007.65,2439.65,2024-02-13,529,4.03,True
+PRD00798,Nasco Laptop 826,Computing,Laptops,,311.56,239.27,2022-07-05,514,3.31,True
+PRD00226,Nasco Gym Equipment 371,Sports & Fitness,,Woodin,49.65,32.89,2022-07-15,684,4.59,True
+PRD00027,Fan Milk Men's Clothing 987,Fashion,Men's Clothing,Midea,89.12,74.96,2024-01-28,452,3.98,True
+PRD00438,Hisense Bedding 732,Home & Kitchen,Bedding,HP,"GHS 1,899.71",1569.72,2023-09-09,763,4.21,True
+PRD00889,Lenovo Laptop 589,Computing,Laptops,Apple,199.99,309.3,2022-08-24,412,4.46,True
+PRD00230,itel Tablet 712,Phones & Tablets,Tablets,Midea,5198.53,4056.98,2023-11-15,640,4.01,True
+PRD00038,Adidas Footwear 361,Fashion,Footwear,Nasco,102.91,84.82,2024-08-08,81,3.28,False
+PRD00750,Samsung Baby Care 962,Baby Products,Baby Care,Kasapreko,177.0,102.61,2023-01-07,285,3.97,True
+PRD01046,Fan Milk Women's Clothing 116,Fashion,Women's Clothing,itel,61.62,40.1,2023-10-24,123,4.17,True
+PRD00470,Hisense Bedding 501,Home & Kitchen,Bedding,Apple,61.29,50.14,2022-12-16,758,4.11,True
+PRD01327,Tecno Footwear 208,Fashion,Footwear,Midea,392.32,251.16,2022-11-18,319,3.41,True
+PRD01453,Woodin Toy 137,Baby Products,Toys,Infinix,49.22,30.56,2022-10-24,384,3.98,False
+PRD00688,GTP Art 161,Books & Stationery,Art,Midea,84.66,63.24,2023-08-25,393,3.63,True
+PRD01430,GTP Bag 740,Fashion,Bags,GTP,41.11,30.37,2023-01-28,326,4.49,True
+PRD00640,Samsung Toy 957,Baby Products,Toys,Apple,80.66,45.69,2023-01-22,97,3.25,True
+PRD01343,Adidas Bedding 225,Home & Kitchen,Bedding,Midea,"GHS 2,093.26",1593.41,"January 09, 2023",709,4.58,True
+PRD01219,Dell Supplement 692,Health & Beauty,Supplements,Samsung,331.87,273.1,2022-04-25,349,,True
+PRD01159,Woodin Bag 753,Fashion,Bags,,GHS 813.01,653.36,2024-01-03,580,3.93,True
+PRD00423,itel Power Bank 998,Phones & Tablets,Power Banks,Generic,374.81,,2022-04-22,211,4.3,True
+PRD01415,GTP Laptop 529,Computing,Laptops,HP,2001.42,1404.65,2023-09-16,214,4.08,True
+PRD00801,Nestle Pantry 362,Groceries,Pantry,Generic,31.61,27.75,"April 08, 2023",781,4.47,True
+PRD00161,Nivea Power Bank 410,Phones & Tablets,Power Banks,HP,819.16,569.38,2024-10-28,259,5.0,True
+PRD00957,Unilever Household 755,Groceries,Household,GTP,18.09,15.54,2024-07-05,516,4.46,True
+PRD01187,Adidas Bag 718,Fashion,Bags,Apple,175.29,127.93,2024-03-09,714,4.45,True
+PRD00822,Hisense Cleaning 712,Home & Kitchen,Cleaning,HP,559.32,323.7,2024-03-14,774,3.75,False
+PRD01319,Apple Snack 645,Groceries,Snacks,itel,196.34,114.44,2022-02-03,617,3.19,True
+PRD00878,Dell Bag 725,Fashion,Bags,Adidas,875.46,581.44,2023-07-29,130,,True
+PRD00914,Dell Office Supplie 803,Books & Stationery,Office Supplies,Generic,GHS 250.72,146.13,2022-11-02,796,4.87,True
+PRD00153,Nestle Monitor 692,Computing,Monitors,Nivea,11804.85,10326.7,2023-01-28,675,4.84,True
+PRD01425,Unilever Bag 371,Fashion,Bags,Apple,620.81,484.5,2023-07-10,3,3.89,True
+PRD00510,Generic Phone Accessorie 526,Phones & Tablets,Phone Accessories,itel,400.99,288.3,2024-09-07,314,4.38,True
+PRD01136,Nasco Footwear 240,Fashion,Footwear,Samsung,308.6,261.69,16/08/2022,74,3.16,True
+PRD01251,Lenovo Smartphone 673,Phones & Tablets,Smartphones,,212.53,118.02,2024-04-21,759,4.63,True
+PRD01306,Nasco Sportswear 892,Sports & Fitness,Sportswear,Samsung,472.09,369.49,2024-08-28,161,,True
+PRD00104,itel Fiction 529,Books & Stationery,Fiction,Kasapreko,GHS 274.95,218.97,2023-02-28,-20,4.38,True
+PRD00587,Nasco Storage 972,Computing,Storage,Unilever,1523.18,920.37,20/01/2022,61,3.51,True
+PRD01377,Puma Skincare 698,Health & Beauty,Skincare,Tecno,219.79,136.27,2023-12-28,637,4.36,True
+PRD01144,Unilever Baby Care 578,Baby Products,Baby Care,GTP,130.74,111.48,04/09/2024,236,4.45,True
+PRD00054,Generic Haircare 963,Health & Beauty,Haircare,Midea,424.35,261.62,"November 21, 2024",288,4.28,True
+PRD00152,Kasapreko Outdoor 708,Sports & Fitness,Outdoor,Unilever,815.56,578.66,2024-01-12,356,3.72,True
+PRD00404,Adidas Phone Accessorie 124,Phones & Tablets,Phone Accessories,GTP,229.4,165.98,2022-12-17,63,4.16,False
+PRD00742,Lenovo Tablet 490,Phones & Tablets,Tablets,Nivea,1218.13,873.83,2023-03-31,545,4.41,True
+PRD00208,Apple Supplement 571,Health & Beauty,Supplements,Samsung,51.88,42.97,2024-01-10,223,3.7,True
+PRD01469,Fan Milk Household 919,Groceries,Household,Samsung,73.36,58.81,2022-02-08,408,4.45,True
+PRD01123,HP Diaper 421,Baby Products,Diapers,,37.73,27.42,30/01/2022,442,4.56,True
+PRD01367,Tecno Audio 925,Electronics,Audio,Lenovo,2186.68,1811.19,2022-10-27,773,3.6,True
+PRD00009,Adidas Laptop 121,Computing,Laptops,Puma,,1257.45,2023-02-16,898,2.54,True
+PRD01015,Adidas Men's Clothing 678,Fashion,Men's Clothing,,246.41,200.89,08/12/2022,308,4.28,True
+PRD01395,Nivea Toy 991,Baby Products,Toys,Fan Milk,121.64,72.92,26/11/2022,788,3.37,True
+PRD01061,Woodin Fiction 948,Books & Stationery,Fiction,Tecno,181.59,118.13,12/04/2022,650,3.74,True
+PRD00453,Infinix Fragrance 732,Health & Beauty,Fragrance,Tecno,22.62,18.92,2022-08-18,787,3.56,False
+PRD00254,Apple Television 957,Electronics,Televisions,Infinix,1200.22,927.93,2023-02-03,598,4.31,True
+PRD00897,Dell Small Appliance 150,Electronics,Small Appliances,Midea,1860.14,1185.54,2022-04-30,788,4.01,True
+PRD01357,Fan Milk Bedding 416,Home & Kitchen,Bedding,Apple,27.65,16.79,"August 19, 2024",843,4.03,True
+PRD00881,Kasapreko Footwear 812,Fashion,,Samsung,151.71,90.91,2022-11-29,750,3.07,True
+PRD01465,Hisense Fragrance 506,Health & Beauty,Fragrance,Fan Milk,259.58,212.29,2022-01-03,562,3.82,True
+PRD00624,itel Men's Clothing 495,Fashion,Men's Clothing,itel,165.13,112.22,2024-12-10,641,4.37,True
+PRD00346,Nasco Beverage 771,Groceries,Beverages,GTP,GHS 54.99,38.65,2024-09-15,124,3.87,True
+PRD01335,itel Art 658,Books & Stationery,Art,Generic,204.46,162.29,2024-04-17,506,3.24,True
+PRD00263,Apple Bag 436,Fashion,Bags,itel,105.61,64.3,2024-06-04,93,4.03,True
+PRD00151,Midea Baby Food 314,Baby Products,Baby Food,Midea,257.57,224.53,2024-03-27,417,4.32,True
+PRD00473,Samsung Smartphone 998,Phones & Tablets,Smartphones,Nivea,GHS 420.20,300.36,2022-04-14,497,3.05,True
+PRD00641,Adidas Pantry 787,Groceries,Pantry,Unilever,GHS 57.29,43.3,09/03/2022,734,4.71,True
+PRD00077,Infinix Camera 391,Electronics,Cameras,Samsung,4052.43,2005.09,2022-01-20,541,4.1,True
+PRD01462,Unilever Furniture 655,Home & Kitchen,Furniture,Nasco,1040.77,,17/10/2022,339,4.09,True
+PRD00551,Tecno Men's Clothing 532,Fashion,Men's Clothing,Puma,55.54,32.38,2023-09-20,856,3.67,True
+PRD00929,Kasapreko Cookware 689,Home & Kitchen,Cookware,Nasco,128.34,86.44,2023-04-05,237,4.68,True
+PRD00489,Apple Bedding 575,Home & Kitchen,Bedding,Fan Milk,862.97,677.77,2022-05-27,566,3.84,True
+PRD01408,HP Tablet 727,Phones & Tablets,Tablets,Kasapreko,443.95,370.14,2022-12-18,151,4.31,True
+PRD01172,Generic Household 376,Groceries,Household,Unilever,,31.84,2022-04-08,724,5.0,True
+PRD00147,Adidas Women's Clothing 144,Fashion,Women's Clothing,Puma,57.15,33.07,2022-02-24,746,4.07,True
+PRD00403,Nasco Household 116,Groceries,Household,Fan Milk,53.3,45.87,2023-11-14,756,4.55,True
+PRD00955,Nasco Art 862,Books & Stationery,Art,Midea,GHS 10.84,6.03,2022-11-21,533,3.95,True
+PRD01457,itel Television 355,Electronics,Televisions,Generic,"GHS 4,874.52",3682.88,21/04/2023,106,3.44,True
+PRD00660,Midea Footwear 134,Fashion,Footwear,Infinix,35.62,25.06,2024-09-10,258,3.96,True
+PRD00464,HP Television 290,Electronics,Televisions,Nivea,963.76,554.2,2023-07-30,373,4.89,False
+PRD00187,Hisense Footwear 912,Fashion,Footwear,itel,375.79,307.9,2024-12-08,40,4.46,False
+PRD01148,Infinix Beverage 734,Groceries,Beverages,HP,13.23,11.55,2024-02-24,575,3.93,True
+PRD01225,Nestle Monitor 961,Computing,Monitors,Infinix,342.87,191.92,2023-10-28,209,4.75,True
+PRD00609,Fan Milk Household 856,Groceries,Household,Midea,126.17,74.56,2022-01-18,474,4.68,False
+PRD00144,GTP Furniture 638,Home & Kitchen,Furniture,Adidas,98.37,84.83,2023-01-08,843,3.82,True
+PRD00752,Apple Men's Clothing 149,Fashion,Men's Clothing,Nivea,122.24,91.64,2024-05-24,319,3.46,True
+PRD00982,Nivea Toy 427,Baby Products,Toys,Lenovo,GHS 236.01,173.81,2024-10-14,631,3.74,True
+PRD00198,Nivea Sportswear 542,Sports & Fitness,Sportswear,Adidas,80.02,69.78,2023-10-22,97,4.06,True
+PRD00884,Nivea Bag 792,Fashion,Bags,Apple,281.72,208.18,2024-06-01,162,3.22,True
+PRD00280,Samsung Diaper 523,Baby Products,Diapers,Woodin,371.21,271.4,2023-12-15,6,4.28,True
+PRD00294,Apple Power Bank 484,Phones & Tablets,Power Banks,,4981.98,3360.4,2023-06-07,-5,4.06,True
+PRD01416,Hisense Pantry 759,Groceries,Pantry,Tecno,20.53,16.25,2023-10-06,252,3.89,True
+PRD00401,Apple Television 804,Electronics,Televisions,GTP,3763.17,2990.46,2024-02-28,2,4.81,True
+PRD00123,Apple Power Bank 460,Phones & Tablets,Power Banks,itel,1084.23,600.23,"April 13, 2023",747,4.2,True
+PRD01208,Kasapreko Bedding 810,Home & Kitchen,Bedding,Infinix,1590.99,1344.79,2023-09-29,252,3.91,True
+PRD00203,Kasapreko Furniture 885,Home & Kitchen,Furniture,itel,3489.47,3062.12,2024-08-22,606,3.56,True
+PRD00836,itel Furniture 850,Home & Kitchen,Furniture,Woodin,39.29,32.38,2023-09-06,822,3.46,True
+PRD00247,Nasco Haircare 251,Health & Beauty,Haircare,Lenovo,163.82,118.02,2024-04-15,100,3.91,True
+PRD01474,Infinix Cleaning 746,Home & Kitchen,Cleaning,Puma,86.61,65.71,"June 08, 2024",215,5.0,True
+PRD00429,itel Power Bank 775,Phones & Tablets,Power Banks,Unilever,2712.24,,2022-08-30,464,4.02,True
+PRD01154,Apple Laptop 715,Computing,Laptops,Fan Milk,585.7,448.56,2023-05-08,-20,4.11,True
+PRD00385,itel Footwear 163,Fashion,Footwear,Woodin,48.8,39.64,"June 14, 2022",95,4.75,True
+PRD01371,Hisense Tablet 264,Phones & Tablets,Tablets,Tecno,641.4,517.26,"February 01, 2022",711,3.33,True
+PRD00855,Nestle Camera 612,Electronics,Cameras,Fan Milk,133.13,95.12,13/04/2023,169,3.53,True
+PRD00220,itel Women's Clothing 312,Fashion,Women's Clothing,Adidas,275.61,208.0,2022-12-23,688,4.22,True
+PRD00642,Lenovo Snack 598,Groceries,Snacks,itel,12.04,8.33,2023-06-21,54,3.14,True
+PRD00002,Lenovo Women's Clothing 414,Fashion,Women's Clothing,Infinix,,44.68,2023-11-03,178,4.04,True
+PRD00113,Puma Audio 347,Electronics,Audio,Hisense,3251.79,2647.18,2024-06-02,874,3.61,True
+PRD00699,Nivea Skincare 671,Health & Beauty,Skincare,Generic,30.76,19.72,01/09/2024,187,3.78,True
+PRD01113,HP Fragrance 703,Health & Beauty,Fragrance,Nivea,160.44,129.18,2024-09-08,228,4.85,True
+PRD00952,Nivea Camera 964,Electronics,Cameras,Fan Milk,651.7,518.73,"April 28, 2022",458,3.85,True
+PRD01366,Puma Bedding 890,Home & Kitchen,Bedding,Nasco,,320.84,2022-02-24,610,3.77,True
+PRD01292,itel Supplement 339,Health & Beauty,Supplements,Adidas,GHS 322.19,249.01,2023-08-11,512,3.85,True
+PRD01405,Hisense Laptop 539,Computing,Laptops,itel,3037.14,1747.29,2024-06-07,720,3.98,True
+PRD00442,Hisense Storage 404,Computing,Storage,Adidas,1299.4,876.29,2023-01-25,887,,True
+PRD01137,Nivea Footwear 986,Fashion,Footwear,Fan Milk,405.85,314.09,26/02/2022,869,3.2,True
+PRD01257,Woodin Household 827,Groceries,Household,Unilever,48.91,39.43,2023-12-14,196,4.01,True
+PRD00664,Dell Power Bank 559,Phones & Tablets,Power Banks,Samsung,254.92,186.37,2024-03-13,3,3.57,True
+PRD01424,Samsung Bag 499,Fashion,Bags,Dell,865.67,609.42,2022-09-10,466,3.75,True
+PRD01258,Nasco Baby Food 782,Baby Products,Baby Food,Dell,78.57,46.1,2024-10-30,760,4.48,False
+PRD01380,Nasco Footwear 624,Fashion,Footwear,Infinix,110.35,82.25,2022-08-28,594,,True
+PRD00318,Generic Supplement 190,Health & Beauty,Supplements,Fan Milk,37.57,24.26,2023-05-14,842,3.9,True
+PRD00649,Apple Haircare 149,Health & Beauty,Haircare,GTP,73.78,51.66,2022-09-07,202,4.16,False
+PRD00710,Fan Milk Footwear 813,Fashion,Footwear,Fan Milk,GHS 158.54,94.08,2024-12-28,876,,True
+PRD01283,itel Bag 563,Fashion,Bags,Fan Milk,GHS 259.13,161.75,2023-12-17,525,4.29,False
+PRD00973,Nasco Power Bank 688,Phones & Tablets,Power Banks,Woodin,2211.25,1531.41,2022-09-06,428,3.6,True
+PRD00628,Infinix Phone Accessorie 340,Phones & Tablets,Phone Accessories,Puma,3147.72,2287.11,2023-04-28,571,4.71,True
+PRD00633,Dell Phone Accessorie 305,Phones & Tablets,Phone Accessories,Kasapreko,1890.04,1141.79,2023-02-12,534,3.88,True
+PRD01307,Woodin Bedding 503,Home & Kitchen,Bedding,Adidas,106.27,66.97,2024-06-09,516,4.62,True
+PRD01249,Midea Gym Equipment 193,Sports & Fitness,Gym Equipment,Lenovo,113.5,83.99,2024-04-21,262,4.35,True
+PRD00071,HP Small Appliance 778,Electronics,Small Appliances,Fan Milk,187.7,118.03,2024-07-31,256,3.07,True
+PRD01255,Apple Laptop 262,Computing,Laptops,Infinix,472.28,306.01,2024-10-30,23,3.09,True
+PRD01372,itel Office Supplie 305,Books & Stationery,Office Supplies,Adidas,364.61,226.88,2022-11-30,775,4.29,True
+PRD01355,GTP Outdoor 739,Sports & Fitness,Outdoor,,581.15,456.08,2024-04-18,513,4.09,True
+PRD01493,Hisense Fragrance 666,Health & Beauty,Fragrance,Adidas,22.37,18.29,2022-04-04,600,3.85,True
+PRD01435,Tecno Small Appliance 130,Electronics,Small Appliances,Nestle,507.87,410.21,2023-05-05,499,3.7,True
+PRD00796,Nestle Bag 291,Fashion,Bags,Midea,408.52,258.97,2024-08-26,163,4.43,True
+PRD00646,Adidas Toy 143,Baby Products,Toys,Lenovo,37.98,28.8,2024-03-22,111,3.91,True
+PRD01013,Nasco Bag 880,Fashion,Bags,itel,393.5,312.48,2024-03-31,139,4.46,True
+PRD00557,itel Camera 555,Electronics,Cameras,HP,"GHS 1,305.04",834.33,2024-07-10,147,3.5,True
+PRD00682,Dell Small Appliance 275,Electronics,Small Appliances,Nivea,174.44,105.23,2022-08-27,454,3.47,True
+PRD00578,HP Furniture 355,Home & Kitchen,Furniture,Puma,59.69,39.49,2022-05-20,272,3.71,True
+PRD01110,Nivea Laptop 941,Computing,Laptops,Dell,1334.03,1138.93,08/09/2024,779,3.67,True
+PRD01267,Kasapreko Printer 475,Computing,Printers,Nivea,9391.33,6478.39,2022-12-21,582,4.62,False
+PRD01184,Puma Laptop 134,Computing,Laptops,Lenovo,3828.29,3297.33,2024-01-08,690,4.64,True
+PRD00525,Nivea Power Bank 629,Phones & Tablets,Power Banks,Samsung,1905.6,1434.88,2024-04-08,606,4.49,True
+PRD01060,Nasco Supplement 370,Health & Beauty,Supplements,Adidas,GHS 16.02,11.79,2023-01-04,124,,False
+PRD00541,Lenovo Office Supplie 946,Books & Stationery,Office Supplies,Woodin,241.01,158.95,2022-01-10,525,3.52,True
+PRD01195,Puma Outdoor 792,Sports & Fitness,Outdoor,Samsung,GHS 821.30,513.03,2024-12-09,823,4.73,True
+PRD00749,Adidas Snack 425,Groceries,Snacks,Woodin,36.17,30.86,2024-02-15,796,4.26,True
+PRD01042,Puma Supplement 410,Health & Beauty,Supplements,Unilever,359.18,,2024-12-26,866,3.86,True
+PRD00485,Woodin Phone Accessorie 900,Phones & Tablets,Phone Accessories,itel,1077.13,845.33,2022-05-05,790,,True
+PRD00096,Dell Supplement 146,Health & Beauty,Supplements,Dell,50.26,35.89,2023-08-06,231,4.03,True
+PRD01021,Generic Supplement 541,Sports & Fitness,Supplements,Nestle,1783.77,1525.04,2023-09-25,411,4.13,True
+PRD00564,Fan Milk Fragrance 653,Health & Beauty,Fragrance,Nivea,28.56,16.35,"June 21, 2024",160,4.27,True
+PRD01265,Nivea Bedding 607,Home & Kitchen,Bedding,Samsung,88.17,62.41,"August 17, 2023",613,4.51,False
+PRD00743,GTP Toy 134,Baby Products,Toys,Nestle,63.08,42.39,2023-11-07,755,2.49,True
+PRD00864,Hisense Cookware 178,Home & Kitchen,Cookware,Hisense,45.31,33.29,18/01/2022,795,3.61,True
+PRD00892,HP Fiction 761,Books & Stationery,Fiction,Adidas,80.51,61.51,2022-10-01,229,3.94,True
+PRD01039,Hisense Women's Clothing 310,Fashion,Women's Clothing,GTP,499.77,293.78,2024-06-22,297,3.66,True
+PRD00207,Woodin Printer 936,Computing,Printers,itel,10266.05,6068.8,"September 20, 2024",699,4.13,True
+PRD00393,GTP Cookware 603,Home & Kitchen,Cookware,Lenovo,35.45,30.84,2023-06-29,860,4.34,True
+PRD00795,Generic Tablet 782,Phones & Tablets,Tablets,Woodin,-1.0,153.82,2024-03-29,755,4.47,True
+PRD00871,Fan Milk Beverage 348,Groceries,Beverages,Dell,79.71,59.22,2022-05-16,728,3.65,True
+PRD00398,Unilever Small Appliance 275,Electronics,Small Appliances,Tecno,172.72,148.27,2022-09-16,530,3.59,True
+PRD00767,Infinix Storage 533,Computing,Storage,Dell,GHS 378.34,251.51,2024-09-21,721,3.5,True
+PRD01428,Woodin Smartphone 919,Phones & Tablets,Smartphones,Woodin,236.25,151.49,2023-06-03,542,,False
+PRD01242,Kasapreko Men's Clothing 565,Fashion,Men's Clothing,Samsung,217.17,141.41,2024-03-15,53,4.55,True
+PRD01029,Nivea Beverage 361,Groceries,Beverages,Apple,9.17,5.64,2022-06-24,655,4.05,True
+PRD00643,GTP Power Bank 447,Phones & Tablets,Power Banks,Fan Milk,2982.97,1781.16,2022-01-30,632,4.15,True
+PRD00613,Adidas Office Supplie 900,Books & Stationery,Office Supplies,,113.95,85.38,06/08/2022,544,4.0,True
+PRD00961,Generic Cookware 125,Home & Kitchen,Cookware,Adidas,"GHS 3,407.81",2588.91,2023-12-03,150,4.26,False
+PRD00726,Lenovo Tablet 793,Phones & Tablets,Tablets,HP,3210.72,1766.41,"August 26, 2022",219,3.91,True
+PRD00684,Woodin Women's Clothing 490,Fashion,Women's Clothing,Generic,283.63,223.49,2022-07-18,183,3.7,True
+PRD00099,Midea Tablet 417,Phones & Tablets,Tablets,Nivea,5049.56,4251.67,"November 07, 2023",648,3.67,True
+PRD00805,Woodin Monitor 288,Computing,Monitors,Nivea,4404.53,3002.59,2024-10-05,661,3.02,True
+PRD00407,Nestle Camera 315,Electronics,Cameras,Kasapreko,150.17,87.92,2022-06-02,856,,True
+PRD00503,Unilever Sportswear 756,Sports & Fitness,Sportswear,Unilever,205.33,158.86,2023-06-13,22,4.0,True
+PRD01072,Hisense Fragrance 489,Health & Beauty,Fragrance,Apple,584.34,339.01,08/07/2022,650,3.8,True
+PRD01057,Midea Supplement 276,Sports & Fitness,Supplements,Puma,320.2,258.59,2022-04-16,672,3.74,True
+PRD00930,Midea Pantry 906,Groceries,Pantry,Fan Milk,42.78,32.18,2024-01-01,865,3.4,True
+PRD00780,Woodin Toy 859,Baby Products,Toys,Adidas,,60.57,2024-02-13,505,3.98,True
+PRD00201,Nestle Snack 466,Groceries,Snacks,Adidas,223.85,192.73,27/10/2023,511,3.48,True
+PRD00135,Generic Furniture 721,Home & Kitchen,Furniture,Nivea,55.23,44.91,2023-12-27,433,3.41,False
+PRD01052,Apple Monitor 820,Computing,Monitors,Nestle,4301.85,2454.97,2024-08-23,22,2.48,False
+PRD00041,itel Men's Clothing 479,Fashion,Men's Clothing,itel,464.91,369.12,2022-09-24,221,4.33,True
+PRD01018,Generic Toy 284,Baby Products,Toys,Hisense,24.72,19.15,2022-02-01,341,3.51,True
+PRD00231,Nestle Monitor 829,Computing,Monitors,,540.3,355.41,2021-12-31,245,4.32,True
+PRD00379,Adidas Women's Clothing 307,Fashion,Women's Clothing,Nasco,44.09,32.24,2023-01-01,471,4.28,True
+PRD00289,Puma Bedding 818,Home & Kitchen,Bedding,Apple,42.98,32.42,2022-01-07,389,4.66,True
+PRD00419,Nasco Monitor 511,Computing,Monitors,Samsung,895.27,698.68,2024-03-05,283,4.07,True
+PRD00392,Samsung Monitor 346,Computing,Monitors,HP,617.67,380.44,2024-02-28,134,3.74,True
+PRD00593,Woodin Small Appliance 766,Electronics,Small Appliances,Dell,-1.0,135.16,2023-06-06,13,3.92,True
+PRD01163,Adidas Toy 423,Baby Products,Toys,Fan Milk,86.15,65.55,2023-03-24,237,3.26,False
+PRD01087,Generic Pantry 454,Groceries,Pantry,Midea,19.39,13.16,2024-05-16,584,3.45,True
+PRD00648,Woodin Cleaning 519,Home & Kitchen,Cleaning,Dell,3442.83,2429.03,"July 07, 2022",353,4.99,True
+PRD01153,Woodin Power Bank 510,Phones & Tablets ,Power Banks,Infinix,294.2,188.57,2024-09-09,821,3.95,True
+PRD01368,Unilever Storage 244,computing,Storage,Woodin,7361.32,6058.35,2024-04-12,405,4.62,True
+PRD00521,Tecno Diaper 191,Baby Products,Diapers,Tecno,114.89,92.86,2023-12-09,3,4.61,True
+PRD00065,Adidas Fragrance 743,Health & Beauty,Fragrance,Generic,15.68,9.85,2024-05-31,815,3.62,True
+PRD00015,GTP Men's Clothing 791,Fashion,Men's Clothing,Infinix,82.67,47.83,2024-02-07,609,3.42,True
+PRD01181,Apple Beverage 638,Groceries,Beverages,HP,72.02,58.28,2023-11-01,194,3.91,True
+PRD01065,Dell Bag 216,Fashion,Bags,Hisense,513.92,442.66,2022-09-17,70,4.29,True
+PRD00493,Nasco Supplement 172,health & beauty,Supplements,HP,356.24,284.93,2022-12-24,643,,True
+PRD00380,Dell Pantry 741,Groceries,Pantry,Samsung,72.1,57.53,2022-01-10,363,3.96,True
+PRD00188,Samsung Tablet 789,Phones & Tablets,Tablets,Unilever,1335.02,1050.35,2024-03-27,391,4.4,True
+PRD00764,Nasco Printer 847,Computing,Printers,Adidas,454.05,366.99,2023-11-21,76,4.39,True
+PRD00217,Tecno Laptop 458,Computing,Laptops,Dell,999.2,801.92,2023-12-13,668,2.88,True
+PRD00792,GTP Women's Clothing 375,Fashion,Women's Clothing,Dell,55.21,37.94,2023-09-04,153,4.14,True
+PRD01077,Adidas Furniture 273,Home & Kitchen,Furniture,Samsung,580.82,320.42,2023-09-06,751,4.73,True
+PRD00879,HP Haircare 578,Health & Beauty,Haircare,Generic,154.67,109.99,2024-03-28,156,4.24,True
+PRD00338,Nestle Beverage 857,Groceries,Beverages,Nasco,39.93,30.25,2024-07-06,-5,,True
+PRD00720,Puma Fiction 932,Books & Stationery,Fiction,Tecno,24.26,14.62,2022-08-02,143,4.01,True
+PRD00296,Woodin Gym Equipment 899,Sports & Fitness,Gym Equipment,Lenovo,55.83,43.47,2024-02-26,290,4.18,True
+PRD01017,Infinix Haircare 769,Health & Beauty,Haircare,Dell,87.72,69.66,2024-12-20,483,3.95,True
+PRD01276,Nasco Women's Clothing 862,Fashion,Women's Clothing,Nivea,117.16,72.93,2023-10-10,157,3.79,True
+PRD00456,Dell Monitor 898,Computing,Monitors,Woodin,1752.66,1238.74,2023-07-26,879,4.88,True
+PRD00396,Samsung Bag 906,Fashion,Bags,,130.27,77.81,2023-03-27,630,4.09,True
+PRD00816,Nestle Outdoor 312,Sports & Fitness,Outdoor,Hisense,47.75,41.6,2022-06-08,172,5.0,True
+PRD00270,Lenovo Phone Accessorie 456,Phones & Tablets,Phone Accessories,Kasapreko,471.54,393.44,2024-04-12,876,3.96,True
+PRD00996,Tecno Bag 406,Fashion,Bags,Nasco,468.95,302.99,2023-05-19,838,,True
+PRD00202,Nivea Office Supplie 396,Books & Stationery,Office Supplies,itel,119.95,87.5,2022-07-12,219,,False
+PRD00162,Apple Outdoor 728,Sports & Fitness,Outdoor,Apple,1521.78,1022.71,2024-06-12,385,3.52,True
+PRD00730,Woodin Bedding 112,Home & Kitchen,Bedding,,96.51,84.84,2023-02-22,11,4.2,True
+PRD00402,Woodin Supplement 630,Sports & Fitness,Supplements,GTP,1308.57,980.13,2022-04-11,495,5.0,False
+PRD00703,Lenovo Printer 568,Computing,Printers,Unilever,448.63,259.08,2023-01-24,349,,True
+PRD01130,Lenovo Textbook 341,Books & Stationery,Textbooks,Apple,126.85,76.72,08/11/2022,185,3.27,True
+PRD00566,Woodin Skincare 703,Health & Beauty,Skincare,Infinix,25.27,17.91,2023-11-20,569,3.68,True
+PRD01414,GTP Fiction 738,Books & Stationery,Fiction,Puma,17.97,15.37,2023-03-12,118,3.88,True
+PRD01022,Puma Beverage 645,groceries,Beverages,Generic,10.07,7.7,2023-08-20,164,4.06,True
+PRD01026,HP Audio 481,Electronics,Audio,Midea,244.98,206.46,01/05/2024,494,4.59,True
+PRD01412,GTP Textbook 314,Books & Stationery,Textbooks,Fan Milk,77.58,44.02,2023-01-27,691,4.12,True
+PRD01105,Kasapreko Printer 274,Computing,Printers,Nasco,5289.67,,2023-12-05,485,4.1,True
+PRD00206,Generic Television 990,Electronics,Televisions,itel,313.58,191.63,2023-01-02,255,4.22,True
+PRD00035,Nivea Footwear 815,Fashion,Footwear,Nasco,439.52,351.14,2023-10-11,24,3.43,True
+PRD00776,Nivea Toy 795,Baby Products,Toys,,180.63,,2022-06-11,651,4.65,True
+PRD00509,HP Cookware 438,Home & Kitchen,Cookware,Hisense,97.9,69.9,2023-10-05,309,3.59,True
+PRD01452,Hisense Skincare 908,Health & Beauty,Skincare,Nivea,339.95,217.03,2023-10-10,737,3.04,True
+PRD01479,Dell Cleaning 284,Home & Kitchen,Cleaning,Woodin,3134.4,2647.05,2024-08-19,10,4.65,True
+PRD01282,Puma Bag 822,Fashion,Bags,Nestle,123.05,69.58,2023-03-14,694,5.0,False
+PRD01391,Infinix Sportswear 301,Sports & Fitness,Sportswear,Tecno,359.02,234.93,2023-10-22,166,,True
+PRD00092,GTP Fragrance 209,Health & Beauty,Fragrance,Woodin,408.08,300.62,2022-11-08,725,4.53,True
+PRD01364,Generic Phone Accessorie 858,Phones & Tablets,Phone Accessories,Apple,557.55,475.4,10/12/2024,205,4.04,True
+PRD00898,Nasco Small Appliance 726,Electronics,Small Appliances,Apple,3864.13,2948.82,2024-09-05,200,4.51,True
+PRD00565,Tecno Skincare 137,Health & Beauty,Skincare,Infinix,187.93,,2022-09-28,665,4.22,True
+PRD01370,Lenovo Men's Clothing 175,Fashion,Men's Clothing,Nivea,307.11,178.97,2024-01-15,608,5.0,True
+PRD00777,Puma Supplement 441,Health & Beauty,Supplements,Infinix,134.88,75.65,2022-05-05,568,3.42,True
+PRD00242,Nivea Beverage 783,Groceries,Beverages,Dell,89.0,59.29,2024-03-25,499,4.35,True
+PRD00014,Tecno Toy 153,Baby Products,,GTP,663.52,495.68,2024-12-29,613,3.65,True
+PRD00316,Generic Bag 907,Fashion,Bags,GTP,405.37,242.73,2023-11-09,657,4.45,True
+PRD00601,Kasapreko Bag 562,Fashion,Bags,GTP,49.08,39.98,2024-04-30,897,3.47,True
+PRD00388,Kasapreko Fiction 771,Books & Stationery,Fiction,HP,19.55,17.11,2023-07-02,137,3.93,True
+PRD01298,Adidas Storage 833,Computing,Storage,Nasco,5096.79,4141.34,2024-06-12,791,3.98,True
+PRD00167,Puma Baby Food 450,Baby Products,Baby Food,Lenovo,25.9,17.88,2024-02-05,552,3.72,True
+PRD00841,Woodin Smartphone 251,Phones & Tablets,Smartphones,Hisense,1236.73,984.34,2022-10-03,463,3.62,False
+PRD00021,Fan Milk Beverage 217,Groceries,Beverages,Nasco,11.2,8.13,2024-06-24,166,4.8,True
+PRD00647,Puma Tablet 765,Phones & Tablets,Tablets,Nasco,4746.43,3731.14,2022-07-11,383,4.3,False
+PRD01155,Kasapreko Cookware 612,Home & Kitchen,Cookware,Adidas,173.5,142.22,2023-09-04,456,3.88,True
+PRD00832,Nestle Cookware 700,Home & Kitchen,Cookware,Puma,279.12,233.45,2024-08-13,492,4.24,True
+PRD01268,Dell Fiction 619,Books & Stationery,Fiction,Adidas,276.86,170.09,2022-03-05,137,4.02,True
+PRD00563,Midea Baby Food 761,Baby Products,Baby Food,Nivea,422.06,322.38,2023-01-02,401,4.06,True
+PRD01383,Infinix Cleaning 754,Home & Kitchen,Cleaning,Hisense,604.03,328.08,2023-11-27,71,3.7,True
+PRD00687,Unilever Footwear 762,Fashion,Footwear,Puma,74.08,55.94,2024-03-02,98,3.03,True
+PRD00958,Hisense Cleaning 196,Home & Kitchen,Cleaning,Adidas,1201.39,927.2,23/05/2024,241,,True
+PRD00190,GTP Small Appliance 873,Electronics,Small Appliances,Lenovo,"GHS 2,883.30",2326.12,"May 11, 2023",416,4.58,True
+PRD00976,Nestle Haircare 110,Health & Beauty,Haircare,Tecno,25.22,22.0,2022-11-16,813,3.95,True
+PRD00700,Samsung Audio 538,Electronics,Audio,Adidas,"GHS 3,173.34",2338.05,2023-06-09,480,4.17,True
+PRD01500,Hisense Haircare 364,Health & Beauty,Haircare,Nivea,368.43,262.75,2022-11-16,650,3.95,False
+PRD00511,Unilever Tablet 870,Phones & Tablets,Tablets,Adidas,802.31,692.38,2024-10-05,372,4.12,True
+PRD01083,Dell Gym Equipment 439,Sports & Fitness,Gym Equipment,,351.82,196.97,2022-01-15,468,4.45,True
+PRD00475,Adidas Small Appliance 136,Electronics,Small Appliances,Kasapreko,1556.83,1216.21,2023-03-05,666,4.53,True
+PRD00857,Tecno Pantry 800,Groceries,Pantry,Apple,88.5,56.96,10/11/2024,783,3.85,True
+PRD00748,Unilever Women's Clothing 201,Fashion,Women's Clothing,Kasapreko,193.03,140.85,2024-06-10,15,4.28,True
+PRD00253,Infinix Women's Clothing 255,Fashion,Women's Clothing,Nestle,789.56,539.84,2022-12-04,638,3.82,True
+PRD00022,Woodin Men's Clothing 672,Fashion ,Men's Clothing,Midea,666.73,410.11,2023-03-12,246,4.03,True
+PRD01338,Puma Bedding 801,Home & Kitchen,Bedding,Generic,247.41,161.91,2023-12-08,269,4.14,False
+PRD00460,Tecno Supplement 325,Health & Beauty,Supplements,Midea,51.92,31.91,2024-10-28,544,3.82,True
+PRD01185,Nestle Printer 407,Computing,Printers,,368.13,206.49,2024-05-27,24,4.03,True
+PRD00277,Hisense Women's Clothing 383,Fashion,Women's Clothing,Midea,35.81,24.47,17/09/2022,169,4.32,True
+PRD00956,Dell Outdoor 359,Sports & Fitness,Outdoor,Generic,132.03,88.41,2022-11-13,385,4.69,True
+PRD01216,Fan Milk Cleaning 581,Home & Kitchen,Cleaning,Adidas,43.17,23.75,2023-12-15,806,3.24,True
+PRD00386,Fan Milk Art 583,Books & Stationery,Art,Lenovo,20.16,17.33,05/10/2022,182,3.61,True
+PRD00806,Woodin Storage 876,Computing,Storage,Generic,4671.89,2791.84,2023-08-24,173,3.8,True
+PRD01438,HP Cleaning 789,Home & Kitchen,Cleaning,Tecno,GHS 262.79,169.35,2024-07-08,763,4.07,True
+PRD01269,Nasco Cookware 544,Home & Kitchen,Cookware,,77.61,41.97,2021-12-29,582,3.93,True
+PRD00344,Apple Cookware 354,Home & Kitchen,Cookware,Dell,260.82,155.03,2023-05-06,356,3.87,True
+PRD00770,HP Haircare 854,Health & Beauty,Haircare,Hisense,104.84,68.19,2024-10-14,429,4.42,True
+PRD01333,Kasapreko Cookware 579,Home & Kitchen,Cookware,Dell,701.68,503.32,08/08/2023,686,3.91,True
+PRD00131,Dell Monitor 413,Computing,Monitors,Infinix,2178.35,1566.78,2023-10-31,213,3.84,False
+PRD00872,Fan Milk Smartphone 390,Phones & Tablets,Smartphones,Fan Milk,3722.09,2882.53,2023-08-20,95,4.11,True
+PRD01124,Apple Printer 319,Computing,Printers,Midea,7900.22,4820.24,"January 22, 2022",11,4.02,True
+PRD01397,Puma Cleaning 973,Home & Kitchen,Cleaning,Dell,GHS 26.37,21.23,2024-11-11,527,3.74,True
+PRD00088,Nivea Bag 412,Fashion,Bags,Samsung,62.37,42.27,2024-10-13,834,3.94,False
+PRD01483,Midea Cookware 597,Home & Kitchen,Cookware,Woodin,3256.72,1988.52,2023-02-12,600,5.0,True
+PRD00331,Midea Beverage 668,Groceries,Beverages,Woodin,84.78,51.08,2023-09-30,564,3.8,False
+PRD01239,Lenovo Laptop 454,Computing,Laptops,Infinix,300.5,173.11,2023-09-18,614,4.0,True
+PRD00467,Lenovo Skincare 539,Health & Beauty ,Skincare,Lenovo,GHS 15.34,13.12,06/08/2023,73,3.85,True
+PRD00122,Samsung Haircare 760,Health & Beauty,Haircare,Nasco,18.46,11.04,2023-08-03,493,4.25,True
+PRD01045,Tecno Smartphone 614,Phones & Tablets,Smartphones,Nivea,1320.48,1122.72,2022-06-12,351,,True
+PRD01096,Fan Milk Women's Clothing 205,Fashion,Women's Clothing,Hisense,297.51,216.25,2022-03-07,468,4.16,True
+PRD01131,Woodin Art 582,Books & Stationery,Art,Fan Milk,77.64,61.16,2024-03-07,465,3.54,True
+PRD01295,Generic Men's Clothing 645,Fashion,Men's Clothing,Tecno,54.95,37.96,2024-06-09,727,5.0,True
+PRD00861,Adidas Pantry 327,Groceries,Pantry,Generic,29.95,19.95,2023-07-26,495,3.74,True
+PRD01460,Nestle Footwear 785,Fashion,Footwear,Kasapreko,220.82,145.59,2023-11-21,863,3.44,True
+PRD01127,Apple Cleaning 904,Home & Kitchen,Cleaning,Nestle,46.75,30.31,02/01/2023,308,4.95,True

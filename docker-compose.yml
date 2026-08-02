@@ -1,0 +1,87 @@
+# ---------------------------------------------------------------------------
+# Local streaming stack for the Npontu assignment.
+#
+#   Kafka          broker on localhost:9092        (KRaft mode -- no ZooKeeper)
+#   Elasticsearch  REST API on localhost:9200      (single node, security off)
+#   Kibana         UI on http://localhost:5601     (dashboards over the ES index)
+#
+# Start:   docker compose up -d
+# Status:  docker compose ps
+# Logs:    docker compose logs -f kafka
+# Stop:    docker compose down          (add -v to also delete the data volumes)
+#
+# This is a DEVELOPMENT configuration. Security is disabled and there is a single
+# replica of everything -- appropriate for a local demo, not for production.
+# ---------------------------------------------------------------------------
+services:
+
+  kafka:
+    image: apache/kafka:3.7.0
+    container_name: npontu-kafka
+    ports:
+      - "9092:9092"
+    environment:
+      # --- KRaft: the broker is also the controller, so no ZooKeeper is needed ---
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@localhost:9093
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+
+      # Two listeners: PLAINTEXT for clients, CONTROLLER for internal quorum.
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,CONTROLLER://0.0.0.0:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+
+      # Single-node cluster, so every replication factor must be 1.
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+
+      # Let the producer create the topic on first send.
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      KAFKA_NUM_PARTITIONS: 3
+      CLUSTER_ID: npontu-local-cluster-0001
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/kafka/bin/kafka-topics.sh --bootstrap-server localhost:9092 --list || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+    volumes:
+      - kafka-data:/var/lib/kafka/data
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+    container_name: npontu-elasticsearch
+    ports:
+      - "9200:9200"
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: "false"        # dev only -- no auth, no TLS
+      ES_JAVA_OPTS: "-Xms1g -Xmx1g"          # cap heap so Docker Desktop copes
+      bootstrap.memory_lock: "true"
+    ulimits:
+      memlock: { soft: -1, hard: -1 }
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:9200/_cluster/health | grep -qE '\"status\":\"(green|yellow)\"'"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+    volumes:
+      - es-data:/usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.13.4
+    container_name: npontu-kibana
+    ports:
+      - "5601:5601"
+    environment:
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+volumes:
+  kafka-data:
+  es-data:

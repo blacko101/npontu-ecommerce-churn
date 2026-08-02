@@ -1,0 +1,40 @@
+step,detail,rows_affected
+line_total recomputed,qty * price * (1 - discount),115139
+order_status canonicalised,15 spellings -> 5,62127
+payment_method canonicalised,25 spellings -> 6,60864
+exact duplicate rows dropped,events (double-fired analytics tags),10188
+event_type canonicalised,24 raw values -> 8,8649
+dwell_time out of range -> NaN,"negative or > 10,000s",3436
+placeholders -> NaN,"events (traffic_source, device_type, browser)",3261
+unit_price recovered by join,order_items <- products,2908
+events with unusable timestamp dropped,null or outside window,1916
+exact duplicate rows dropped,order_items,1704
+orphan order_items dropped,order_id absent from cleaned orders (incl. cascade from dropped orders),1657
+total_amount recomputed,subtotal + shipping,1215
+invalid quantity rows dropped,"<=0, >50, or null",1097
+exact duplicate rows dropped,orders,789
+customer_id remapped,orders attached to merged duplicate accounts,732
+region rebuilt from city,"deterministic lookup, no imputation needed",683
+orders with unknown customer_id,dropped,436
+exact duplicate rows dropped,customers,406
+near-duplicate people merged,"same name+DOB, different customer_id",395
+orders outside analysis window,dropped,395
+orders before customer signup,flagged and dropped,387
+income sentinels -> NaN,"-999, -1, 0",380
+placeholders -> NaN,customers (all text columns),363
+placeholders/empty strings -> NaN,reviews,352
+city typos/case fixed,"e.g. 'Acrra'->'Accra', 'KUMASI'->'Kumasi'",317
+delivery_days out of range -> NaN,outside 0-60 days,314
+household_size out of range -> NaN,outside 1-15,294
+discount_pct out of range -> 0,outside 0-100,225
+exact duplicate rows dropped,reviews,224
+conflicting order_id resolved,kept lowest recorded total (conservative),207
+rating out of range -> NaN,outside 1-5,145
+malformed emails -> NaN,failed regex check,90
+future signup_date -> NaT,signup after snapshot,80
+impossible DOB -> NaT,outside 1935-2011,77
+conflicting product_id resolved,"numeric->median, text->first non-null",40
+product price imputed,category median,38
+exact duplicate rows dropped,products,15
+negative stock -> 0,products.stock_quantity,15
+non-positive product price -> NaN,products.unit_price_ghs,9
